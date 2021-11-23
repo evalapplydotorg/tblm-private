@@ -1,0 +1,16 @@
+---
+title: A Woolly Mammoth on the Shore – by Aswin Vijayan
+author: TBLM
+type: post
+date: 2020-07-27T02:56:50+00:00
+year: "2020"
+month: "2020/07"
+url: /?p=1096
+categories:
+  - 2. Poetry
+  - Issue D7 (Indurkar, Vijayan, Lakra)
+
+---
+_To preserve the formatting, the poem has been made available in PDF. Please click_ [here][1] _to access._
+
+ [1]: http://bombayliterarymagazine.com/wp-content/uploads/2020/07/Aswin-TBLM_Poem.pdf
