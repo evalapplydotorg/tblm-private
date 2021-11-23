@@ -1,0 +1,9 @@
+baseURL = "http://bombayliterarymagazine.com/"
+languageCode = "en-us"
+title = "The Bombay Literary Magazine"
+theme = "tblm"
+publishdir = "docs"
+
+[params]
+    author = "TBLM Staff"
+    description = "Published by The Bombay Literary Magazine"
