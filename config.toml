@@ -2,8 +2,22 @@ baseURL = "http://bombayliterarymagazine.com/"
 languageCode = "en-us"
 title = "The Bombay Literary Magazine"
 theme = "tblm"
-publishdir = "docs"
 
 [params]
     author = "TBLM Staff"
     description = "Published by The Bombay Literary Magazine"
+    publisher = "The Bombay Literary Magazine"
+
+[taxonomies]
+    author = "author"           # who wrote the piece?
+    tag = "tags"                # tag the subject matter of the piece love, war, peace, nature
+    category = "category"       # categorise format as prose, poetry, comic
+    genre = "genre"             # the literary genre fiction, nonfiction, scifi, speculative-fiction
+    issue = "issue"             # issue number
+    year = "year"               # to list everything by year
+    month = "month"             # to list everything by year+month
+
+[permalinks]
+    posts = "/posts/:year/:month/:slug"
+    year = "/posts/:slug/"      # workaround to help hugo enumerate posts by year
+    month = "/posts/:slug"      # workaround to help hugo enumerate posts by year+month
