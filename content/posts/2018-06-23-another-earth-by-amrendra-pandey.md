@@ -5,7 +5,7 @@ type: post
 date: 2018-06-23T03:07:37+00:00
 year: "2018"
 month: "2018/06"
-url: /?p=731
+slug: '?p=731'
 category: poetry
 issue: B9
 

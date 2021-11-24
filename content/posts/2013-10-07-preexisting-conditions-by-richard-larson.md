@@ -5,7 +5,7 @@ type: post
 date: 2013-10-07T16:50:55+00:00
 year: "2013"
 month: "2013/10"
-url: /?p=110
+slug: '?p=110'
 category: fiction
 issue: 3
 

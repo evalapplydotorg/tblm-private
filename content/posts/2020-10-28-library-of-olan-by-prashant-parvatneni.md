@@ -5,7 +5,7 @@ type: post
 date: 2020-10-28T03:27:46+00:00
 year: "2020"
 month: "2020/10"
-url: /?p=1128
+slug: '?p=1128'
 category: poetry
 issue: D8
 

@@ -5,7 +5,7 @@ type: post
 date: 2020-01-26T08:27:25+00:00
 year: "2020"
 month: "2020/01"
-url: /?p=979
+slug: '?p=979'
 category: fiction
 issue: D3
 

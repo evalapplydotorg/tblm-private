@@ -5,7 +5,7 @@ type: post
 date: 2018-12-19T02:53:44+00:00
 year: "2018"
 month: "2018/12"
-url: /?p=794
+slug: '?p=794'
 category: fiction
 issue: C3
 

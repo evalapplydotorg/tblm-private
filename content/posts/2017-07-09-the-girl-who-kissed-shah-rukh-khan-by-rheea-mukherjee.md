@@ -5,7 +5,7 @@ type: post
 date: 2017-07-09T01:29:17+00:00
 year: "2017"
 month: "2017/07"
-url: /?p=577
+slug: '?p=577'
 category: fiction
 issue: B2
 

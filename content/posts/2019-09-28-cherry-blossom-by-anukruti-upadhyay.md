@@ -5,7 +5,7 @@ type: post
 date: 2019-09-28T03:11:26+00:00
 year: "2019"
 month: "2019/09"
-url: /?p=908
+slug: '?p=908'
 category: fiction
 issue: C9
 

@@ -5,7 +5,7 @@ type: post
 date: 2018-10-14T04:01:30+00:00
 year: "2018"
 month: "2018/10"
-url: /?p=778
+slug: '?p=778'
 category: poetry
 
 ---

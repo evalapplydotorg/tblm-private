@@ -5,7 +5,7 @@ type: post
 date: 2016-03-19T08:27:49+00:00
 year: "2016"
 month: "2016/03"
-url: /?p=434
+slug: '?p=434'
 category: interviews
 
 ---

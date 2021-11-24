@@ -5,7 +5,7 @@ type: post
 date: 2021-08-01T06:07:27+00:00
 year: "2021"
 month: "2021/08"
-url: /?p=1278
+slug: '?p=1278'
 category: fiction
 issue: E4
 

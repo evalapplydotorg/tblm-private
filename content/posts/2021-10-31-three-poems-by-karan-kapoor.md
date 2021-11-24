@@ -5,7 +5,7 @@ type: post
 date: 2021-10-31T04:56:13+00:00
 year: "2021"
 month: "2021/10"
-url: /?p=1333
+slug: '?p=1333'
 category: poetry
 issue: E5
 

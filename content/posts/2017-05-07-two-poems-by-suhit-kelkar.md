@@ -5,7 +5,7 @@ type: post
 date: 2017-05-07T06:06:28+00:00
 year: "2017"
 month: "2017/05"
-url: /?p=540
+slug: '?p=540'
 category: poetry
 issue: B1
 

@@ -5,7 +5,7 @@ type: post
 date: 2017-12-15T05:34:33+00:00
 year: "2017"
 month: "2017/12"
-url: /?p=635
+slug: '?p=635'
 category: reviews
 issue: B4
 

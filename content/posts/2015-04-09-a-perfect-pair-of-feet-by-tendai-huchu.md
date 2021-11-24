@@ -5,7 +5,7 @@ type: post
 date: 2015-04-09T01:58:10+00:00
 year: "2015"
 month: "2015/04"
-url: /?p=288
+slug: '?p=288'
 category: fiction
 issue: A2
 

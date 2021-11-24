@@ -5,7 +5,7 @@ type: post
 date: 2019-09-28T04:22:41+00:00
 year: "2019"
 month: "2019/09"
-url: /?p=916
+slug: '?p=916'
 category: poetry
 issue: C9
 
