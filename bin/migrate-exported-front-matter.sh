@@ -22,7 +22,16 @@ massage_issue_id() {
     done
 }
 
+add_newline_to_eofs() {
+    local file_name
+    local finame
+    while read file_name
+    do printf "\n" >> "$(realpath ../content/posts/${file_name})"
+    done
+}
+
 # copy_posts
 
 # ls -1 ../content/posts/ | massage_date
-ls -1 ../content/posts/ | massage_issue_id
+# ls -1 ../content/posts/ | massage_issue_id
+ls -1 ../content/posts/ | add_newline_to_eofs
