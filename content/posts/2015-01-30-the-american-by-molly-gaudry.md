@@ -1,6 +1,6 @@
 ---
 title: The American – by Molly Gaudry
-author: TBLM
+author: "Molly Gaudry"
 type: post
 date: 2015-01-30T19:21:50+00:00
 year: "2015"

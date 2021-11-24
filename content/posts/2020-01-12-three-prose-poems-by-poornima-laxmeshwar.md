@@ -1,6 +1,6 @@
 ---
 title: Three prose poems – by Poornima Laxmeshwar
-author: TBLM
+author: "Poornima Laxmeshwar"
 type: post
 date: 2020-01-12T03:49:03+00:00
 year: "2020"

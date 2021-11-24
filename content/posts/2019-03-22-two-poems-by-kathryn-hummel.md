@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Kathryn Hummel
-author: TBLM
+author: "Kathryn Hummel"
 type: post
 date: 2019-03-22T03:53:41+00:00
 year: "2019"

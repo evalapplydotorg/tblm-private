@@ -1,6 +1,6 @@
 ---
 title: Singapore Girl – by Nabina Das
-author: TBLM
+author: "Nabina Das"
 type: post
 date: 2013-06-23T09:52:07+00:00
 year: "2013"

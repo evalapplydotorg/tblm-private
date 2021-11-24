@@ -1,6 +1,6 @@
 ---
 title: Three poems – by Karan Kapoor
-author: TBLM
+author: "Karan Kapoor"
 type: post
 date: 2021-10-31T04:56:13+00:00
 year: "2021"

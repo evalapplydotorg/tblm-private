@@ -1,6 +1,6 @@
 ---
 title: This Place can be Beautiful Again – by Alex Miller
-author: TBLM
+author: "Alex Miller"
 type: post
 date: 2013-06-23T09:53:32+00:00
 year: "2013"

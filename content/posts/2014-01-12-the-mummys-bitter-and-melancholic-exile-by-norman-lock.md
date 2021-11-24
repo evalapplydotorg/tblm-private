@@ -1,6 +1,6 @@
 ---
 title: The Mummy’s Bitter And Melancholy Exile – by Norman Lock
-author: TBLM
+author: "Norman Lock"
 type: post
 date: 2014-01-12T07:29:41+00:00
 year: "2014"

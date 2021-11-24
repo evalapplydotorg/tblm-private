@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Akhil Katyal
-author: TBLM
+author: "Akhil Katyal"
 type: post
 date: 2018-07-15T06:37:35+00:00
 year: "2018"

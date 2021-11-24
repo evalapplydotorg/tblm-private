@@ -1,6 +1,6 @@
 ---
 title: Still in the Cold… and Wet – by Jenean McBrearty
-author: TBLM
+author: "Jenean McBrearty"
 type: post
 date: 2018-12-19T02:53:44+00:00
 year: "2018"

@@ -1,6 +1,6 @@
 ---
 title: //a mug hung around their necks like the curse of Ashwaththama// – by Abhijit Khandkar
-author: TBLM
+author: "Abhijit Khandkar"
 type: post
 date: 2018-02-11T13:32:09+00:00
 year: "2018"

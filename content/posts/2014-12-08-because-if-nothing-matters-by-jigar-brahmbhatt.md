@@ -1,6 +1,6 @@
 ---
 title: Because If Nothing Matters – by Jigar Brahmbhatt
-author: TBLM
+author: "Jigar Brahmbhatt"
 type: post
 date: 2014-12-08T13:43:28+00:00
 year: "2014"

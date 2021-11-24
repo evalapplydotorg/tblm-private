@@ -1,6 +1,6 @@
 ---
 title: Five Poems – by William Doreski
-author: TBLM
+author: "William Doreski"
 type: post
 date: 2020-12-13T06:29:11+00:00
 year: "2020"

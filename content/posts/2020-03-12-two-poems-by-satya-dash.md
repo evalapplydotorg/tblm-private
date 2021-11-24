@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Satya Dash
-author: TBLM
+author: "Satya Dash"
 type: post
 date: 2020-03-12T06:09:58+00:00
 year: "2020"

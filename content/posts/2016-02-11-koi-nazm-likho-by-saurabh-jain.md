@@ -1,6 +1,6 @@
 ---
 title: कोई नज़्म लिखो – by Saurabh Jain
-author: TBLM
+author: "Saurabh Jain"
 type: post
 date: 2016-02-11T12:49:24+00:00
 year: "2016"

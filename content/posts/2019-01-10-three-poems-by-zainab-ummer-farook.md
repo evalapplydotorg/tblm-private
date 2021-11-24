@@ -1,6 +1,6 @@
 ---
 title: Three Poems – by Zainab Ummer Farook
-author: TBLM
+author: "Zainab Ummer Farook"
 type: post
 date: 2019-01-10T03:51:26+00:00
 year: "2019"

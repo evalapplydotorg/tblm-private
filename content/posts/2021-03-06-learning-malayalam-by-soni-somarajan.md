@@ -1,6 +1,6 @@
 ---
 title: Learning Malayalam – by Soni Somarajan
-author: TBLM
+author: "Soni Somarajan"
 type: post
 date: 2021-03-06T02:13:54+00:00
 year: "2021"

@@ -1,6 +1,6 @@
 ---
 title: Found and Lost in Nationalism! – by Mahbub Talukder (tr. Sarwar Morshed)
-author: TBLM
+author: "Mahbub Talukder (tr. Sarwar Morshed)"
 type: post
 date: 2019-06-24T02:08:28+00:00
 year: "2019"

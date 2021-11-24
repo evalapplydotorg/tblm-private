@@ -1,6 +1,6 @@
 ---
 title: Three poems – by Aekta Khubchandani
-author: TBLM
+author: "Aekta Khubchandani"
 type: post
 date: 2021-05-26T01:34:11+00:00
 year: "2021"

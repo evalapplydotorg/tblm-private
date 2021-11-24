@@ -1,6 +1,5 @@
 ---
 title: Threading My Eyebrows in New Orleans – Saheli Khastagir
-author: TBLM
 type: post
 date: 2021-06-19T03:26:45+00:00
 year: "2021"

@@ -1,6 +1,6 @@
 ---
 title: Dead Actors – by Arun Paria
-author: TBLM
+author: "Arun Paria"
 type: post
 date: 2020-05-05T01:07:48+00:00
 year: "2020"

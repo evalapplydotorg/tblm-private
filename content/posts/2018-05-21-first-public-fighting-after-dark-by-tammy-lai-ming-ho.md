@@ -1,6 +1,6 @@
 ---
 title: First Public Fighting, After Dark – by Tammy Lai-Ming Ho
-author: TBLM
+author: "Tammy Lai-Ming Ho"
 type: post
 date: 2018-05-21T12:03:11+00:00
 year: "2018"

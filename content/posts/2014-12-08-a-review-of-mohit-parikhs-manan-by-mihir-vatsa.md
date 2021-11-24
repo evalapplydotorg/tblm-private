@@ -1,6 +1,6 @@
 ---
 title: A Review of Mohit Parikh’s ‘Manan’ – by Mihir Vatsa
-author: TBLM
+author: "Mihir Vatsa"
 type: post
 date: 2014-12-08T15:18:04+00:00
 year: "2014"

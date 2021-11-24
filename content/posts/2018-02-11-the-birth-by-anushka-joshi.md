@@ -1,6 +1,6 @@
 ---
 title: The Birth – by Anushka Joshi
-author: TBLM
+author: "Anushka Joshi"
 type: post
 date: 2018-02-11T13:24:07+00:00
 year: "2018"

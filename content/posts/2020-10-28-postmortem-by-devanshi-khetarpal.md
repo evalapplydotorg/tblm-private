@@ -1,6 +1,6 @@
 ---
 title: Postmortem – by Devanshi Khetarpal
-author: TBLM
+author: "Devanshi Khetarpal"
 type: post
 date: 2020-10-28T03:21:24+00:00
 year: "2020"

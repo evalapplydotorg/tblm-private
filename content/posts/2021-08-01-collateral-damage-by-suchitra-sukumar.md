@@ -1,6 +1,6 @@
 ---
 title: Collateral Damage – by Suchitra Sukumar
-author: TBLM
+author: "Suchitra Sukumar"
 type: post
 date: 2021-08-01T06:25:31+00:00
 year: "2021"

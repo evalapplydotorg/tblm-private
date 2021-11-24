@@ -1,6 +1,6 @@
 ---
 title: Amy and the Question of Before – by Mohit Parikh
-author: TBLM
+author: "Mohit Parikh"
 type: post
 date: 2013-07-10T19:03:38+00:00
 year: "2013"

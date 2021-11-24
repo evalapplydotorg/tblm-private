@@ -1,6 +1,6 @@
 ---
 title: Library of Olan – by Prashant Parvataneni
-author: TBLM
+author: "Prashant Parvataneni"
 type: post
 date: 2020-10-28T03:27:46+00:00
 year: "2020"

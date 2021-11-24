@@ -1,6 +1,5 @@
 ---
 title: Urvashi Bahuguna – interviewed by Sharanya Manivannan
-author: TBLM
 type: post
 date: 2020-01-12T04:05:07+00:00
 year: "2020"

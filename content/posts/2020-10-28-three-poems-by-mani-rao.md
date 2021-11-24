@@ -1,6 +1,6 @@
 ---
 title: Three poems – by Mani Rao
-author: TBLM
+author: "Mani Rao"
 type: post
 date: 2020-10-28T03:19:40+00:00
 year: "2020"

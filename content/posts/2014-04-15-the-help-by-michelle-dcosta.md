@@ -1,6 +1,6 @@
 ---
 title: The Help – by Michelle D’Costa
-author: TBLM
+author: "Michelle D’Costa"
 type: post
 date: 2014-04-15T14:40:55+00:00
 year: "2014"

@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Michael Lauchlan
-author: TBLM
+author: "Michael Lauchlan"
 type: post
 date: 2021-08-01T06:28:02+00:00
 year: "2021"

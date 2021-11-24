@@ -1,6 +1,6 @@
 ---
 title: City Life – by Anirban Nanda
-author: TBLM
+author: "Anirban Nanda"
 type: post
 date: 2017-07-09T03:42:19+00:00
 year: "2017"

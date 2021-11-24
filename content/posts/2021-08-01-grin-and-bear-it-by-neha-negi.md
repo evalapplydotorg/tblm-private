@@ -1,6 +1,6 @@
 ---
 title: Grin and Bear It – by Neha Negi
-author: TBLM
+author: "Neha Negi"
 type: post
 date: 2021-08-01T06:07:27+00:00
 year: "2021"

@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Mihir Chitre
-author: TBLM
+author: "Mihir Chitre"
 type: post
 date: 2015-04-09T02:02:33+00:00
 year: "2015"

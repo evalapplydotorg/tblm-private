@@ -1,6 +1,6 @@
 ---
 title: Dear America – by Emma Mooney
-author: TBLM
+author: "Emma Mooney"
 type: post
 date: 2018-03-11T05:02:06+00:00
 year: "2018"

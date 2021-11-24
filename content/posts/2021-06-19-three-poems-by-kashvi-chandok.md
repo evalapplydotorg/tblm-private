@@ -1,6 +1,6 @@
 ---
 title: Three Poems – by Kashvi Chandok
-author: TBLM
+author: "Kashvi Chandok"
 type: post
 date: 2021-06-19T04:09:16+00:00
 year: "2021"

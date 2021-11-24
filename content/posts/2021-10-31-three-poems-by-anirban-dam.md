@@ -1,6 +1,6 @@
 ---
 title: Three poems – by Anirban Dam
-author: TBLM
+author: "Anirban Dam"
 type: post
 date: 2021-10-31T05:07:38+00:00
 year: "2021"

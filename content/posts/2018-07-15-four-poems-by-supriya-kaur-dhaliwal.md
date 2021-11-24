@@ -1,6 +1,6 @@
 ---
 title: Four Poems – by Supriya Kaur Dhaliwal
-author: TBLM
+author: "Supriya Kaur Dhaliwal"
 type: post
 date: 2018-07-15T06:40:04+00:00
 year: "2018"

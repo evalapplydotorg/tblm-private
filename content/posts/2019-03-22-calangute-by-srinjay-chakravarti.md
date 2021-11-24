@@ -1,6 +1,6 @@
 ---
 title: Calangute – by Srinjay Chakravarti
-author: TBLM
+author: "Srinjay Chakravarti"
 type: post
 date: 2019-03-22T03:50:24+00:00
 year: "2019"

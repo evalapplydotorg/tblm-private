@@ -1,6 +1,6 @@
 ---
 title: 'Wound, Therapy & Vigilance in Sophia Naz’s Poetry – by Uttaran Das Gupta'
-author: TBLM
+author: "Uttaran Das Gupta'"
 type: post
 date: 2017-12-15T05:34:33+00:00
 year: "2017"

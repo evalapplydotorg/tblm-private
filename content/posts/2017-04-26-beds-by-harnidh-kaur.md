@@ -1,6 +1,6 @@
 ---
 title: Beds – by Harnidh Kaur
-author: TBLM
+author: "Harnidh Kaur"
 type: post
 date: 2017-04-26T03:52:30+00:00
 year: "2017"

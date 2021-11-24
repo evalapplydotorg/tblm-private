@@ -1,6 +1,5 @@
 ---
 title: Sharanya Manivannan – interviewed by Tanuj Solanki
-author: TBLM
 type: post
 date: 2016-12-10T15:42:50+00:00
 year: "2016"

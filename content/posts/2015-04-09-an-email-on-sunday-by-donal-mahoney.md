@@ -1,6 +1,6 @@
 ---
 title: An Email on Sunday – by Donal Mahoney
-author: TBLM
+author: "Donal Mahoney"
 type: post
 date: 2015-04-09T02:04:05+00:00
 year: "2015"

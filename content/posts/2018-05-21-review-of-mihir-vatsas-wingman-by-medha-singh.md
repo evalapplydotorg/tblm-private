@@ -1,6 +1,6 @@
 ---
 title: Review of Mihir Vatsa’s WINGMAN – by Medha Singh
-author: TBLM
+author: "Medha Singh"
 type: post
 date: 2018-05-21T11:43:38+00:00
 year: "2018"

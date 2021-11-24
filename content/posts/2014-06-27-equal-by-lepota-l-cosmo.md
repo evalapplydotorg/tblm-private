@@ -1,6 +1,6 @@
 ---
 title: Equal – by Lepota L. Cosmo
-author: TBLM
+author: "Lepota L. Cosmo"
 type: post
 date: 2014-06-27T16:26:24+00:00
 year: "2014"

@@ -1,6 +1,6 @@
 ---
 title: Transit for Beginners – by Rheea Mukherjee
-author: TBLM
+author: "Rheea Mukherjee"
 type: post
 date: 2013-08-11T10:15:41+00:00
 year: "2013"

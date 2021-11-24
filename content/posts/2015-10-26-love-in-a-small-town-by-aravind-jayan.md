@@ -1,6 +1,6 @@
 ---
 title: Love in a Small Town – by Aravind Jayan
-author: TBLM
+author: "Aravind Jayan"
 type: post
 date: 2015-10-26T16:55:58+00:00
 year: "2015"

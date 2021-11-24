@@ -1,6 +1,6 @@
 ---
 title: Three Poems – by Nidhi Krishna
-author: TBLM
+author: "Nidhi Krishna"
 type: post
 date: 2021-08-01T06:56:29+00:00
 year: "2021"

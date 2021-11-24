@@ -1,6 +1,6 @@
 ---
 title: Jeena – by Madiha Khan
-author: TBLM
+author: "Madiha Khan"
 type: post
 date: 2015-07-10T06:25:13+00:00
 year: "2015"

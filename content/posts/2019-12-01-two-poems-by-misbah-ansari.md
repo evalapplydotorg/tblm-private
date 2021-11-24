@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Misbah Ansari
-author: TBLM
+author: "Misbah Ansari"
 type: post
 date: 2019-12-01T04:52:01+00:00
 year: "2019"

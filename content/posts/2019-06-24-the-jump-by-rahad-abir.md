@@ -1,6 +1,6 @@
 ---
 title: The Jump – by Rahad Abir
-author: TBLM
+author: "Rahad Abir"
 type: post
 date: 2019-06-24T02:36:49+00:00
 year: "2019"

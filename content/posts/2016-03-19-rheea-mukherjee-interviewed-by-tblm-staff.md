@@ -1,6 +1,5 @@
 ---
 title: Rheea Mukherjee — interviewed by TBLM Staff
-author: TBLM
 type: post
 date: 2016-03-19T08:27:49+00:00
 year: "2016"

@@ -1,6 +1,6 @@
 ---
 title: Interviewing a Beetroot – by Arjun Rajendran
-author: TBLM
+author: "Arjun Rajendran"
 type: post
 date: 2015-09-13T16:00:59+00:00
 year: "2015"

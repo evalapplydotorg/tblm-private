@@ -1,6 +1,6 @@
 ---
 title: The Last Show – by Dion D’Souza
-author: TBLM
+author: "Dion D’Souza"
 type: post
 date: 2014-05-19T11:57:23+00:00
 year: "2014"

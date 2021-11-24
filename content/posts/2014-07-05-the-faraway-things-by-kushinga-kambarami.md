@@ -1,6 +1,6 @@
 ---
 title: The Faraway Things – by Kushinga Kambarami
-author: TBLM
+author: "Kushinga Kambarami"
 type: post
 date: 2014-07-05T12:25:24+00:00
 year: "2014"

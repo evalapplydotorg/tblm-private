@@ -1,6 +1,6 @@
 ---
 title: The Art of Flight – by Dimitri Keramitas
-author: TBLM
+author: "Dimitri Keramitas"
 type: post
 date: 2015-02-26T15:03:14+00:00
 year: "2015"

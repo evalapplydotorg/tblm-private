@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Priya Narayanan
-author: TBLM
+author: "Priya Narayanan"
 type: post
 date: 2020-06-21T03:12:46+00:00
 year: "2020"

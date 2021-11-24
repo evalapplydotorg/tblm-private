@@ -1,6 +1,6 @@
 ---
 title: Fairytale – by Abhinav Lakra
-author: TBLM
+author: "Abhinav Lakra"
 type: post
 date: 2020-07-27T03:12:50+00:00
 year: "2020"

@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Manjiri Indurkar
-author: TBLM
+author: "Manjiri Indurkar"
 type: post
 date: 2017-12-15T03:55:08+00:00
 year: "2017"

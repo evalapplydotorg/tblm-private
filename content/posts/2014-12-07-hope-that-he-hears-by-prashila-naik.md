@@ -1,6 +1,6 @@
 ---
 title: Hope That He Hears – by Prashila Naik
-author: TBLM
+author: "Prashila Naik"
 type: post
 date: 2014-12-07T16:39:01+00:00
 year: "2014"

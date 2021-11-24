@@ -1,6 +1,6 @@
 ---
 title: The Tourist – by Aravind Jayan
-author: TBLM
+author: "Aravind Jayan"
 type: post
 date: 2014-10-13T04:53:05+00:00
 year: "2014"

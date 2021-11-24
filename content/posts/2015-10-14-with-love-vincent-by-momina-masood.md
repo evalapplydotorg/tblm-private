@@ -1,6 +1,6 @@
 ---
 title: With Love, Vincent – by Momina Masood
-author: TBLM
+author: "Momina Masood"
 type: post
 date: 2015-10-14T17:35:34+00:00
 year: "2015"

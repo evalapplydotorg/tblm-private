@@ -1,6 +1,6 @@
 ---
 title: Death in February – by Huzaifa Pandit
-author: TBLM
+author: "Huzaifa Pandit"
 type: post
 date: 2021-05-25T03:38:56+00:00
 year: "2021"

@@ -53,10 +53,22 @@ slugify_url() {
     done
 }
 
+parse_author_from_title() {
+    # title: How Do I Remember Thee? – by Dion D’Souza
+    local file_name
+    while read file_name
+    do sed -i -E \
+           -e 's;^(title\:.*\s+–\s+(by)?)\s+(.*);\0\nauthor: "\3";' \
+           -e '/^author\: TBLM/d' \
+           "$(realpath ../content/posts/${file_name})"
+    done
+}
+
 # copy_posts
 
 # ls -1 ../content/posts/ | massage_date
 # ls -1 ../content/posts/ | massage_issue_id
 # ls -1 ../content/posts/ | add_newline_to_eofs
 # ls -1 ../content/posts/ | massage_category
-ls -1 ../content/posts/ | slugify_url
+# ls -1 ../content/posts/ | slugify_url
+ls -1 ../content/posts/ | parse_author_from_title

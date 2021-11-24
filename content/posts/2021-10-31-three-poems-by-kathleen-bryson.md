@@ -1,6 +1,6 @@
 ---
 title: Three poems – by Kathleen Bryson
-author: TBLM
+author: "Kathleen Bryson"
 type: post
 date: 2021-10-31T04:49:17+00:00
 year: "2021"

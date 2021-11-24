@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Anirban Dam
-author: TBLM
+author: "Anirban Dam"
 type: post
 date: 2020-03-12T06:12:56+00:00
 year: "2020"

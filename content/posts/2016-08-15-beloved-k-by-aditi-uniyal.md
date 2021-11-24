@@ -1,6 +1,6 @@
 ---
 title: Beloved K – by Aditi Uniyal
-author: TBLM
+author: "Aditi Uniyal"
 type: post
 date: 2016-08-15T11:44:54+00:00
 year: "2016"

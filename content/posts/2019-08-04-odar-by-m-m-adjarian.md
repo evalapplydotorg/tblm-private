@@ -1,6 +1,6 @@
 ---
 title: Odar – by M.M. Adjarian
-author: TBLM
+author: "M.M. Adjarian"
 type: post
 date: 2019-08-04T04:48:55+00:00
 year: "2019"

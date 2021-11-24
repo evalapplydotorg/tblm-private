@@ -1,6 +1,6 @@
 ---
 title: A Woolly Mammoth on the Shore – by Aswin Vijayan
-author: TBLM
+author: "Aswin Vijayan"
 type: post
 date: 2020-07-27T02:56:50+00:00
 year: "2020"

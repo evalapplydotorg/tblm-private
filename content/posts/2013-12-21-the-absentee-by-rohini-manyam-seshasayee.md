@@ -1,6 +1,6 @@
 ---
 title: The Absentee – by Rohini Manyam Seshasayee
-author: TBLM
+author: "Rohini Manyam Seshasayee"
 type: post
 date: 2013-12-21T11:44:07+00:00
 year: "2013"

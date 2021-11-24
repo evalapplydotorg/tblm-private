@@ -1,6 +1,6 @@
 ---
 title: A Sense of Leaving – by Arun Sagar
-author: TBLM
+author: "Arun Sagar"
 type: post
 date: 2017-11-04T09:37:56+00:00
 year: "2017"

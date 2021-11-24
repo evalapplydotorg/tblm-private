@@ -1,6 +1,6 @@
 ---
 title: Three Poems – by Siddharth Dasgupta
-author: TBLM
+author: "Siddharth Dasgupta"
 type: post
 date: 2021-03-06T02:09:33+00:00
 year: "2021"

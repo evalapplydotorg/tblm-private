@@ -1,6 +1,6 @@
 ---
 title: An Amorphous Voyage of Fleeting Seeds – by Rahul Shingrani
-author: TBLM
+author: "Rahul Shingrani"
 type: post
 date: 2014-01-26T12:53:30+00:00
 year: "2014"

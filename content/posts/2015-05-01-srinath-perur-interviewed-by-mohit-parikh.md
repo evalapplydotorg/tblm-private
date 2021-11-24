@@ -1,6 +1,5 @@
 ---
 title: Srinath Perur – interviewed by Mohit Parikh
-author: TBLM
 type: post
 date: 2015-05-01T13:57:50+00:00
 year: "2015"

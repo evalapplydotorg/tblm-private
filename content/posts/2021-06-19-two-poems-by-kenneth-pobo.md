@@ -1,6 +1,6 @@
 ---
 title: Two poems – by Kenneth Pobo
-author: TBLM
+author: "Kenneth Pobo"
 type: post
 date: 2021-06-19T04:14:01+00:00
 year: "2021"

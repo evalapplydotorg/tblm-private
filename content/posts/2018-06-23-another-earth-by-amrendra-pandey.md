@@ -1,6 +1,6 @@
 ---
 title: Another Earth – by Amrendra Pandey
-author: TBLM
+author: "Amrendra Pandey"
 type: post
 date: 2018-06-23T03:07:37+00:00
 year: "2018"

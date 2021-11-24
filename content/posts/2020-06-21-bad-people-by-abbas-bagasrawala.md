@@ -1,6 +1,6 @@
 ---
 title: Bad People – by Abbas Bagasrawala
-author: TBLM
+author: "Abbas Bagasrawala"
 type: post
 date: 2020-06-21T03:04:04+00:00
 year: "2020"

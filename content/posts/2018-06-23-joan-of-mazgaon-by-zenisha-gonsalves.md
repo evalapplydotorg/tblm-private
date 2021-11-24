@@ -1,6 +1,6 @@
 ---
 title: Joan of Mazgaon – by Zenisha Gonsalves
-author: TBLM
+author: "Zenisha Gonsalves"
 type: post
 date: 2018-06-23T03:43:34+00:00
 year: "2018"

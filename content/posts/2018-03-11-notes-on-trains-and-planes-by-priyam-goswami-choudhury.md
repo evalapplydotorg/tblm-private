@@ -1,6 +1,6 @@
 ---
 title: notes on trains and planes – by Priyam Goswami-Choudhury
-author: TBLM
+author: "Priyam Goswami-Choudhury"
 type: post
 date: 2018-03-11T04:54:51+00:00
 year: "2018"

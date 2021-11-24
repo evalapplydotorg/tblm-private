@@ -1,6 +1,6 @@
 ---
 title: Three poems – by Beni Yanthan
-author: TBLM
+author: "Beni Yanthan"
 type: post
 date: 2020-10-28T03:23:07+00:00
 year: "2020"

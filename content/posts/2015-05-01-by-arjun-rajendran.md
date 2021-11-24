@@ -1,6 +1,6 @@
 ---
 title: Two Poems – by Arjun Rajendran
-author: TBLM
+author: "Arjun Rajendran"
 type: post
 date: 2015-05-01T14:44:21+00:00
 year: "2015"

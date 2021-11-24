@@ -1,6 +1,6 @@
 ---
 title: Picked Up Ghazals – by Ranjani Murali
-author: TBLM
+author: "Ranjani Murali"
 type: post
 date: 2018-10-14T03:31:40+00:00
 year: "2018"

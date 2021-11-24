@@ -1,6 +1,6 @@
 ---
 title: Four poems – by Avinab Datta-Areng
-author: TBLM
+author: "Avinab Datta-Areng"
 type: post
 date: 2021-05-25T03:19:48+00:00
 year: "2021"

@@ -1,6 +1,5 @@
 ---
 title: '2014: Year in Reading'
-author: TBLM
 type: post
 date: 2014-12-21T05:21:34+00:00
 year: "2014"

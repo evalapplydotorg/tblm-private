@@ -1,6 +1,6 @@
 ---
 title: Three Poems – by Ankush Banerjee
-author: TBLM
+author: "Ankush Banerjee"
 type: post
 date: 2019-08-04T04:32:22+00:00
 year: "2019"

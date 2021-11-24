@@ -1,6 +1,6 @@
 ---
 title: First Names Matter – by Nikita Parik
-author: TBLM
+author: "Nikita Parik"
 type: post
 date: 2019-05-21T02:52:42+00:00
 year: "2019"

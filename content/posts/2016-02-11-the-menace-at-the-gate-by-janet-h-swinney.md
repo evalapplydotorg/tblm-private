@@ -1,6 +1,6 @@
 ---
 title: The Menace at the Gate – by Janet H. Swinney
-author: TBLM
+author: "Janet H. Swinney"
 type: post
 date: 2016-02-11T12:18:42+00:00
 year: "2016"

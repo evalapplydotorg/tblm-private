@@ -1,6 +1,6 @@
 ---
 title: Canned Life – by Ajay Patri
-author: TBLM
+author: "Ajay Patri"
 type: post
 date: 2017-07-08T09:55:17+00:00
 year: "2017"
