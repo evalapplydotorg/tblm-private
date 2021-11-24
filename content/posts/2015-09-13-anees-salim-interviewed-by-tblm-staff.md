@@ -6,8 +6,7 @@ date: 2015-09-13T15:38:14+00:00
 year: "2015"
 month: "2015/09"
 url: /?p=358
-categories:
-  - 3. Interviews
+category: interviews
 
 ---
 <div id="attachment_359" style="width: 310px" class="wp-caption aligncenter">

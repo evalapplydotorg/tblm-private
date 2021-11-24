@@ -6,8 +6,7 @@ date: 2013-08-24T10:39:43+00:00
 year: "2013"
 month: "2013/08"
 url: /?p=78
-categories:
-  - 1. Fiction
+category: fiction
 issue: 2
 tags:
   - Brahmbhatt

@@ -6,8 +6,7 @@ date: 2016-08-15T11:40:33+00:00
 year: "2016"
 month: "2016/08"
 url: /?p=494
-categories:
-  - 1. Fiction
+category: fiction
 issue: A8
 tags:
   - Bhattathiri

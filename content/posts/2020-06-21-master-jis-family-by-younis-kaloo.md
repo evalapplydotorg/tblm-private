@@ -7,8 +7,7 @@ year: "2020"
 month: "2020/06"
 excerpt: 'Fayaz woke up to the tapping sound on the window, crawled up to it, and drew the curtain aside. The soldiers first pointed the torches at him - to be sure it was him and not any militant - and then quickly turned them back on themselves to waste no time in letting the owner of the house know who they were.'
 url: /?p=1082
-categories:
-  - 1. Fiction
+category: fiction
 issue: D6
 
 ---

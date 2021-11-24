@@ -6,9 +6,7 @@ date: 2016-06-04T13:47:21+00:00
 year: "2016"
 month: "2016/06"
 url: /?p=459
-categories:
-  - 4. Reviews
-  - "Issue A7 (D'Costa, Rabas, D'Souza)"
+category: reviews
 
 ---
 **Notes on Arun Sagar&#8217;s _Anamnesia_  

@@ -6,8 +6,7 @@ date: 2014-12-08T15:18:04+00:00
 year: "2014"
 month: "2014/12"
 url: /?p=227
-categories:
-  - 4. Reviews
+category: reviews
 issue: 8
 
 ---

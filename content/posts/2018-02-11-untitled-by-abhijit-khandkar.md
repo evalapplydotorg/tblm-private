@@ -6,8 +6,7 @@ date: 2018-02-11T13:32:09+00:00
 year: "2018"
 month: "2018/02"
 url: /?p=673
-categories:
-  - 2. Poetry
+category: poetry
 issue: B6
 
 ---

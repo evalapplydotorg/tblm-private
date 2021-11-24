@@ -6,8 +6,7 @@ date: 2018-02-24T17:37:57+00:00
 year: "2018"
 month: "2018/02"
 url: /?p=687
-categories:
-  - 3. Interviews
+category: interviews
 
 ---
 _We first interviewed Sharanya Manivannan after the publication of her short story collection,_ The High Priestess Never Marries_. That interview can be read [here][1]. This interview was done in the light of her recent poetry collection,_ The Altar of the Only World.

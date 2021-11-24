@@ -6,9 +6,7 @@ date: 2014-04-15T14:40:55+00:00
 year: "2014"
 month: "2014/04"
 url: /?p=166
-categories:
-  - 1. Fiction
-  - "Issue 5 (D'Costa, Sayuj, D'Souza)"
+category: fiction
 
 ---
 She aroused interest in Bradley like a sealed envelope could do.

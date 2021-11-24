@@ -6,9 +6,7 @@ date: 2016-06-12T04:20:33+00:00
 year: "2016"
 month: "2016/06"
 url: /?p=470
-categories:
-  - 1. Fiction
-  - "Issue A7 (D'Costa, Rabas, D'Souza)"
+category: fiction
 
 ---
 You cannot believe it is time for her to leave. Fifteen years. Really?

@@ -6,8 +6,7 @@ date: 2021-08-01T06:07:27+00:00
 year: "2021"
 month: "2021/08"
 url: /?p=1278
-categories:
-  - 1. Fiction
+category: fiction
 issue: E4
 
 ---

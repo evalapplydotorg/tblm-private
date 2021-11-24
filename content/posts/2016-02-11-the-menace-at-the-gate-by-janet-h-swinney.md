@@ -6,8 +6,7 @@ date: 2016-02-11T12:18:42+00:00
 year: "2016"
 month: "2016/02"
 url: /?p=407
-categories:
-  - 1. Fiction
+category: fiction
 issue: A6
 
 ---

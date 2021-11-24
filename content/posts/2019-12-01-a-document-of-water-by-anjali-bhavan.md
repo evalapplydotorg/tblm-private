@@ -6,8 +6,7 @@ date: 2019-12-01T05:07:46+00:00
 year: "2019"
 month: "2019/12"
 url: /?p=948
-categories:
-  - 2. Poetry
+category: poetry
 issue: D1
 
 ---

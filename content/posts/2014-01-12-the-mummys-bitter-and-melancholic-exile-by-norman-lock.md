@@ -6,8 +6,7 @@ date: 2014-01-12T07:29:41+00:00
 year: "2014"
 month: "2014/01"
 url: /?p=129
-categories:
-  - 1. Fiction
+category: fiction
 issue: 4
 tags:
   - 30s

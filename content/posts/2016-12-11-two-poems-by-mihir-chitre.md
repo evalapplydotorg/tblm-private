@@ -6,8 +6,7 @@ date: 2016-12-11T07:20:38+00:00
 year: "2016"
 month: "2016/12"
 url: /?p=528
-categories:
-  - 2. Poetry
+category: poetry
 issue: A9
 
 ---

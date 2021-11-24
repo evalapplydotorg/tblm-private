@@ -6,8 +6,7 @@ date: 2015-09-13T16:00:59+00:00
 year: "2015"
 month: "2015/09"
 url: /?p=372
-categories:
-  - 2. Poetry
+category: poetry
 issue: A5
 
 ---

@@ -6,8 +6,7 @@ date: 2014-06-27T16:26:24+00:00
 year: "2014"
 month: "2014/06"
 url: /?p=184
-categories:
-  - 2. Poetry
+category: poetry
 issue: 6
 
 ---

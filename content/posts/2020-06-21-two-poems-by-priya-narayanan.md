@@ -6,8 +6,7 @@ date: 2020-06-21T03:12:46+00:00
 year: "2020"
 month: "2020/06"
 url: /?p=1085
-categories:
-  - 2. Poetry
+category: poetry
 issue: D6
 
 ---

@@ -7,8 +7,7 @@ year: "2019"
 month: "2019/12"
 excerpt: 'Pressing knees to living earth, prostrating, you may see them: cicada shells, molted skins, amber brown and wisp-fragile as if the air shaped their angles, as clouds are sculpted in the wind.'
 url: /?p=929
-categories:
-  - 2. Poetry
+category: poetry
 issue: D1
 
 ---

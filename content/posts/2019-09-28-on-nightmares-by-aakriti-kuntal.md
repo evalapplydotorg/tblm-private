@@ -6,8 +6,7 @@ date: 2019-09-28T04:22:41+00:00
 year: "2019"
 month: "2019/09"
 url: /?p=916
-categories:
-  - 2. Poetry
+category: poetry
 issue: C9
 
 ---

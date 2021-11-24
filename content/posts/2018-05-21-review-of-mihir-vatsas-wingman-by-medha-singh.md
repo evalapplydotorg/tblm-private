@@ -6,9 +6,7 @@ date: 2018-05-21T11:43:38+00:00
 year: "2018"
 month: "2018/05"
 url: /?p=723
-categories:
-  - 2. Poetry
-  - 4. Reviews
+category: reviews
 issue: B8
 
 ---

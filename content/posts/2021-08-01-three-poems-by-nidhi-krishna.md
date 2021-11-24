@@ -6,8 +6,7 @@ date: 2021-08-01T06:56:29+00:00
 year: "2021"
 month: "2021/08"
 url: /?p=1296
-categories:
-  - 2. Poetry
+category: poetry
 issue: E4
 
 ---

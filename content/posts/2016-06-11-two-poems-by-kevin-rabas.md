@@ -6,9 +6,7 @@ date: 2016-06-11T00:10:26+00:00
 year: "2016"
 month: "2016/06"
 url: /?p=466
-categories:
-  - 2. Poetry
-  - "Issue A7 (D'Costa, Rabas, D'Souza)"
+category: poetry
 
 ---
 **Sally on Tambourine  

@@ -6,8 +6,7 @@ date: 2015-07-10T06:33:21+00:00
 year: "2015"
 month: "2015/07"
 url: /?p=342
-categories:
-  - 1. Fiction
+category: fiction
 issue: A4
 
 ---

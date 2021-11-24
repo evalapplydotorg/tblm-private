@@ -6,8 +6,7 @@ date: 2020-01-12T04:05:07+00:00
 year: "2020"
 month: "2020/01"
 url: /?p=960
-categories:
-  - 3. Interviews
+category: interviews
 issue: D2
 
 ---

@@ -6,8 +6,7 @@ date: 2014-12-07T16:39:01+00:00
 year: "2014"
 month: "2014/12"
 url: /?p=221
-categories:
-  - 1. Fiction
+category: fiction
 issue: 8
 
 ---

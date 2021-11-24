@@ -6,9 +6,7 @@ date: 2014-05-19T11:57:23+00:00
 year: "2014"
 month: "2014/05"
 url: /?p=174
-categories:
-  - 1. Fiction
-  - "Issue 5 (D'Costa, Sayuj, D'Souza)"
+category: fiction
 
 ---
 It is quite possible that I took a wrong turn as I was walking down the quiet, dark corridor, fumbling my way out of the building. There was no one behind me, though in all likelihood, that was because most of the other patrons (there had been just a handful in attendance to begin with) had chosen to take the exit to the left. I do not usually watch movies at this theatre, but it was the only one in the vicinity screening this film, and because I very much wanted to watch it, I had travelled here not entirely out of choice. The late evening traffic had ensured that my journey to this part of the suburb was not the smoothest one. However, this was a minor inconvenience for which I had prepared myself.

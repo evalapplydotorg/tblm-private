@@ -6,8 +6,7 @@ date: 2017-07-09T01:29:17+00:00
 year: "2017"
 month: "2017/07"
 url: /?p=577
-categories:
-  - 1. Fiction
+category: fiction
 issue: B2
 
 ---

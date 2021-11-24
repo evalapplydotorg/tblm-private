@@ -6,8 +6,7 @@ date: 2021-05-25T03:07:10+00:00
 year: "2021"
 month: "2021/05"
 url: /?p=1192
-categories:
-  - 2. Poetry
+category: poetry
 issue: E2
 
 ---

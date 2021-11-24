@@ -6,9 +6,7 @@ date: 2018-10-14T11:08:39+00:00
 year: "2018"
 month: "2018/10"
 url: /?p=781
-categories:
-  - 2. Poetry
-  - "Issue C2 (Murali, Iyer, D'costa)"
+category: poetry
 
 ---
 _For Mama  

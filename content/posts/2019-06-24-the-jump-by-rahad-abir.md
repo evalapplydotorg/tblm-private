@@ -6,8 +6,7 @@ date: 2019-06-24T02:36:49+00:00
 year: "2019"
 month: "2019/06"
 url: /?p=859
-categories:
-  - 1. Fiction
+category: fiction
 issue: C7
 
 ---

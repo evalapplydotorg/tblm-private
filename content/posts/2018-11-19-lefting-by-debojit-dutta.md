@@ -6,8 +6,7 @@ date: 2018-11-19T03:13:35+00:00
 year: "2018"
 month: "2018/11"
 url: /?p=788
-categories:
-  - 1. Fiction
+category: fiction
 issue: C3
 
 ---

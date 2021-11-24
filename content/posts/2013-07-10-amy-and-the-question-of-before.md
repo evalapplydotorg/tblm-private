@@ -6,8 +6,7 @@ date: 2013-07-10T19:03:38+00:00
 year: "2013"
 month: "2013/07"
 url: /?p=28
-categories:
-  - 1. Fiction
+category: fiction
 issue: 2
 tags:
   - College

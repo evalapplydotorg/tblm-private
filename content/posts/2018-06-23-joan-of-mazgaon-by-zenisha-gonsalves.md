@@ -6,8 +6,7 @@ date: 2018-06-23T03:43:34+00:00
 year: "2018"
 month: "2018/06"
 url: /?p=741
-categories:
-  - 1. Fiction
+category: fiction
 issue: B9
 
 ---

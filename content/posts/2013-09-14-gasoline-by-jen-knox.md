@@ -6,8 +6,7 @@ date: 2013-09-14T05:54:04+00:00
 year: "2013"
 month: "2013/09"
 url: /?p=87
-categories:
-  - 1. Fiction
+category: fiction
 issue: 3
 
 ---

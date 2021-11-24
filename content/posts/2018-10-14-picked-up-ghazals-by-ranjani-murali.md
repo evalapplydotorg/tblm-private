@@ -6,9 +6,7 @@ date: 2018-10-14T03:31:40+00:00
 year: "2018"
 month: "2018/10"
 url: /?p=768
-categories:
-  - 2. Poetry
-  - "Issue C2 (Murali, Iyer, D'costa)"
+category: poetry
 
 ---
 (To access the poem in its original format, please click [here][1])

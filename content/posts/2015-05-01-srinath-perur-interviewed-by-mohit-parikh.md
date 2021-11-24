@@ -6,8 +6,7 @@ date: 2015-05-01T13:57:50+00:00
 year: "2015"
 month: "2015/05"
 url: /?p=299
-categories:
-  - 3. Interviews
+category: interviews
 issue: A3
 
 ---

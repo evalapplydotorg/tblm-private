@@ -6,8 +6,7 @@ date: 2016-03-19T08:27:49+00:00
 year: "2016"
 month: "2016/03"
 url: /?p=434
-categories:
-  - 3. Interviews
+category: interviews
 
 ---
 [<img src="http://bombayliterarymagazine.com/wp-content/uploads/2016/03/rheea-300x300.jpg" alt="rheea" width="300" height="300" class="aligncenter size-medium wp-image-435" srcset="http://bombayliterarymagazine.com/wp-content/uploads/2016/03/rheea-300x300.jpg 300w, http://bombayliterarymagazine.com/wp-content/uploads/2016/03/rheea-150x150.jpg 150w, http://bombayliterarymagazine.com/wp-content/uploads/2016/03/rheea.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />][1]

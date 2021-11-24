@@ -6,8 +6,7 @@ date: 2021-10-31T04:41:14+00:00
 year: "2021"
 month: "2021/10"
 url: /?p=1329
-categories:
-  - 1. Fiction
+category: fiction
 issue: E5
 
 ---

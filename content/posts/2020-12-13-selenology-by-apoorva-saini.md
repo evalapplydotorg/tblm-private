@@ -6,8 +6,7 @@ date: 2020-12-13T08:19:28+00:00
 year: "2020"
 month: "2020/12"
 url: /?p=1152
-categories:
-  - 1. Fiction
+category: fiction
 issue: D9
 
 ---

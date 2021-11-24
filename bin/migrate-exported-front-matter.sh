@@ -30,8 +30,24 @@ add_newline_to_eofs() {
     done
 }
 
+massage_category() {
+    local file_name
+    while read file_name
+    do sed -i \
+           -E '{N; s/^categories\:\s+\-\s+[[:digit:]]\.\s+(\w+)$/category\: \L\1/ ; P ;  D}' \
+           "$(realpath ../content/posts/${file_name})"
+       sed -i \
+           -E '{N; s/^(category\:\s+(\w+))(\s+\-\s+\"Issue\s+[[:alnum:]]+\s+.*)/\1/ ; P ; D}' \
+           "$(realpath ../content/posts/${file_name})"
+       sed -i \
+           -E '{N; s/^(category\:\s+(\w+))(\s+\-\s+[[:alnum:]]+\.\s+Reviews*)/category\: reviews/ ; P ; D}' \
+           "$(realpath ../content/posts/${file_name})"
+    done
+}
+
 # copy_posts
 
 # ls -1 ../content/posts/ | massage_date
 # ls -1 ../content/posts/ | massage_issue_id
-ls -1 ../content/posts/ | add_newline_to_eofs
+# ls -1 ../content/posts/ | add_newline_to_eofs
+ls -1 ../content/posts/ | massage_category
