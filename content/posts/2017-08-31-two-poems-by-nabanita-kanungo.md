@@ -8,7 +8,7 @@ month: "2017/08"
 url: /?p=596
 categories:
   - 2. Poetry
-  - Issue B3 (Kanungo, Bagasrawala, Sagar)
+issue: B3
 
 ---
 SEASON

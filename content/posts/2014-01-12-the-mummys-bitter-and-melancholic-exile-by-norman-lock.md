@@ -8,7 +8,7 @@ month: "2014/01"
 url: /?p=129
 categories:
   - 1. Fiction
-  - Issue 4 (Seshasayee, Lock, Shingrani)
+issue: 4
 tags:
   - 30s
   - Lock

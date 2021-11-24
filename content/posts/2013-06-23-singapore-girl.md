@@ -8,7 +8,7 @@ month: "2013/06"
 url: /?p=18
 categories:
   - 1. Fiction
-  - Issue 1 (Miller, Das, Brahmbhatt)
+issue: 1
 tags:
   - Das
   - Delhi

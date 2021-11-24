@@ -8,7 +8,7 @@ month: "2021/03"
 url: /?p=1166
 categories:
   - 1. Fiction
-  - Issue E1 (Singh, Dasgupta, Somarajan)
+issue: E1
 
 ---
 Back then Papa and I would hop across rocks and boulders along the Tirthan River every morning, with our fishing rods in hand—he had a sleek fly rod and I had an amateur’s spinner. He had just started me on fishing, and we did our lessons before I walked with Madhu to school.

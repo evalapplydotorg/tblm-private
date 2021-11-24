@@ -8,7 +8,7 @@ month: "2015/04"
 url: /?p=293
 categories:
   - 2. Poetry
-  - Issue A2 (Huchu, Chitre, Mahoney)
+issue: A2
 
 ---
 **An Email on Sunday  

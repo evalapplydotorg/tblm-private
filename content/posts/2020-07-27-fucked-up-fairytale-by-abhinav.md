@@ -8,7 +8,7 @@ month: "2020/07"
 url: /?p=1106
 categories:
   - 2. Poetry
-  - Issue D7 (Indurkar, Vijayan, Lakra)
+issue: D7
 
 ---
 **Fairytale**

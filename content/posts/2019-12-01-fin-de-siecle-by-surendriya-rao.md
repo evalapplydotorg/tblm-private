@@ -9,7 +9,7 @@ excerpt: 'Pressing knees to living earth, prostrating, you may see them: cicada 
 url: /?p=929
 categories:
   - 2. Poetry
-  - Issue D1 (Rao, Ansari, Bhavan)
+issue: D1
 
 ---
 (_To preserve the format of the poem, we have made it available in a PDF document._ __Please click_ [here][1] _to access.)__

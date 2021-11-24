@@ -8,7 +8,7 @@ month: "2015/02"
 url: /?p=271
 categories:
   - 2. Poetry
-  - Issue A1 (Keramitas, Garni, Sarraju)
+issue: A1
 
 ---
 **I (or The End Of Life)  

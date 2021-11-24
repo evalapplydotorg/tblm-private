@@ -13,6 +13,16 @@ massage_date() {
     done
 }
 
-copy_posts
+massage_issue_id() {
+    local file_name
+    while read file_name
+    do sed -i -E \
+           "s;^\s+\-\s+(Issue)\s+([[:alnum:]]?[[:digit:]])\s+(\(.*\));issue: \2;" \
+           "$(realpath ../content/posts/${file_name})"
+    done
+}
 
-ls -1 ../content/posts/ | massage_date
+# copy_posts
+
+# ls -1 ../content/posts/ | massage_date
+ls -1 ../content/posts/ | massage_issue_id

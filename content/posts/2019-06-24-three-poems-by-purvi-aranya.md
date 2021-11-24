@@ -8,7 +8,7 @@ month: "2019/06"
 url: /?p=861
 categories:
   - 2. Poetry
-  - Issue C7 (Aranya, Abir, Talukder)
+issue: C7
 
 ---
 _To preserve the format of these poems, we have made them available as PDF._  

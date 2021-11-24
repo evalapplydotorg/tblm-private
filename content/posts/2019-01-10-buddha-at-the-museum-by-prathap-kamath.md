@@ -8,7 +8,7 @@ month: "2019/01"
 url: /?p=810
 categories:
   - 2. Poetry
-  - Issue C4 (Chadha, Ummer Farook, Kamath)
+issue: C4
 
 ---
 _From a schoolgirl&#8217;s diary_

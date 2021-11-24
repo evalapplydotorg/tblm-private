@@ -8,7 +8,7 @@ month: "2021/10"
 url: /?p=1341
 categories:
   - 1. Fiction
-  - Issue E5 (Brahmbhatt, Iyer, Bryson, Kapoor, Shetty, Dam)
+issue: E5
 
 ---
 (_To preserve the format of the short story, we have made it available in a PDF document._ __Please click_ [here][1] _to access.)__

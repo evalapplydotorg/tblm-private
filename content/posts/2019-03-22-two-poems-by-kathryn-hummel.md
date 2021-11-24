@@ -8,7 +8,7 @@ month: "2019/03"
 url: /?p=826
 categories:
   - 2. Poetry
-  - Issue C5 (Parashar, Chakravarti, Hummel)
+issue: C5
 
 ---
 To preserve formatting, Hummel&#8217;s poems have been maintained in a PDF. Click [here][1] to access.

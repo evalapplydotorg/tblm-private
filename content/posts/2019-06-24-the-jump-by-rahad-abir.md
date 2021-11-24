@@ -8,7 +8,7 @@ month: "2019/06"
 url: /?p=859
 categories:
   - 1. Fiction
-  - Issue C7 (Aranya, Abir, Talukder)
+issue: C7
 
 ---
 The note reads nakedly: _No one is to blame for my action_. You leave it sprawled on the table next to the empty coffee cup, put your rimless glasses over it.

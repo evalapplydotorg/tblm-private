@@ -8,7 +8,7 @@ month: "2014/07"
 url: /?p=192
 categories:
   - 1. Fiction
-  - Issue 6 (Yadav, Kambarami, Cosmo)
+issue: 6
 
 ---
 A Piki Tup garbage van rattles past Kero as she winces at the four-inch face of her phone. The familiar odour of rotting trash wafts into her nostrils. She frowns, looks up, curbs an urge to spit, then down again. She quickly finds her place in the text message she is re-reading. It confounds her even more. She wishes the bus would come already. With the exception of the one time she had missed it, the five o’clock bus to Highlands North had never been on time.

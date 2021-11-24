@@ -9,7 +9,7 @@ excerpt: 'Fayaz woke up to the tapping sound on the window, crawled up to it, an
 url: /?p=1082
 categories:
   - 1. Fiction
-  - Issue D6 (Bagasrawala, Kaloo, Narayanan)
+issue: D6
 
 ---
 Men, young and old, have just begun to leave their houses after hearing a familiar voice coming from the loudspeakers of the grand mosque. They have been told to gather in Narbal&#8217;s Eidgah, a huge plot of land at a stone’s throw from the Srinagar-Gulmarg highway used only for special occasions such as marriages, funerals, Eid congregational prayers and, as in this case, an assembly for listening to ‘patriotic’ sermons of high-ranking army officials while their men carried door-to-door searches in the village with the help of helpless local boys.

@@ -8,7 +8,7 @@ month: "2019/01"
 url: /?p=806
 categories:
   - 2. Poetry
-  - Issue C4 (Chadha, Ummer Farook, Kamath)
+issue: C4
 
 ---
 **&#8220;After all, Punjabi is spoken on both sides of the border, divided only by the script&#8221;~  

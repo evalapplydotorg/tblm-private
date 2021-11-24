@@ -8,7 +8,7 @@ month: "2016/12"
 url: /?p=528
 categories:
   - 2. Poetry
-  - Issue A9 (Murali, Chitre, Manivannan)
+issue: A9
 
 ---
 **Study Leave**

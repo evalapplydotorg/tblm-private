@@ -8,7 +8,7 @@ month: "2014/12"
 url: /?p=221
 categories:
   - 1. Fiction
-  - Issue 8 (Naik, Brahmbhatt, Vatsa)
+issue: 8
 
 ---
 You are secretly in love with your cousin. Every vacation, in your grandmother&#8217;s house, you watch him grow a few more inches, and of late display a few more sprouts of hair. You marvel at how his voice is better than that of any boy you have heard. You also marvel at how he can sing English songs you have never heard before. Every time he touches your palm, in an attempt to teach you the right way to strike on the carrom board, you struggle to control your smile, and struggle to control the spreading of a warm, fuzzy feeling that honestly leaves you baffled.

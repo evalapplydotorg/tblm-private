@@ -8,7 +8,7 @@ month: "2014/06"
 url: /?p=184
 categories:
   - 2. Poetry
-  - Issue 6 (Yadav, Kambarami, Cosmo)
+issue: 6
 
 ---
 **Equal**

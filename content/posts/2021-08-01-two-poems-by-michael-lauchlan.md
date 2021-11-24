@@ -8,7 +8,7 @@ month: "2021/08"
 url: /?p=1285
 categories:
   - 2. Poetry
-  - Issue E4 (Negi, Sukumar, Lauchlan, Srivatsan, Kumar Nair, Krishna)
+issue: E4
 
 ---
 **The Shape of the Known Universe**

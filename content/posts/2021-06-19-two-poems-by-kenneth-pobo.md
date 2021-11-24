@@ -8,7 +8,7 @@ month: "2021/06"
 url: /?p=1257
 categories:
   - 2. Poetry
-  - Issue E3 (Dremen, Khastagir, Bawa, Chandok, Pobo, Sambhu)
+issue: E3
 
 ---
 **Petaled Geography**

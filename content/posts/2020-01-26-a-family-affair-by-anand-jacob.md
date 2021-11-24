@@ -8,7 +8,7 @@ month: "2020/01"
 url: /?p=979
 categories:
   - 1. Fiction
-  - Issue D3 (Pandey, Pattnaik, Jacob)
+issue: D3
 
 ---
 “This depraved lifestyle is no good, Cattaparthy,” said a voice, and Cattaparthy opened an eye, reconsidered, and shut it again.

@@ -8,7 +8,7 @@ month: "2013/08"
 url: /?p=78
 categories:
   - 1. Fiction
-  - Issue 2 (Brahmbhatt, Mukherjee, Parikh)
+issue: 2
 tags:
   - Brahmbhatt
   - Jigar

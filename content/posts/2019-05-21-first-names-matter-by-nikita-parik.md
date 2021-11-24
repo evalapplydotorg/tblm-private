@@ -8,7 +8,7 @@ month: "2019/05"
 url: /?p=844
 categories:
   - 2. Poetry
-  - Issue C6 (Selvaraj, Onkar, Parik)
+issue: C6
 
 ---
 At an almost-dawn one February, I  

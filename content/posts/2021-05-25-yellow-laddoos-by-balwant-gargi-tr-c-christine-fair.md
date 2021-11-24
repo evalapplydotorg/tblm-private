@@ -8,7 +8,7 @@ month: "2021/05"
 url: /?p=1190
 categories:
   - 1. Fiction
-  - Issue E2 (Gargi, Sarukkai Chabria, Anupama, Datta-Areng, Khubchandani, Karim, Krishnan, Jain, Pandit)
+issue: E2
 
 ---
 Puro was about to leave for the fields when she said to Jangir, “Will you come with me? I’ll give you laddoos to eat.”

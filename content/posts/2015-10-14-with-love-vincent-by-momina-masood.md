@@ -8,7 +8,7 @@ month: "2015/10"
 url: /?p=381
 categories:
   - 1. Fiction
-  - Issue A5 (Jayan, Masood, Rajendran)
+issue: A5
 
 ---
 (A reimagining of a day in the life of Vincent van Gogh)

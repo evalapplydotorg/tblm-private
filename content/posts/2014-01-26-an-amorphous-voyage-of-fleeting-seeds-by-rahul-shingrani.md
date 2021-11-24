@@ -8,7 +8,7 @@ month: "2014/01"
 url: /?p=152
 categories:
   - 1. Fiction
-  - Issue 4 (Seshasayee, Lock, Shingrani)
+issue: 4
 
 ---
 Life came to us at that cusp of infinite void, the edge of the sun’s reach. It was a sudden awakening, though awakening might mean that we had been sleeping, been alive. We were never alive, both Kreetin and I.

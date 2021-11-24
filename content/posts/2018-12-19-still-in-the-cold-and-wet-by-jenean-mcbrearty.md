@@ -8,7 +8,7 @@ month: "2018/12"
 url: /?p=794
 categories:
   - 1. Fiction
-  - Issue C3 (McBrearty, Dutta, Rohith)
+issue: C3
 
 ---
 Tuesday was a typical London day, which is to say, gray and wet. Fairchild Fortesque chose to walk the three blocks from The Victoria Hotel to the Bull Horn Pub, and by the time he stepped into the darkness, wished to hell he’d worn his raincoat. “Who knew a drizzle would turn into a deluge?” he asked the doorman.

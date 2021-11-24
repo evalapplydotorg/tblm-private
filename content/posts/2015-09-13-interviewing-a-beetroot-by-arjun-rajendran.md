@@ -8,7 +8,7 @@ month: "2015/09"
 url: /?p=372
 categories:
   - 2. Poetry
-  - Issue A5 (Jayan, Masood, Rajendran)
+issue: A5
 
 ---
 To preserve the format, here is the linked pdf with the poem.

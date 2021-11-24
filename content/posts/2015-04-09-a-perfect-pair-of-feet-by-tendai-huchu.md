@@ -8,7 +8,7 @@ month: "2015/04"
 url: /?p=288
 categories:
   - 1. Fiction
-  - Issue A2 (Huchu, Chitre, Mahoney)
+issue: A2
 
 ---
 I watched Murenga sleep wearing a slight frown on his face, both hands tightly gripping the duvet, half of which lay on the floor on his side. He was a furnace and, even with the thermostat turned down, I felt the heat radiating from his sweat-soaked side of the bed. His legs were restless, twitching and kicking as though he was fleeing some horrible monster in his dreams. I couldn’t sleep, but I preferred this—me watching over him than him watching over me. A few weeks ago I’d woken up in the dark and felt his bright eyes boring through me, trying to see through to the very depths of my soul. And when I asked if he couldn’t sleep, he mumbled something about being ever vigilant because the enemy can come at any time, then he turned away from me and returned to his brooding.

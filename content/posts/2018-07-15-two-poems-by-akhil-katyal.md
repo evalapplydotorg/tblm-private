@@ -8,7 +8,7 @@ month: "2018/07"
 url: /?p=749
 categories:
   - 2. Poetry
-  - Issue C1 (Godara, Kaur Dhaliwal, Katyal)
+issue: C1
 
 ---
 **When Shammi Kapoor slides down the snow  

@@ -8,7 +8,7 @@ month: "2018/01"
 url: /?p=658
 categories:
   - 1. Fiction
-  - Issue B5 (Gole, Laxmeshwar, Mukherjee)
+issue: B5
 
 ---
 Aww! Sweet! That’s my boy. Kill. Kill. Kill…No, no, no… it’s pecking his eyes out… Yess! Grabbed it by the neck. Now one snap and the head’s off, rainbow neck and plumage an’ all. I think it’s time to land on the nearest branch. A few of my brothers might be on the lookout too. Best be the first off the block! I dip down, circling the topmost branches, looking for a sturdier lower branch to land on while keeping one wary eye on the prey, or, to be honest, on the severed head of the prey which the dog has very obligingly thrown aside while starting on the body.

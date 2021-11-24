@@ -8,7 +8,7 @@ month: "2021/03"
 url: /?p=1170
 categories:
   - 2. Poetry
-  - Issue E1 (Singh, Dasgupta, Somarajan)
+issue: E1
 
 ---
 **The Drunkard of Pattinson Rd.**

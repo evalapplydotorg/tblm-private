@@ -8,7 +8,7 @@ month: "2019/08"
 url: /?p=896
 categories:
   - 2. Poetry
-  - Issue C8 (Banerjee, Mueter, Adjarian)
+issue: C8
 
 ---
 _To preserve the format of the poem, we have made it available as PDF._

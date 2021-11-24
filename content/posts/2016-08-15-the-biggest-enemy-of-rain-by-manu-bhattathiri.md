@@ -8,7 +8,7 @@ month: "2016/08"
 url: /?p=494
 categories:
   - 1. Fiction
-  - Issue A8 (Bhattathiri, Uniyal, Banumathi)
+issue: A8
 tags:
   - Bhattathiri
   - Manu

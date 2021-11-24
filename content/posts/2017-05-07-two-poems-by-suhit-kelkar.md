@@ -8,7 +8,7 @@ month: "2017/05"
 url: /?p=540
 categories:
   - 2. Poetry
-  - Issue B1 (Kapoor, Kaur, Kelkar)
+issue: B1
 
 ---
 **Isosceles Majesty**

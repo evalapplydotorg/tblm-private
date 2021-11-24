@@ -8,7 +8,7 @@ month: "2020/05"
 url: /?p=1057
 categories:
   - 2. Poetry
-  - Issue D5 (Singh, MacNeil, Paria)
+issue: D5
 
 ---
 **I Hear Father is Dead in Another Country**

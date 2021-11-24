@@ -8,7 +8,7 @@ month: "2018/07"
 url: /?p=747
 categories:
   - 1. Fiction
-  - Issue C1 (Godara, Kaur Dhaliwal, Katyal)
+issue: C1
 
 ---
 If you’re wondering who we are, let me unravel the mystery. We are the untethered children of those that live rich, tethered lives. Filled with reckless desire, unlimited ambition and thriving delusions. The unwilling bearer of it all? The place we grew up in and never grew out of &#8211; Roseburn &#8211; the perfect little island, surrounded by The City on all sides. It has everything. High-rises, row-houses, commercial blocks filled with multi-national corporations, comedy-clubs, jazz clubs, chain restaurants, local haunts, internationally recognised educational institutions, a massive hospital and a few hundred medical clinics serving the people and pets of.

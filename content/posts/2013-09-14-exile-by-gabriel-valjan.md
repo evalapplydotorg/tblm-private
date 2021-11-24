@@ -8,7 +8,7 @@ month: "2013/09"
 url: /?p=93
 categories:
   - 1. Fiction
-  - Issue 3 (Larson, Valjan, Knox)
+issue: 3
 
 ---
 _Exile was first published in Issue 17 of _>kill author_._

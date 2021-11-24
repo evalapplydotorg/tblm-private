@@ -8,7 +8,7 @@ month: "2021/03"
 url: /?p=1172
 categories:
   - 2. Poetry
-  - Issue E1 (Singh, Dasgupta, Somarajan)
+issue: E1
 
 ---
 **Learning Malayalam**  

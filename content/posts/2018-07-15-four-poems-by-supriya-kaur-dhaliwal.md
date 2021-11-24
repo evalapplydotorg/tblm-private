@@ -8,7 +8,7 @@ month: "2018/07"
 url: /?p=751
 categories:
   - 2. Poetry
-  - Issue C1 (Godara, Kaur Dhaliwal, Katyal)
+issue: C1
 
 ---
 To preserve the format of these poems, we have made them available in a downloadable Pdf.

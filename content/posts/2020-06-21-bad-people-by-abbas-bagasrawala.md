@@ -8,7 +8,7 @@ month: "2020/06"
 url: /?p=1080
 categories:
   - 1. Fiction
-  - Issue D6 (Bagasrawala, Kaloo, Narayanan)
+issue: D6
 
 ---
 ‘So have you ever walked in on your mother touching herself’?

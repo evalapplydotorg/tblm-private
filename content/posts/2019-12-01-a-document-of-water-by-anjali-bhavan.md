@@ -8,7 +8,7 @@ month: "2019/12"
 url: /?p=948
 categories:
   - 2. Poetry
-  - Issue D1 (Rao, Ansari, Bhavan)
+issue: D1
 
 ---
 &#8220;All day I hunt for the liquid measure of your steps.&#8221; &#8211; Pablo Neruda

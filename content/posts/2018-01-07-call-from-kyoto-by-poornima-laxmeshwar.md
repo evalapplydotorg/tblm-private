@@ -8,7 +8,7 @@ month: "2018/01"
 url: /?p=648
 categories:
   - 2. Poetry
-  - Issue B5 (Gole, Laxmeshwar, Mukherjee)
+issue: B5
 
 ---
 When the phone doesn’t stop ringing,  

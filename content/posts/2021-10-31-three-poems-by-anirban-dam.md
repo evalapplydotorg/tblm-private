@@ -8,7 +8,7 @@ month: "2021/10"
 url: /?p=1339
 categories:
   - 2. Poetry
-  - Issue E5 (Brahmbhatt, Iyer, Bryson, Kapoor, Shetty, Dam)
+issue: E5
 
 ---
 **Turmeric**

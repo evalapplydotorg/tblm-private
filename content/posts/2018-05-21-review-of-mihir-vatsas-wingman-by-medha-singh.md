@@ -9,7 +9,7 @@ url: /?p=723
 categories:
   - 2. Poetry
   - 4. Reviews
-  - Issue B8 (Roy, Lai-Ming Ho, Singh)
+issue: B8
 
 ---
 Recently, a combined bundle of chapbooks by Mihir Vatsa, Nandini Dhar, Usha Akella, Manjiri Indurkar and Arjun Rajendran were released through Vayavya and Aainanagar at an event &#8216;Reading Five: An Evening of Poetry&#8217; at Moti Lal Nehru college. It was a refreshing visit, that took me back to my college days when we, as English students, sat wide eyed, aware of the privilege of having an author read their work to us. In this article, I review _Wingman_ by Mihir Vatsa

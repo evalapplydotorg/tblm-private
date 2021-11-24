@@ -8,7 +8,7 @@ month: "2020/01"
 url: /?p=958
 categories:
   - 2. Poetry
-  - Issue D2 (Bahuguna, Sinha Ray, Laxmeshwar)
+issue: D2
 
 ---
 **Living a dog’s life**

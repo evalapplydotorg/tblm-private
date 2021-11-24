@@ -8,7 +8,7 @@ month: "2019/09"
 url: /?p=905
 categories:
   - 1. Fiction
-  - Issue C9 (Ananya, Upadhyay, Kuntal)
+issue: C9
 
 ---
 Yesterday, I watched Ana buy eggs at the chicken shop down the road from our house, and just as I registered the familiar smell of her hair – mint and cucumber, washed thrice a week, always with cold water – I felt her words settle into the bends of my ear canals and say, exactly as she’d done the first time we met, You know, you can tell a good egg from the bad ones if it sinks in a mug of water. We’d been on a train to Bangalore, and Ana was sitting in my seat, her feet stowed away neatly under her thighs, an egg sandwich in her lap at dinnertime. It’s a good habit to have, she’d told me, crackling aluminum foil between her fingers while the two women next to us held hands and said a prayer – you know, to drop your egg in a cup of water while you decide how to cook it – Amen – hoping it’ll sink. I don’t remember this, but Ana says I told her about tomatoes in return, that my mother’s advice was to pick the ones that weren’t soft, not just the first ones I saw; the thing to do was press them a little, like this – here I held up her ball of foil – with your thumb first, and then your palm. You want to look for the firm ones, but not too firm, more like pear-beginning-to-spoil firm, and less like drying-ball-of-clay firm.

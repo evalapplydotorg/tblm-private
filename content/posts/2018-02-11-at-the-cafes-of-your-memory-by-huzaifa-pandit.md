@@ -8,7 +8,7 @@ month: "2018/02"
 url: /?p=676
 categories:
   - 2. Poetry
-  - Issue B6 (Pandit, Khandkar, Joshi)
+issue: B6
 
 ---
 _Faiz, what befell the fellow travelers of late last night?  

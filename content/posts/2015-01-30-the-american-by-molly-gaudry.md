@@ -8,7 +8,7 @@ month: "2015/01"
 url: /?p=254
 categories:
   - 1. Fiction
-  - Issue 9 (Gaudry, Mukherjee, Kashyap)
+issue: 9
 
 ---
 _The story was first published in UpRightDown; also anthologized in Best of the Web 2009, edited by Lee K. Abbott  

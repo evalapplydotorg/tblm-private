@@ -8,7 +8,7 @@ month: "2017/12"
 url: /?p=627
 categories:
   - 2. Poetry
-  - Issue B4 (Indurkar, Dwibedy, Das Gupta)
+issue: B4
 
 ---
 **Diabetes at a Birthday Party  

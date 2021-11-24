@@ -8,7 +8,7 @@ month: "2013/10"
 url: /?p=110
 categories:
   - 1. Fiction
-  - Issue 3 (Larson, Valjan, Knox)
+issue: 3
 
 ---
 “Are you ready to go?” Kristine asks, unballing a pair of her pantyhose. Jack shakes his dreadlocked head and scrabbles around in the ashtray. He comes up with a nug of weed between his fingers. He carries it like a saint’s toenail over to the table, to the improvised bong. Last night, after they fought, he sawed off a pop bottle and smoked too much.

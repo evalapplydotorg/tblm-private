@@ -8,7 +8,7 @@ month: "2020/01"
 url: /?p=963
 categories:
   - 1. Fiction
-  - Issue D2 (Bahuguna, Sinha Ray, Laxmeshwar)
+issue: D2
 
 ---
 ‘Do not be afraid of making mistakes on paper.’

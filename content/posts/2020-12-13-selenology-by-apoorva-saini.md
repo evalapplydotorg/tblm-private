@@ -8,7 +8,7 @@ month: "2020/12"
 url: /?p=1152
 categories:
   - 1. Fiction
-  - Issue D9 (Doreski, Saini, Akhilesh)
+issue: D9
 
 ---
 &#8220;In the end, the only stories that loving you brought me were the stories of what it meant to not be loved by you.&#8221;

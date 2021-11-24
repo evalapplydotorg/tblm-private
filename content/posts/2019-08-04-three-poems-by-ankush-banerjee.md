@@ -8,7 +8,7 @@ month: "2019/08"
 url: /?p=886
 categories:
   - 2. Poetry
-  - Issue C8 (Banerjee, Mueter, Adjarian)
+issue: C8
 
 ---
 **Before the Divorce**

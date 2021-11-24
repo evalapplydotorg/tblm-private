@@ -8,7 +8,7 @@ month: "2019/03"
 url: /?p=817
 categories:
   - 2. Poetry
-  - Issue C5 (Parashar, Chakravarti, Hummel)
+issue: C5
 
 ---
 **Cabbage Moth**

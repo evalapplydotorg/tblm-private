@@ -8,7 +8,7 @@ month: "2018/06"
 url: /?p=731
 categories:
   - 2. Poetry
-  - Issue B9 (Gonsalves, Bennett, Pandey)
+issue: B9
 
 ---
 Distant memories approach me &#8211; I am looking in a water well, an elephant is plucking peepul leaves in the dense forest, and her mahout is laughing. 

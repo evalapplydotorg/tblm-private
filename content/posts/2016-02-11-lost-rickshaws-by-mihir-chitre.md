@@ -8,7 +8,7 @@ month: "2016/02"
 url: /?p=412
 categories:
   - 2. Poetry
-  - Issue A6 (Swinney, Jain, Chitre)
+issue: A6
 
 ---
 *

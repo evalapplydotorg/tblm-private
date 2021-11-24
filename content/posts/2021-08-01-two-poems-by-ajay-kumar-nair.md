@@ -8,7 +8,7 @@ month: "2021/08"
 url: /?p=1294
 categories:
   - 2. Poetry
-  - Issue E4 (Negi, Sukumar, Lauchlan, Srivatsan, Kumar Nair, Krishna)
+issue: E4
 
 ---
 **touchscream**

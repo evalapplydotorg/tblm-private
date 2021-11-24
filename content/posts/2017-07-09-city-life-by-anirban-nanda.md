@@ -8,7 +8,7 @@ month: "2017/07"
 url: /?p=583
 categories:
   - 1. Fiction
-  - Issue B2 (Patri, Nanda, Mukherjee)
+issue: B2
 
 ---
 Visualise:

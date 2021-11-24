@@ -8,7 +8,7 @@ month: "2019/08"
 url: /?p=890
 categories:
   - 2. Poetry
-  - Issue C8 (Banerjee, Mueter, Adjarian)
+issue: C8
 
 ---
 _The setting is the fictitious hill station of Anandur in the Palani Hills of Tamil Nadu, South India, the Christian cemetery of the congregation of Saint Andrews._

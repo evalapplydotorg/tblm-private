@@ -8,7 +8,7 @@ month: "2019/09"
 url: /?p=916
 categories:
   - 2. Poetry
-  - Issue C9 (Ananya, Upadhyay, Kuntal)
+issue: C9
 
 ---
 Night breaks apart like pomegranate seeds in my  

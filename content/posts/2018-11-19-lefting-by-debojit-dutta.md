@@ -8,7 +8,7 @@ month: "2018/11"
 url: /?p=788
 categories:
   - 1. Fiction
-  - Issue C3 (McBrearty, Dutta, Rohith)
+issue: C3
 
 ---
 When S first walked into the room, I took her for a woman around the age of fifty. Later, when I told her that, she said she would have preferred to look younger, like her younger sister who people said looked at least a decade younger than her actual age. She also clarified that I had not offended her. After all, she had always believed she looked older, much older than her age —a seventy-year-old? at least sixty perhaps? Illnesses, numerous illnesses, forced her body to age prematurely. “On the inside,” she would tell me, “I am hundred-years-old, two-hundred-years-old. A poorly maintained statue from the British era, or whatever is as old. A statue with arthritis.”

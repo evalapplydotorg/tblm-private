@@ -8,7 +8,7 @@ month: "2015/04"
 url: /?p=291
 categories:
   - 2. Poetry
-  - Issue A2 (Huchu, Chitre, Mahoney)
+issue: A2
 
 ---
 **Varanasi, December 2014**

@@ -8,7 +8,7 @@ month: "2016/08"
 url: /?p=497
 categories:
   - 2. Poetry
-  - Issue A8 (Bhattathiri, Uniyal, Banumathi)
+issue: A8
 
 ---
 *

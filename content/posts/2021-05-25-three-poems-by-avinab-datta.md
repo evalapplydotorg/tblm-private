@@ -8,7 +8,7 @@ month: "2021/05"
 url: /?p=1196
 categories:
   - 2. Poetry
-  - Issue E2 (Gargi, Sarukkai Chabria, Anupama, Datta-Areng, Khubchandani, Karim, Krishnan, Jain, Pandit)
+issue: E2
 
 ---
 **Sunday**

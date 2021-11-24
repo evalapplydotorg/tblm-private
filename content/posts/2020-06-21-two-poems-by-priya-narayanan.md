@@ -8,7 +8,7 @@ month: "2020/06"
 url: /?p=1085
 categories:
   - 2. Poetry
-  - Issue D6 (Bagasrawala, Kaloo, Narayanan)
+issue: D6
 
 ---
 **Stray**

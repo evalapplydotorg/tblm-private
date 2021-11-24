@@ -8,7 +8,7 @@ month: "2020/12"
 url: /?p=1147
 categories:
   - 1. Fiction
-  - Issue D9 (Doreski, Saini, Akhilesh)
+issue: D9
 
 ---
 _We made the mountains shake with laughter as we played  

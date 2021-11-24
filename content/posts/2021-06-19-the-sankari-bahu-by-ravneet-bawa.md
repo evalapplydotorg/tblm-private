@@ -8,7 +8,7 @@ month: "2021/06"
 url: /?p=1251
 categories:
   - 2. Poetry
-  - Issue E3 (Dremen, Khastagir, Bawa, Chandok, Pobo, Sambhu)
+issue: E3
 
 ---
 is first of all not a person with any  

@@ -8,7 +8,7 @@ month: "2018/12"
 url: /?p=798
 categories:
   - 2. Poetry
-  - Issue C3 (McBrearty, Dutta, Rohith)
+issue: C3
 
 ---
 **Premonitions** 

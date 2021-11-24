@@ -8,7 +8,7 @@ month: "2019/12"
 url: /?p=939
 categories:
   - 2. Poetry
-  - Issue D1 (Rao, Ansari, Bhavan)
+issue: D1
 
 ---
 _(To preserve the format of the poems, we have made them available in a PDF document._ __Please click_ [here][1] _to access.)__

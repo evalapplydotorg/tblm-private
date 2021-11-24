@@ -8,7 +8,7 @@ month: "2018/01"
 url: /?p=650
 categories:
   - 2. Poetry
-  - Issue B5 (Gole, Laxmeshwar, Mukherjee)
+issue: B5
 
 ---
 _To play a sound recording of the poem (recommended), click [here][1]._

@@ -8,7 +8,7 @@ month: "2016/02"
 url: /?p=407
 categories:
   - 1. Fiction
-  - Issue A6 (Swinney, Jain, Chitre)
+issue: A6
 
 ---
 Her period refused to come. She lay in turmoil beneath the ineffectual ceiling fan. No position brought relief from the heat. After days of tossing and turning and lying in limp sheets, her shoulders and her buttocks were disfigured by the blemishes served up by prickly heat, and the monsoon was still an age away.

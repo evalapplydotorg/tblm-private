@@ -8,7 +8,7 @@ month: "2015/05"
 url: /?p=299
 categories:
   - 3. Interviews
-  - Issue A3 (Perur, Rajendran, Singh)
+issue: A3
 
 ---
 _We at TBLM have long felt the lack of a certain kind of conversation in the Indian literary discourse. There are interviews, yes, but these tend to be promotional in nature, and a writer generally makes appearances around a book launch. That is perhaps a necessity. But the writer interview, one that focuses on the process behind a book, its connection with the writer’s personality, her or his life before and after publication, her or his views about money, rewards and recognition in literary pursuits — is neither present nor being asked for. We feel that emerging writers grapple more with these behind-the-scenes questions. This interview is, hopefully, first in a series._

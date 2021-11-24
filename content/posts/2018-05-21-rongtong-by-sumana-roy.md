@@ -8,7 +8,7 @@ month: "2018/05"
 url: /?p=720
 categories:
   - 2. Poetry
-  - Issue B8 (Roy, Lai-Ming Ho, Singh)
+issue: B8
 
 ---
 The houses protrude from the hills like buck teeth.  

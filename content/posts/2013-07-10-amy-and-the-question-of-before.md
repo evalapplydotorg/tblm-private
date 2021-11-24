@@ -8,7 +8,7 @@ month: "2013/07"
 url: /?p=28
 categories:
   - 1. Fiction
-  - Issue 2 (Brahmbhatt, Mukherjee, Parikh)
+issue: 2
 tags:
   - College
   - Mohit

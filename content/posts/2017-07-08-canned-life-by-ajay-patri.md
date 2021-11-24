@@ -8,7 +8,7 @@ month: "2017/07"
 url: /?p=571
 categories:
   - 1. Fiction
-  - Issue B2 (Patri, Nanda, Mukherjee)
+issue: B2
 
 ---
 We stood in front of the digital display, staring at the screen space beside the number of our flight. Our flight was delayed.

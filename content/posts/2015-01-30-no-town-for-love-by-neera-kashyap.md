@@ -8,7 +8,7 @@ month: "2015/01"
 url: /?p=252
 categories:
   - 1. Fiction
-  - Issue 9 (Gaudry, Mukherjee, Kashyap)
+issue: 9
 
 ---
 While a smooth curving flyover on the national highway cleanly bypassed the town of Moradabad, if one had to go there, it had to be with purpose. The unending markets on either side of the congested roads screamed with the clamor of commerce. Motor workshops jostled easily with shops processing grain and pulses, gur and khandsari . Ancient eateries frying jalebis and kachauris vied to generate more heat and smell than the myriad brass metal units outflanking them. If one managed to reach some crossroad at some juncture of this endless commerce, the policeman could, with a whimsical flick of his hand, as easily send you to Bareilly as he could to Rudrapur.

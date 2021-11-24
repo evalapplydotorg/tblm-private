@@ -8,7 +8,7 @@ month: "2016/02"
 url: /?p=414
 categories:
   - 2. Poetry
-  - Issue A6 (Swinney, Jain, Chitre)
+issue: A6
 
 ---
 नज़्म लिखो , बेशुमार लिखो  

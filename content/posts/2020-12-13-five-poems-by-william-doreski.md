@@ -8,7 +8,7 @@ month: "2020/12"
 url: /?p=1145
 categories:
   - 2. Poetry
-  - Issue D9 (Doreski, Saini, Akhilesh)
+issue: D9
 
 ---
 **Thanks to Jonathan Edwards**

@@ -8,7 +8,7 @@ month: "2014/07"
 url: /?p=189
 categories:
   - 1. Fiction
-  - Issue 6 (Yadav, Kambarami, Cosmo)
+issue: 6
 
 ---
 I watch the tide of a new morning in the pallor of the curtains against the pane of the bedroom window. Except for the birds on the mango tree outside and an occasional vehicle that honks on the stray dogs, there is no sound.

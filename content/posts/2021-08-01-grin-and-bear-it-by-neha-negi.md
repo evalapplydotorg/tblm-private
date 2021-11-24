@@ -8,7 +8,7 @@ month: "2021/08"
 url: /?p=1278
 categories:
   - 1. Fiction
-  - Issue E4 (Negi, Sukumar, Lauchlan, Srivatsan, Kumar Nair, Krishna)
+issue: E4
 
 ---
 [<img src="http://bombayliterarymagazine.com/wp-content/uploads/2021/08/Neha-Negi.jpg" alt="nn" width="513" height="705" class="aligncenter size-large wp-image-546" />][1]

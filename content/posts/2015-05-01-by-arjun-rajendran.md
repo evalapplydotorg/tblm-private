@@ -8,7 +8,7 @@ month: "2015/05"
 url: /?p=320
 categories:
   - 2. Poetry
-  - Issue A3 (Perur, Rajendran, Singh)
+issue: A3
 
 ---
 **Hotel Lobby: Sultanahmet Istanbul  

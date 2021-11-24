@@ -8,7 +8,7 @@ month: "2020/01"
 url: /?p=960
 categories:
   - 3. Interviews
-  - Issue D2 (Bahuguna, Sinha Ray, Laxmeshwar)
+issue: D2
 
 ---
 **_Terrarium_ opens on a poem about girls who “had the world at the instep of their sole”, encouraged to run like they mean it by Mr. Joseph, who treated them like he did the boys. It seems to capture so much about what this collection is about: girls and women, connection to the (literal, muddy) earth, the speed and sudden shifts in life’s trajectories. It’s also about a specific person, a teacher, and the effect he had on these girls. Who was Mr. Joseph – is this poem an homage to a real person, or is he a composite? And is there anything in particular about the effect of teachers, good or bad, which you have found to be either true or contrasting on the field and in poetry?**

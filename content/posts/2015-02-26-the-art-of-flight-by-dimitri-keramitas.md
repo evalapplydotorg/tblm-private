@@ -8,7 +8,7 @@ month: "2015/02"
 url: /?p=275
 categories:
   - 1. Fiction
-  - Issue A1 (Keramitas, Garni, Sarraju)
+issue: A1
 
 ---
 It came down to a slip of paper, an official form: A-354. If André had been a _clochard_, a homeless bum, it wouldn’t have mattered. Paris’ so-called free spirits, as liberated as any dog (except those they leash around), were notorious for not caring for regulation. Freezing on a slab of sidewalk in winter they’d accept a cup of soup but nothing that entailed the dreaded red tape. André wasn’t a clochard, just down at the heels, down on his luck, down but not out.

@@ -8,7 +8,7 @@ month: "2014/12"
 url: /?p=227
 categories:
   - 4. Reviews
-  - Issue 8 (Naik, Brahmbhatt, Vatsa)
+issue: 8
 
 ---
 [<img src="http://bombayliterarymagazine.com/wp-content/uploads/2014/12/Manan-200x300.jpg" alt="Manan" width="200" height="300" class="alignnone size-medium wp-image-236" srcset="http://bombayliterarymagazine.com/wp-content/uploads/2014/12/Manan-200x300.jpg 200w, http://bombayliterarymagazine.com/wp-content/uploads/2014/12/Manan.jpg 310w" sizes="(max-width: 200px) 100vw, 200px" />][1]

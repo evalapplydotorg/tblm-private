@@ -8,7 +8,7 @@ month: "2020/10"
 url: /?p=1126
 categories:
   - 2. Poetry
-  - Issue D8 (Parvataneni, Hussain Parray, Rao, Khetarpal, Joshi, Yanthan)
+issue: D8
 
 ---
 **The day of the fitting**

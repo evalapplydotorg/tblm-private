@@ -8,7 +8,7 @@ month: "2014/08"
 url: /?p=208
 categories:
   - 1. Fiction
-  - Issue 7 (Anand, Deka, Jayan)
+issue: 7
 
 ---
 During the days we met, the rains were light. The mushrooms behind the house had weeded brown and you had said how sitting by them I looked like the boy who came out of water in a certain book you had read recently. On Fridays, you came early with a polythene packet knit gently around your wrist, dangling.

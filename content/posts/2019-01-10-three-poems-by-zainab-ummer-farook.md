@@ -8,7 +8,7 @@ month: "2019/01"
 url: /?p=808
 categories:
   - 2. Poetry
-  - Issue C4 (Chadha, Ummer Farook, Kamath)
+issue: C4
 
 ---
 **Salt**

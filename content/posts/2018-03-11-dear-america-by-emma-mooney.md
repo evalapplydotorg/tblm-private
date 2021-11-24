@@ -8,7 +8,7 @@ month: "2018/03"
 url: /?p=706
 categories:
   - 2. Poetry
-  - Issue B7 (Nathan, Mooney, Goswami-Choudhury)
+issue: B7
 
 ---
 _(To listen to the poet read the poem, click [here][1].)  

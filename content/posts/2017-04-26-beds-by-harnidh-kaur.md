@@ -8,7 +8,7 @@ month: "2017/04"
 url: /?p=537
 categories:
   - 2. Poetry
-  - Issue B1 (Kapoor, Kaur, Kelkar)
+issue: B1
 
 ---
 Four corners of a sheet tucked in haphazardly, little island of certainty for when the floor wobbles and the roof stares down at your eyes, a game of blink with stakes too high to forfeit &#8211; empty eggshells of unmade memories, ghost limbs curved into clammy folds, piled upon each other, want braided into need, tied with a ribbon-wisp torn off cotton sheets.

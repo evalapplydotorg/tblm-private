@@ -8,7 +8,7 @@ month: "2015/07"
 url: /?p=340
 categories:
   - 2. Poetry
-  - Issue A4 (Khan, Kashyap, Dhar)
+issue: A4
 
 ---
 summer garbage below  
