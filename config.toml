@@ -1,4 +1,5 @@
-baseURL = "http://bombayliterarymagazine.com/"
+baseURL = "https://www.evalapply.org/tblm-public/"
+canonifyURLs = "true"
 languageCode = "en-us"
 title = "The Bombay Literary Magazine"
 theme = "tblm"
