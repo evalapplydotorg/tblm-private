@@ -1,3 +1,20 @@
 {{ define "main" }}
 {{ .Content }}
+<p>Latest Issue:</p>
+<div>
+  <ul>
+    {{ range where .Site.Pages "Params.issue" "E5" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Page.Title }}</a>
+      <div>{{ .Page.Summary }}</div>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+<p>All categories:</p>
+<ul>
+  {{ range .Site.Taxonomies.category }}
+  <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+  {{ end }}
+</ul>
 {{ end }}

@@ -5,6 +5,12 @@
   {{ range .Pages }}
   <section class="project">
     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ $pageTitle := .Title }}
+    <ul>
+      {{ range where .Site.Pages "Params.issue" $pageTitle }}
+      <li><a href="{{ .RelPermalink }}">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
     <p>{{ .Summary }}</p>
   </section>
   {{ end }}
