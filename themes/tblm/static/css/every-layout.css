@@ -1,0 +1,54 @@
+:root {
+    /* --------------------------------------------------
+     * MEASURE: Basis for all proportions.
+     * -------------------------------------------------- */
+    --line-height-base: 1rem;   /* Set baseline grid. */
+    --ratio: 1.5;               /* Proportion for modular grid. */
+    --measure: 78ch;            /* Max character width of a line. */
+
+    /* --------------------------------------------------
+     * MODULAR SCALE: Measures for rows and columns.
+     *
+     * - Rows: baseline + 3 larger and 3 smaller heights should suffice.
+     *
+     * - Columns: intended to support 1, 2, and 3 column fluid layouts,
+     *   for small, medium, wide wide screen layouts respectively. E.g.
+     *   prose may occupy 3 narrow columns on a widescreen monitor, but
+     *   on a smartphones, it may get a single full-width column.
+     * -------------------------------------------------- */
+
+    /* Column widths */
+    --col-w-full-bleed: calc(var(--measure) * var(--ratio));
+    --col-w-full: var(--measure);
+    --col-w-midi: calc(var(--col-w-full) / var(--ratio));
+    --col-w-narrow: calc(var(--col-w-midi) / var(--ratio));
+
+    /* Row heights */
+    --line-h-xxs: calc(var(--line-h-xs) / var(--ratio));
+    --line-h-xs: calc(var(--line-h-s) / var(--ratio));
+    --line-h-s: calc(var(--line-h) / var(--ratio));
+    --line-h: var(--line-h-base);
+    --line-h-l: calc(var(--line-h) * var(--ratio));
+    --line-h-xl: calc(var(--line-h-l) * var(--ratio));
+    --line-h-xxl: calc(var(--line-h-xl) * var(--ratio));
+
+    /* --------------------------------------------------
+     * FONTS: Standard fonts, faces, and sane fallbacks.
+     * TODO: proper typeface definitions.
+     * -------------------------------------------------- */
+    font-family: sans-serif;
+}
+
+* {
+    max-width: var(--col-w-full);
+}
+
+html,
+body,
+div,
+header,
+nav,
+main,
+footer {
+    max-width: none;
+}
