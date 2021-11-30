@@ -1,6 +1,9 @@
 {{ define "main" }}
 {{ .Content }}
-<p>Latest Issue:</p>
+<div class="cluster">
+  <div>Latest Issue:</div>
+  <div>{{- partial "top.html" . }}</div>
+</div>
 <div>
   <ul>
     {{ range where .Site.Pages "Params.issue" "E5" }}
@@ -11,7 +14,10 @@
     {{ end }}
   </ul>
 </div>
-<p>All categories:</p>
+<div class="cluster">
+  <div>All categories:</div>
+  <div>{{- partial "top.html" . }}</div>
+</div>
 <ul>
   {{ range .Site.Taxonomies.category }}
   <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>

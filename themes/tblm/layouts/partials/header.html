@@ -1,4 +1,4 @@
-<header>
-  <h1>{{ .Site.Title }}</h1>
-</header>
-{{- partial "nav.html" . }}
+<div class="with-sidebar">
+  <div class="box invert masthead">{{ .Site.Title }}</div>
+  <div>{{- partial "nav.html" . }}</div>
+</div>

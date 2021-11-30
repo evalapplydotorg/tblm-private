@@ -2,9 +2,7 @@
     /* --------------------------------------------------
      * MEASURE: Basis for all proportions.
      * -------------------------------------------------- */
-    --line-height-base: 1rem;   /* Set baseline grid. */
-    --ratio: 1.5;               /* Proportion for modular grid. */
-    --measure: 78ch;            /* Max character width of a line. */
+    --measure: 90ch;            /* Max character width of a line. */
 
     /* --------------------------------------------------
      * MODULAR SCALE: Measures for rows and columns.
@@ -17,26 +15,38 @@
      *   on a smartphones, it may get a single full-width column.
      * -------------------------------------------------- */
 
-    /* Column widths */
+    /* Proportion for modular grid. */
+    --ratio: 1.5;
+
+    /* Scale measure map to height and width of square cell */
+    --scale-xxxs: calc(var(--scale-xxs) / var(--ratio));
+    --scale-xxs: calc(var(--scale-xs) / var(--ratio));
+    --scale-xs: calc(var(--scale-s) / var(--ratio));
+    --scale-s: calc(var(--scale-base) / var(--ratio));
+    --scale-base: 1rem;         /* Set baseline grid. */
+    --scale-l: calc(var(--scale-base) * var(--ratio));
+    --scale-xl: calc(var(--scale-l) * var(--ratio));
+    --scale-xxl: calc(var(--scale-xl) * var(--ratio));
+
+    /* Aliases for column widths */
     --col-w-full-bleed: calc(var(--measure) * var(--ratio));
     --col-w-full: var(--measure);
     --col-w-midi: calc(var(--col-w-full) / var(--ratio));
     --col-w-narrow: calc(var(--col-w-midi) / var(--ratio));
 
-    /* Row heights */
-    --line-h-xxs: calc(var(--line-h-xs) / var(--ratio));
-    --line-h-xs: calc(var(--line-h-s) / var(--ratio));
-    --line-h-s: calc(var(--line-h) / var(--ratio));
-    --line-h: var(--line-h-base);
-    --line-h-l: calc(var(--line-h) * var(--ratio));
-    --line-h-xl: calc(var(--line-h-l) * var(--ratio));
-    --line-h-xxl: calc(var(--line-h-xl) * var(--ratio));
-
     /* --------------------------------------------------
      * FONTS: Standard fonts, faces, and sane fallbacks.
      * TODO: proper typeface definitions.
      * -------------------------------------------------- */
-    font-family: sans-serif;
+    font-family: "FreeSerif";
+    font-size: var(--scale-l);
+    line-height: var(--scale-l);
+
+    /* --------------------------------------------------
+     * EMBELLISHMENTS: borders, colours etc.
+     * --------------------------------------------------*/
+    --color-light: #fff;
+    --color-dark: #000;
 }
 
 * {
@@ -51,4 +61,71 @@ nav,
 main,
 footer {
     max-width: none;
+}
+
+.center {
+    box-sizing: content-box;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: var(--col-w-full);
+}
+
+.box {
+    padding: var(--scale-s);
+    color: var(--color-dark);
+    background-color: var(--color-light);
+}
+
+.box * {
+    color: inherit;
+}
+
+.box.invert {
+    color: var(--color-light);
+    background-color: var(--color-dark);
+}
+
+.stack {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.stack > * {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.stack > * + * {
+    margin-top: var(--scale-base);
+}
+
+.masthead {
+    font-size: var(--scale-xxl);
+    line-height: var(--scale-xxl);
+}
+
+.cluster {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space, var(--scale-base));
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.with-sidebar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--scale-base);
+}
+
+.with-sidebar > :first-child {
+    flex-grow: 1;
+    max-width: 60%;
+}
+
+.with-sidebar > :last-child {
+    flex-basis: 0;
+    flex-grow: 999;
+    min-width: 20%;
 }
