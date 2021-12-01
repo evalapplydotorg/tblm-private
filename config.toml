@@ -20,5 +20,5 @@ theme = "tblm"
 
 [permalinks]
     posts = "/posts/:year/:month/:slug"
-    year = "/posts/:slug/"      # workaround to help hugo enumerate posts by year
+    year = "/posts/:slug"       # workaround to help hugo enumerate posts by year
     month = "/posts/:slug"      # workaround to help hugo enumerate posts by year+month
