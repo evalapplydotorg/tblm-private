@@ -2,7 +2,7 @@
     /* --------------------------------------------------
      * MEASURE: Basis for all proportions.
      * -------------------------------------------------- */
-    --measure: 90ch;            /* Max character width of a line. */
+    --measure: 72ch;            /* Max character width of a line. */
 
     /* --------------------------------------------------
      * MODULAR SCALE: Measures for rows and columns.
@@ -38,9 +38,8 @@
      * FONTS: Standard fonts, faces, and sane fallbacks.
      * TODO: proper typeface definitions.
      * -------------------------------------------------- */
-    font-family: "FreeSerif";
-    font-size: var(--scale-l);
     line-height: var(--scale-l);
+    font-size: var(--scale-l);
 
     /* --------------------------------------------------
      * EMBELLISHMENTS: borders, colours etc.
@@ -60,6 +59,7 @@ header,
 nav,
 main,
 footer {
+    font-family: 'Eczar', 'FreeSerif', serif;
     max-width: none;
 }
 
@@ -101,8 +101,18 @@ footer {
 }
 
 .masthead {
+    font-family: "Oswald";
+    font-weight: 200;
     font-size: var(--scale-xxl);
     line-height: var(--scale-xxl);
+}
+
+footer,
+nav {
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: var(--scale-base);
+    line-height: var(--scale-base);
 }
 
 .cluster {
