@@ -1,26 +1,59 @@
 {{ define "main" }}
-{{ .Content }}
-<div class="cluster">
-  <div>Latest Issue:</div>
-  <div>{{- partial "top.html" . }}</div>
-</div>
-<div>
-  <ul>
-    {{ range where .Site.Pages "Params.issue" "E5" }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Page.Title }}</a>
+<div class="stack homepage">
+  {{ .Content }}
+  {{ $issueID := "E5" }}
+  <!-- LATEST ISSUE -->
+  <div class="box invert">
+  <div class="cluster">
+    <h1>Latest Issue ({{ $issueID }})</h1>
+    <div>{{- partial "top.html" . }}</div>
+  </div>
+  </div>
+  <div class="switcher">
+    {{ range where .Site.Pages "Params.issue" $issueID }}
+    <div class="stack cover">
+      <div class="box invert"><h1>{{ .Page.Title }}</h1></div>
       <div>{{ .Page.Summary }}</div>
-    </li>
+      <h4>[ <a href="{{ .RelPermalink }}">
+          + read +</a> ]</h4>
+    </div>
     {{ end }}
-  </ul>
+  </div>
+  <!-- META -->
+  <div class="cluster">
+    <!-- CATEGORIES -->
+    <div class="cluster box invert">
+      <h1>Categories</h1>
+      <div>{{- partial "top.html" . }}</div>
+    </div>
+    {{ range .Site.Taxonomies.category }}
+    <div class="box invert">
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}
+    </div>
+    {{ end }}
+
+    <div class="cluster box invert">
+      <h1>Issues</h1>
+      <div>{{- partial "top.html" . }}</div>
+    </div>
+    {{ range .Site.Taxonomies.issue }}
+    <div class="box invert">
+      <a href="{{ .Page.Permalink }}">No. {{ .Page.Title }}</a>
+      <small>({{ .Count }})</small>
+    </div>
+    {{ end }}
+
+    <div class="cluster box invert">
+      <h1>Authors</h1>
+      <div>{{- partial "top.html" . }}</div>
+    </div>
+    {{ range .Site.Taxonomies.author }}
+    <div class="box invert">
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <small>({{ .Count }})</small>
+    </div>
+    {{ end }}
+
+  </div>
 </div>
-<div class="cluster">
-  <div>All categories:</div>
-  <div>{{- partial "top.html" . }}</div>
-</div>
-<ul>
-  {{ range .Site.Taxonomies.category }}
-  <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
-  {{ end }}
-</ul>
 {{ end }}
