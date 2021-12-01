@@ -116,12 +116,20 @@ h2, h3, h4 {
     font-style: italic;
 }
 
-.homepage h1 {
+#homepage h1 {
     font-family: "Oswald";
     font-style: normal;
     font-weight: 300;
     font-size: var(--scale-l);
     line-height: var(--scale-xl);
+}
+
+#homepage h4 {
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: 300;
+    font-size: var(--scale-s);
+    line-height: var(--scale-base);
 }
 
 .center {

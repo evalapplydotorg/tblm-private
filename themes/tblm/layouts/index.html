@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="stack homepage">
+<div id="homepage" class="stack">
   {{ .Content }}
   {{ $issueID := "E5" }}
   <!-- LATEST ISSUE -->
@@ -28,7 +28,8 @@
     </div>
     {{ range .Site.Taxonomies.category }}
     <div class="box invert">
-      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <span> ({{ .Count }})</span>
     </div>
     {{ end }}
 
@@ -39,7 +40,6 @@
     {{ range .Site.Taxonomies.issue }}
     <div class="box invert">
       <a href="{{ .Page.Permalink }}">No. {{ .Page.Title }}</a>
-      <small>({{ .Count }})</small>
     </div>
     {{ end }}
 
@@ -50,7 +50,6 @@
     {{ range .Site.Taxonomies.author }}
     <div class="box invert">
       <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-      <small>({{ .Count }})</small>
     </div>
     {{ end }}
 
