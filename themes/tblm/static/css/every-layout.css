@@ -1,3 +1,24 @@
+/* --------------------------------------------------
+ * DESIGN NOTES
+ * --------------------------------------------------
+ * This stylesheet ties together site layout with details of typography,
+ * iconography etc. Some or all of these may be imported from elsewhere.
+ * In other words, here we aim to *compose* the parts together. Each part
+ * should, in turn, cater to a very specific *single* purpose (e.g. specify
+ * all the font-faces we wish to use).
+ */
+
+
+/* --------------------------------------------------
+/* TYPEFACE DECLARATIONS
+* -------------------------------------------------- */
+@import url(../fonts/faces.css);
+
+
+/* --------------------------------------------------
+ * LAYOUTS AND STYLES
+ * -------------------------------------------------- */
+
 :root {
     /* --------------------------------------------------
      * MEASURE: Basis for all proportions.
@@ -37,11 +58,14 @@
 
     /* --------------------------------------------------
      * FONTS: Standard fonts, faces, and sane fallbacks.
-     * TODO: proper typeface definitions.
      * -------------------------------------------------- */
+    /* Typesetting defaults. */
+    --body-font-family-default: "GentiumPlusW";
+    --brand-font-family-default: "Oswald";
     line-height: var(--scale-l);
     font-size: var(--scale-l);
     font-weight: normal;
+
 
     /* --------------------------------------------------
      * EMBELLISHMENTS: borders, colours etc.
@@ -50,41 +74,6 @@
     --color-dark: #000;
 }
 
-/* Oswald latin */
-@font-face {
-    font-family: 'Oswald';
-    font-weight: 200 400;
-    src: url(../fonts/Oswald/static/TK3IWkUHHAIjg75cFRf3bXL8LICs13Fv40pKlN4NNSeSASwcEWlWHYg.woff2) format('woff2'), url(https://fonts.gstatic.com/s/oswald/v40/TK3IWkUHHAIjg75cFRf3bXL8LICs13Fv40pKlN4NNSeSASwcEWlWHYg.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-/* use Gentium Plus - Regular in .woff2 format */
-@font-face {
-    font-family: 'GentiumPlusW';
-    src: url(../fonts/GentiumPlus-6.001/web/GentiumPlus-Regular.woff2) format('woff2');
-}
-
-/* use Gentium Plus - Italic in .woff2 format */
-@font-face {
-    font-family: 'GentiumPlusW';
-    font-style: italic;
-    src: url(../fonts/GentiumPlus-6.001/web/GentiumPlus-Italic.woff2) format('woff2');
-}
-
-/* use Gentium Plus - Bold in .woff2 format */
-@font-face {
-    font-family: 'GentiumPlusW';
-    font-weight: bold;
-    src: url(../fonts/GentiumPlus-6.001/web/GentiumPlus-Bold.woff2) format('woff2');
-}
-
-/* use Gentium Plus - Bold Italic in .woff2 format */
-@font-face {
-    font-family: 'GentiumPlusW';
-    font-weight: bold;
-    font-style: italic;
-    src: url(../fonts/GentiumPlus-6.001/web/GentiumPlus-BoldItalic.woff2) format('woff2');
-}
 
 
 * {
@@ -98,7 +87,7 @@ header,
 nav,
 main,
 footer {
-    font-family: 'GentiumPlusW', sans-serif;
+    font-family: var(--body-font-family-default), sans-serif;
     font-weight: normal;
     font-style: normal;
     max-width: none;
@@ -195,16 +184,9 @@ h2, h3, h4 {
     margin-top: var(--scale-base);
 }
 
-.masthead {
-    font-family: "Oswald";
-    font-weight: 200;
-    font-size: var(--scale-xxl);
-    line-height: var(--scale-xxl);
-}
-
 footer,
 nav {
-    font-family: 'Oswald';
+    font-family: var(--brand-font-family-default), sans-serif;
     font-weight: 400;
     font-size: var(--scale-base);
     line-height: var(--scale-base);
