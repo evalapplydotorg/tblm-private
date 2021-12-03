@@ -27,6 +27,7 @@
     --scale-l: calc(var(--scale-base) * var(--ratio));
     --scale-xl: calc(var(--scale-l) * var(--ratio));
     --scale-xxl: calc(var(--scale-xl) * var(--ratio));
+    --scale-xxxl: calc(var(--scale-xxl) * var(--ratio));
 
     /* Aliases for column widths */
     --col-w-full-bleed: calc(var(--measure) * var(--ratio));
@@ -116,20 +117,45 @@ h2, h3, h4 {
     font-style: italic;
 }
 
-#homepage h1 {
+.masthead,
+.homepage\:section,
+.homepage\:title,
+.homepage\:read-more {
     font-family: "Oswald";
     font-style: normal;
-    font-weight: 300;
-    font-size: var(--scale-l);
-    line-height: var(--scale-xl);
 }
 
-#homepage h4 {
+.masthead {
+    font-weight: 200;
+    font-size: var(--scale-xxl);
+    line-height: var(--scale-xxxl);
+}
+
+
+.homepage\:section {
+    font-weight: 300;
+    font-size: var(--scale-xl) !important;
+    line-height: var(--scale-xxl) !important;
+}
+
+.homepage\:content h1 {
     font-family: "Oswald";
     font-style: normal;
+    font-weight: 400;
+    font-size: var(--scale-l) !important;
+    line-height: var(--scale-l) !important;
+}
+
+.homepage\:title {
     font-weight: 300;
-    font-size: var(--scale-s);
-    line-height: var(--scale-base);
+    font-size: var(--scale-l) !important;
+    line-height: var(--scale-xl) !important;
+}
+
+.homepage\:read-more {
+    font-weight: 400;
+    font-size: var(--scale-base) !important;
+    line-height: var(--scale-base) !important;
 }
 
 .center {

@@ -1,29 +1,30 @@
 {{ define "main" }}
-<div id="homepage" class="stack">
-  {{ .Content }}
+<div class="stack">
+  <div class="homepage:content">{{ .Content }}</div>
   {{ $issueID := "E5" }}
   <!-- LATEST ISSUE -->
   <div class="box invert">
-  <div class="cluster">
-    <h1>Latest Issue ({{ $issueID }})</h1>
-    <div>{{- partial "top.html" . }}</div>
-  </div>
+    <div class="cluster">
+      <div class="homepage:section">Latest Issue ({{ $issueID }})</div>
+      <div>{{- partial "top.html" . }}</div>
+    </div>
   </div>
   <div class="switcher">
     {{ range where .Site.Pages "Params.issue" $issueID }}
     <div class="stack cover">
-      <div class="box invert"><h1>{{ .Page.Title }}</h1></div>
+      <div class="box invert"><div class="homepage:title">{{ .Page.Title }}</div></div>
       <div>{{ .Page.Summary }}</div>
-      <h4>[ <a href="{{ .RelPermalink }}">
-          + read +</a> ]</h4>
+      <div class="homepage:read-more">
+          [ <a href="{{ .RelPermalink }}#content">+ read +</a> ]
+      </div>
     </div>
     {{ end }}
   </div>
-  <!-- META -->
+  <!-- Taxonomies -->
   <div class="cluster">
-    <!-- CATEGORIES -->
+    <!-- Categories of Pieces -->
     <div class="cluster box invert">
-      <h1>Categories</h1>
+      <div class="homepage:section">Categories</div>
       <div>{{- partial "top.html" . }}</div>
     </div>
     {{ range .Site.Taxonomies.category }}
@@ -32,9 +33,9 @@
       <span> ({{ .Count }})</span>
     </div>
     {{ end }}
-
+    <!-- All the back issues -->
     <div class="cluster box invert">
-      <h1>Issues</h1>
+      <div class="homepage:section">Issues</div>
       <div>{{- partial "top.html" . }}</div>
     </div>
     {{ range .Site.Taxonomies.issue }}
@@ -42,9 +43,9 @@
       <a href="{{ .Page.Permalink }}">No. {{ .Page.Title }}</a>
     </div>
     {{ end }}
-
+    <!-- All the authors -->
     <div class="cluster box invert">
-      <h1>Authors</h1>
+      <div class="homepage:section">Authors</div>
       <div>{{- partial "top.html" . }}</div>
     </div>
     {{ range .Site.Taxonomies.author }}
@@ -52,7 +53,6 @@
       <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     </div>
     {{ end }}
-
   </div>
 </div>
 {{ end }}
