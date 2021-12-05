@@ -1,49 +1,6 @@
 /* --------------------------------------------------
- * SITE TYPOGRAPHY
-   --------------------------------------------------
-
- We wish to be particular with Typefaces, but we don't feel compelled to
- lock ourselves into any particular choice of Typefaces. We wish to be
- particular about the following things.
-
- 1. THE GOAL. Render prose and poetry with finely controlled typesetting, *but*
- without allowing the typeface itself to colour the meaning or form of the
- subject matter. Faces should be pleasant and flow, but the words must speak for
- themselves. Hold this inviolable.
-
- 2. LICENSES: All typefaces that we host ourselves will be OFL-licensed as far
- as possible, or donated to us, because a tiny literary magazine simply cannot
- afford server licenses, much less commercial print ones.
-
- 3. MAGAZINE BRAND: Prefer a distinctive Sans-serif with a long design lineage,
- that evokes a *feel* of some part of Bombay. Maybe Art Deco. Maybe Gothic.
- Maybe modernist. Maybe post-modern. Bombay is all the things all the time.
- Plus ça change, plus c'est la même chose.
-
- 4. RENDERING: The Magazine is digital-first, so we strongly prefer typefaces
- optimized for modern mobile and PC digital displays. Compatibility with ancient
- browsers is secondary. Print-friendliness is tertiary.
-
- 5. TYPEFACES: Body text will always be Serif. Choose body faces that provide
- complete character sets for the scripts we need to support. Prefer one Serif
- typeface per script. Ensure all body faces compose well together.
-
- Magazine brand type will be distinctive. It may be of any kind *as long as*
- it is our aesthetic, *and* pairs well with the body, *and* does not under any
- circumstance distract the reader away from the actual material.
-
- 6. TYPE PLAY: We are open to rendering text in faces that foundries wish to
- promote, as a means of supporting the magazine. Of course, these faces must
- support our publishing goals and branding aesthetic.
-
- 7. DEFAULT CHOICES:
- Set BODY text in "Gentium *Plus*" (OFL-licensed), owned by SIL International.
- Ref: https://software.sil.org/gentium/
-
- Set MAGAZINE BRAND text in "Oswald" (OFL-licensed), owned by Google. Ref:
- Ref: https://fonts.google.com/specimen/Oswald#license
-*/
-
+ * SITE TYPOGRAPHY: Ref: project README for guidelines.
+ * -------------------------------------------------- */
 
 /* --------------------------------------------------
  * MAGAZINE BRAND FACE
