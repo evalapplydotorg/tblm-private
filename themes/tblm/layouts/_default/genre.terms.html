@@ -3,7 +3,7 @@
 {{ .Content }}
 {{ range .Data.Terms.Alphabetical }}
 <p class="genre">
-  <a href="{{ .Page.Permalink }}/#content">{{ .Page.Title }}</a>
+  <a href="{{ .Page.Permalink }}#content">{{ .Page.Title }}</a>
   <span class="count">({{ .Count }})</span>
 </p>
 {{ end }}
