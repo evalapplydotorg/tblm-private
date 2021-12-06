@@ -1,0 +1,100 @@
+{{ define "main" }}
+<article class="stack">
+  <header class="box invert">
+    <div class="stack">
+      <h1>{{ .Title }}</h1>
+      <div class="cluster">
+        {{ with .Params.Author }}
+        <strong>{{ . }}</strong>
+        {{ end }}
+        <small>
+          <i>{{ .Date.Format "January 2, 2006"}}</i>
+          <i>/ Issue {{ .Params.issue }}</i>
+          <i>/ {{ .Params.category }}</i>
+        </small>
+        <small>
+          <i>
+            (~{{ math.Max 1 (math.Round (div (countwords .Content) 200.0)) }} min. read)
+          </i>
+        </small>
+      </div>
+    </div>
+  </header>
+  <section>
+    {{ .Content }}
+  </section>
+  <div class="box invert"></div>
+  <footer class="stack">
+    <span class="cluster">
+      <span class="box invert">{{- partial "post-title.html" . }}</span>
+      <span class="box invert">{{- partial "top.html" . }}</span>
+      <span class="stack">
+        <strong>{{ .Title }}</strong>
+        <span class="cluster">
+          {{ with .Params.Author }}
+          <small><a href="/author/{{ . | urlize }}#content"> {{ . }} </a></small>
+          {{ end }}
+          <small>
+            {{ .Date.Format "January 2, 2006"}}
+          </small>
+        </span>
+      </span>
+    </span>
+    <span class="cluster">
+      <!-- ISSUE -->
+      {{- with .Params.issue -}}
+      <span>Issue no:
+        <a href="/issue/{{ . | urlize }}#content"> {{ . }} </a>
+      </span>
+      {{- end -}}
+      <!-- CATEGORY -->
+      {{- with .Params.category -}}
+      <span>
+        Category:
+        <a href="/category/{{ . | urlize }}#content">
+          {{ . }}
+        </a>
+      </span>
+      {{ end }}
+      <!-- GENRE -->
+      {{- with .Params.genre -}}
+      <span>
+        Genre:
+        <a href="/genre/{{ . | urlize }}#content">
+          {{ . }}
+        </a>
+      </span>
+      {{ end }}
+      <!-- TAGS -->
+      {{- with .Params.tags -}}
+      <span class="cluster">
+        Tags:
+        {{ range . }}
+        <a href="/tags/{{ . | urlize }}#content">#{{ . }}</a>
+        {{ end }}
+      </span>
+      {{ end }}
+    </span>
+    {{if or .Prev .Next}}
+    <span class="box invert"></span>
+    {{ end }}
+    <small class="cluster">
+      {{if .Prev}}
+      <span class="stack prev-next">
+        <span>[+ <a href={{.Prev.Permalink}}#content>◀ previous</a> +]</span>
+        <span>{{.Prev.Title}} (by {{ .Prev.Params.author }})</span>
+      </span>
+      {{end}}
+      {{if and .Prev .Next}}
+      <span class="box"></span>
+      {{ end }}
+      {{if .Next}}
+      <span class="stack prev-next">
+        <span>{{.Next.Title}} (by {{ .Next.Params.author }})</span>
+        <span>[+ <a href={{.Next.Permalink}}#content>next ▶</a> +]</span>
+      </span>
+      {{end}}
+    </small>
+  </footer>
+</article>
+{{ end }}

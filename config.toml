@@ -5,6 +5,7 @@ title = "The Bombay Literary Magazine"
 theme = "tblm"
 
 [params]
+    iconTitle = "tblm"
     author = "TBLM Staff"
     description = "Published by The Bombay Literary Magazine"
     publisher = "The Bombay Literary Magazine"

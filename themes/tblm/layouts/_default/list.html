@@ -1,14 +1,11 @@
 {{ define "main" }}
-<div class="cluster">
-  <h2>{{ .Title }}</h2>
-  {{- partial "top.html" .}}
-</div>
-{{ .Content }}
-<div class="posts">
-  {{ range .Pages }}
-  <div class="post">
-    <h3><a href="{{ .RelPermalink }}#content">{{ .Title }}</a></h3>
+<div class="stack">
+  <div class="cluster">
+    <div class="homepage:section">All {{ .Title }}</div>
+    <div>{{- partial "top.html" . }}</div>
   </div>
+  {{ range .Pages }}
+  {{ partial "post_summary.html" . }}
   {{ end }}
 </div>
 {{ end }}

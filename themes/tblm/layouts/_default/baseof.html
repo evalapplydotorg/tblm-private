@@ -3,7 +3,7 @@
   {{- partial "head.html" . -}}
   <body>
     <div class="stack center box">
-      <div>{{- partial "header.html" . -}}</div>
+      <div id="top-nav">{{- partial "header.html" . -}}</div>
       <div id="content">{{- block "main" . }}{{- end }}</div>
       <div>{{- partial "footer.html" . -}}</div>
     </div>

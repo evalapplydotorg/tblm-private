@@ -1,10 +1,26 @@
 {{ define "main" }}
-<h2>{{ .Title }}</h2>
-{{ .Content }}
-{{ range .Data.Terms.Alphabetical }}
-<span class="tag">
-  <a href="{{ .Page.Permalink }}#content">{{ .Page.Title }}</a>
-  <span class="count">({{ .Count }}), </span>
-</span>
-{{ end }}
+<div class="stack">
+  <div class="cluster">
+    <div class="homepage:section">All Back Issues</div>
+    {{- partial "top.html" . }}
+  </div>
+  <div>{{ .Content }}</div>
+  <section class="stack">
+    {{ range .Pages }}
+    <div class="box invert"></div>
+    <div class="homepage:section box invert">
+      {{ $issueTitle := .Title }}
+      Issue {{ $issueTitle }}
+    </div>
+    <section class="cluster">
+      {{ $pageTitle := .Title }}
+      <div>
+        {{ range where .Site.Pages "Params.issue" $pageTitle }}
+        {{ partial "post_summary.html" . }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+  </section>
+</div>
 {{ end }}

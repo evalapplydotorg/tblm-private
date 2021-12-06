@@ -12,10 +12,23 @@
   <div class="switcher">
     {{ range where .Site.Pages "Params.issue" $issueID }}
     <div class="stack cover">
-      <div class="box invert"><div class="homepage:title">{{ .Page.Title }}</div></div>
+      <div class="stack box invert">
+        <div class="homepage:title">{{ .Page.Title }}</div>
+        <div class="cluster">
+          <div class="homepage:author">{{ .Params.author }}</div>
+          <div class="homepage:meta">
+            <span>{{ .Date.Format "January 2, 2006"}}</span>
+            <span>/ Issue {{ .Params.issue }}</span>
+            <span>/ {{ .Params.category }}</span>
+          </div>
+        </div>
+      </div>
       <div>{{ .Page.Summary }}</div>
-      <div class="homepage:read-more">
+      <div class="cluster">
+        <div class="homepage:read-more">
           [ <a href="{{ .RelPermalink }}#content">+ read +</a> ]
+        </div>
+        <div>{{- partial "top.html" . }}</div>
       </div>
     </div>
     {{ end }}
