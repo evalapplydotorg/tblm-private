@@ -1,5 +1,5 @@
 ---
-title: Postmortem – by Devanshi Khetarpal
+title: 'Postmortem'
 author: "Devanshi Khetarpal"
 type: post
 date: 2020-10-28T03:21:24+00:00

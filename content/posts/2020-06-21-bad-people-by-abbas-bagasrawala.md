@@ -1,5 +1,5 @@
 ---
-title: Bad People – by Abbas Bagasrawala
+title: 'Bad People'
 author: "Abbas Bagasrawala"
 type: post
 date: 2020-06-21T03:04:04+00:00

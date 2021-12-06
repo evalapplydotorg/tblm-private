@@ -1,5 +1,5 @@
 ---
-title: Boundaries – by Neera Kashyap
+title: 'Boundaries'
 author: "Neera Kashyap"
 type: post
 date: 2015-07-10T06:28:40+00:00

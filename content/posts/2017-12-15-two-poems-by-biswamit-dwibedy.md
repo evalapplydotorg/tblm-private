@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Biswamit Dwibedy
+title: 'Two Poems'
 author: "Biswamit Dwibedy"
 type: post
 date: 2017-12-15T04:00:31+00:00

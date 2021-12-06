@@ -1,5 +1,5 @@
 ---
-title: The Infinite Capacity for Illusion – by Riku Sayuj
+title: 'The Infinite Capacity for Illusion'
 author: "Riku Sayuj"
 type: post
 date: 2014-03-30T20:28:26+00:00

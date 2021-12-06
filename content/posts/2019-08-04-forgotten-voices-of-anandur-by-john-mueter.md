@@ -1,5 +1,5 @@
 ---
-title: Forgotten Voices of Anandur – by John Mueter
+title: 'Forgotten Voices of Anandur'
 author: "John Mueter"
 type: post
 date: 2019-08-04T04:39:47+00:00

@@ -1,5 +1,5 @@
 ---
-title: Amy and the Question of Before – by Mohit Parikh
+title: 'Amy and the Question of Before'
 author: "Mohit Parikh"
 type: post
 date: 2013-07-10T19:03:38+00:00

@@ -1,5 +1,5 @@
 ---
-title: Three poems – by Kathleen Bryson
+title: 'Three poems'
 author: "Kathleen Bryson"
 type: post
 date: 2021-10-31T04:49:17+00:00

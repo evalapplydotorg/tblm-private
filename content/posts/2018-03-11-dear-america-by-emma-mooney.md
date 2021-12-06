@@ -1,5 +1,5 @@
 ---
-title: Dear America – by Emma Mooney
+title: 'Dear America'
 author: "Emma Mooney"
 type: post
 date: 2018-03-11T05:02:06+00:00

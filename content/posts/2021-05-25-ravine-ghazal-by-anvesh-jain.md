@@ -1,5 +1,5 @@
 ---
-title: Ravine Ghazal – by Anvesh Jain
+title: 'Ravine Ghazal'
 author: "Anvesh Jain"
 type: post
 date: 2021-05-25T03:48:17+00:00

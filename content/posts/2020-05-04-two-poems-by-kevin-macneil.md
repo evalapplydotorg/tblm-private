@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Kevin MacNeil
+title: 'Two Poems'
 author: "Kevin MacNeil"
 type: post
 date: 2020-05-04T02:47:42+00:00

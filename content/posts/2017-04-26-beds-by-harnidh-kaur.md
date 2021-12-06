@@ -1,5 +1,5 @@
 ---
-title: Beds – by Harnidh Kaur
+title: 'Beds'
 author: "Harnidh Kaur"
 type: post
 date: 2017-04-26T03:52:30+00:00

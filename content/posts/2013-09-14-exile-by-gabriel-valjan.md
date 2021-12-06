@@ -1,5 +1,5 @@
 ---
-title: Exile – by Gabriel Valjan
+title: 'Exile'
 author: "Gabriel Valjan"
 type: post
 date: 2013-09-14T05:59:23+00:00

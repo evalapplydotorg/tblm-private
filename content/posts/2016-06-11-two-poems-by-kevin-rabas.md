@@ -1,5 +1,5 @@
 ---
-title: Two poems – by Kevin Rabas
+title: 'Two poems'
 author: "Kevin Rabas"
 type: post
 date: 2016-06-11T00:10:26+00:00

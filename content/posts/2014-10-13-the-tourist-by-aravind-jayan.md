@@ -1,5 +1,5 @@
 ---
-title: The Tourist – by Aravind Jayan
+title: 'The Tourist'
 author: "Aravind Jayan"
 type: post
 date: 2014-10-13T04:53:05+00:00

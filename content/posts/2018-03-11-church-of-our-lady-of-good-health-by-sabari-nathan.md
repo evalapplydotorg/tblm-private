@@ -1,5 +1,5 @@
 ---
-title: Church of Our Lady of Good Health – by Sabari Nathan (tr. Vivekanand Selvaraj)
+title: 'Church of Our Lady of Good Health'
 author: "Sabari Nathan (tr. Vivekanand Selvaraj)"
 type: post
 date: 2018-03-11T04:47:50+00:00

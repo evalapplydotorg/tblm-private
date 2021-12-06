@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Misbah Ansari
+title: 'Two Poems'
 author: "Misbah Ansari"
 type: post
 date: 2019-12-01T04:52:01+00:00

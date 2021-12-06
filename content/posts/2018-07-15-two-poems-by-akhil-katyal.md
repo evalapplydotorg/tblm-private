@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Akhil Katyal
+title: 'Two Poems'
 author: "Akhil Katyal"
 type: post
 date: 2018-07-15T06:37:35+00:00

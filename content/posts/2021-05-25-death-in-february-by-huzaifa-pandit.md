@@ -1,5 +1,5 @@
 ---
-title: Death in February – by Huzaifa Pandit
+title: 'Death in February'
 author: "Huzaifa Pandit"
 type: post
 date: 2021-05-25T03:38:56+00:00

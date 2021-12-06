@@ -1,5 +1,5 @@
 ---
-title: Three poems – by Anesce Dremen
+title: 'Three poems'
 author: "Anesce Dremen"
 type: post
 date: 2021-06-19T03:19:25+00:00

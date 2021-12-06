@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Radhika Shah
+title: 'Two Poems'
 author: "Radhika Shah"
 type: post
 date: 2020-03-12T05:54:41+00:00

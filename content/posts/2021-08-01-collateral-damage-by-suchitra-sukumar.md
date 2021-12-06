@@ -1,5 +1,5 @@
 ---
-title: Collateral Damage – by Suchitra Sukumar
+title: 'Collateral Damage'
 author: "Suchitra Sukumar"
 type: post
 date: 2021-08-01T06:25:31+00:00

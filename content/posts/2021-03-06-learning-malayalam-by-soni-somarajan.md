@@ -1,5 +1,5 @@
 ---
-title: Learning Malayalam – by Soni Somarajan
+title: 'Learning Malayalam'
 author: "Soni Somarajan"
 type: post
 date: 2021-03-06T02:13:54+00:00

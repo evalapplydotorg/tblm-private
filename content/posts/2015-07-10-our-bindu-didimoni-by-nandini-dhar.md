@@ -1,5 +1,5 @@
 ---
-title: Our Bindu Didimoni – by Nandini Dhar
+title: 'Our Bindu Didimoni'
 author: "Nandini Dhar"
 type: post
 date: 2015-07-10T06:33:21+00:00

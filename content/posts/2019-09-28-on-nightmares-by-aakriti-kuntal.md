@@ -1,5 +1,5 @@
 ---
-title: On Nightmares – by Aakriti Kuntal
+title: 'On Nightmares'
 author: "Aakriti Kuntal"
 type: post
 date: 2019-09-28T04:22:41+00:00

@@ -1,5 +1,5 @@
 ---
-title: The Mud Fort of Khiva – by Priya Sarukkai Chabria
+title: 'The Mud Fort of Khiva'
 author: "Priya Sarukkai Chabria"
 type: post
 date: 2021-05-25T03:31:34+00:00

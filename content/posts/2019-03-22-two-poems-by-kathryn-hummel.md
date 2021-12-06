@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Kathryn Hummel
+title: 'Two Poems'
 author: "Kathryn Hummel"
 type: post
 date: 2019-03-22T03:53:41+00:00

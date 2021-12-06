@@ -1,5 +1,5 @@
 ---
-title: Three poems – by Karan Kapoor
+title: 'Three poems'
 author: "Karan Kapoor"
 type: post
 date: 2021-10-31T04:56:13+00:00

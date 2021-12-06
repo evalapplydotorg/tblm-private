@@ -1,5 +1,5 @@
 ---
-title: A Woolly Mammoth on the Shore – by Aswin Vijayan
+title: 'A Woolly Mammoth on the Shore'
 author: "Aswin Vijayan"
 type: post
 date: 2020-07-27T02:56:50+00:00

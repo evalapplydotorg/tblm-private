@@ -1,5 +1,5 @@
 ---
-title: The Jump – by Rahad Abir
+title: 'The Jump'
 author: "Rahad Abir"
 type: post
 date: 2019-06-24T02:36:49+00:00

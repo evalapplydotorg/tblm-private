@@ -1,5 +1,5 @@
 ---
-title: Lefting – by Debojit Dutta
+title: 'Lefting'
 author: "Debojit Dutta"
 type: post
 date: 2018-11-19T03:13:35+00:00

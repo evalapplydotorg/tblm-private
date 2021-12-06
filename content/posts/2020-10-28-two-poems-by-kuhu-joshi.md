@@ -1,5 +1,5 @@
 ---
-title: Two poems – by Kuhu Joshi
+title: 'Two poems'
 author: "Kuhu Joshi"
 type: post
 date: 2020-10-28T03:26:23+00:00

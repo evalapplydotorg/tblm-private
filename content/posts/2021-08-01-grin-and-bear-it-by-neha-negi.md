@@ -1,5 +1,5 @@
 ---
-title: Grin and Bear It – by Neha Negi
+title: 'Grin and Bear It'
 author: "Neha Negi"
 type: post
 date: 2021-08-01T06:07:27+00:00

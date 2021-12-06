@@ -1,5 +1,5 @@
 ---
-title: Universe on a Banana Leaf – by Sumit Shetty
+title: 'Universe on a Banana Leaf'
 author: "Sumit Shetty"
 type: post
 date: 2021-10-31T05:01:07+00:00

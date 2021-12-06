@@ -1,5 +1,5 @@
 ---
-title: The Art of Flight – by Dimitri Keramitas
+title: 'The Art of Flight'
 author: "Dimitri Keramitas"
 type: post
 date: 2015-02-26T15:03:14+00:00

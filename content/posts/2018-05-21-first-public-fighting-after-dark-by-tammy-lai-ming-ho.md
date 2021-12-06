@@ -1,5 +1,5 @@
 ---
-title: First Public Fighting, After Dark – by Tammy Lai-Ming Ho
+title: 'First Public Fighting, After Dark'
 author: "Tammy Lai-Ming Ho"
 type: post
 date: 2018-05-21T12:03:11+00:00

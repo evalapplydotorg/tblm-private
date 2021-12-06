@@ -1,5 +1,5 @@
 ---
-title: Library of Olan – by Prashant Parvataneni
+title: 'Library of Olan'
 author: "Prashant Parvataneni"
 type: post
 date: 2020-10-28T03:27:46+00:00

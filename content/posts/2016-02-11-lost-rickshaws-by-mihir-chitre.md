@@ -1,5 +1,5 @@
 ---
-title: Lost Rickshaws – by Mihir Chitre
+title: 'Lost Rickshaws'
 author: "Mihir Chitre"
 type: post
 date: 2016-02-11T12:47:32+00:00

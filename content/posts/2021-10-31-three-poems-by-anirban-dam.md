@@ -1,5 +1,5 @@
 ---
-title: Three poems – by Anirban Dam
+title: 'Three poems'
 author: "Anirban Dam"
 type: post
 date: 2021-10-31T05:07:38+00:00

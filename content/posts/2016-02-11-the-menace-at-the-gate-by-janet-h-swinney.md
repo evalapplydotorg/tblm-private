@@ -1,5 +1,5 @@
 ---
-title: The Menace at the Gate – by Janet H. Swinney
+title: 'The Menace at the Gate'
 author: "Janet H. Swinney"
 type: post
 date: 2016-02-11T12:18:42+00:00

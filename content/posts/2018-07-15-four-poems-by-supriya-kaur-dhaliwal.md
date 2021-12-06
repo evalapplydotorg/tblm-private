@@ -1,5 +1,5 @@
 ---
-title: Four Poems – by Supriya Kaur Dhaliwal
+title: 'Four Poems'
 author: "Supriya Kaur Dhaliwal"
 type: post
 date: 2018-07-15T06:40:04+00:00

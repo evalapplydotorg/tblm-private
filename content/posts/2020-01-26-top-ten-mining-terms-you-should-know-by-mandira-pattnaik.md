@@ -1,5 +1,5 @@
 ---
-title: Top Ten Mining Terms You Should Know – by Mandira Pattnaik
+title: 'Top Ten Mining Terms You Should Know'
 author: "Mandira Pattnaik"
 type: post
 date: 2020-01-26T08:39:59+00:00

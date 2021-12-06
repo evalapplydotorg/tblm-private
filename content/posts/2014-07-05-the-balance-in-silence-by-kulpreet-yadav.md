@@ -1,5 +1,5 @@
 ---
-title: The Balance in Silence – by Kulpreet Yadav
+title: 'The Balance in Silence'
 author: "Kulpreet Yadav"
 type: post
 date: 2014-07-05T04:25:18+00:00

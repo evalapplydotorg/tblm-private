@@ -1,5 +1,5 @@
 ---
-title: With Love, Vincent – by Momina Masood
+title: 'With Love, Vincent'
 author: "Momina Masood"
 type: post
 date: 2015-10-14T17:35:34+00:00

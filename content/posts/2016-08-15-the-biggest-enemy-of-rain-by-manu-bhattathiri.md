@@ -1,5 +1,5 @@
 ---
-title: The Biggest Enemy of Rain – by Manu Bhattathiri
+title: 'The Biggest Enemy of Rain'
 author: "Manu Bhattathiri"
 type: post
 date: 2016-08-15T11:40:33+00:00

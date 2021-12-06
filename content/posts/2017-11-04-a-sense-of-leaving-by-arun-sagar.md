@@ -1,5 +1,5 @@
 ---
-title: A Sense of Leaving – by Arun Sagar
+title: 'A Sense of Leaving'
 author: "Arun Sagar"
 type: post
 date: 2017-11-04T09:37:56+00:00

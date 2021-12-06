@@ -1,5 +1,5 @@
 ---
-title: 'Sharanya Manivannan – interviewed by Tanuj Solanki [2]'
+title: 'Sharanya Manivannan'
 type: post
 date: 2018-02-24T17:37:57+00:00
 year: "2018"

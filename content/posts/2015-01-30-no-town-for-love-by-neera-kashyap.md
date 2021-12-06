@@ -1,5 +1,5 @@
 ---
-title: No Town for Love – by Neera Kashyap
+title: 'No Town for Love'
 author: "Neera Kashyap"
 type: post
 date: 2015-01-30T19:15:05+00:00

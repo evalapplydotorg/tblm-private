@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Anirban Dam
+title: 'Two Poems'
 author: "Anirban Dam"
 type: post
 date: 2020-03-12T06:12:56+00:00

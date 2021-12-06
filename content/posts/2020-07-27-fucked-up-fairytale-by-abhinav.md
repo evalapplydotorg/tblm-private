@@ -1,5 +1,5 @@
 ---
-title: Fairytale – by Abhinav Lakra
+title: 'Fairytale'
 author: "Abhinav Lakra"
 type: post
 date: 2020-07-27T03:12:50+00:00

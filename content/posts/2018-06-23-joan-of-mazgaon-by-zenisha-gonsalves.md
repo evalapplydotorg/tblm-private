@@ -1,5 +1,5 @@
 ---
-title: Joan of Mazgaon – by Zenisha Gonsalves
+title: 'Joan of Mazgaon'
 author: "Zenisha Gonsalves"
 type: post
 date: 2018-06-23T03:43:34+00:00

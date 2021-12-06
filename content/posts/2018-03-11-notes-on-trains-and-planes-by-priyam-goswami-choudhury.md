@@ -1,5 +1,5 @@
 ---
-title: notes on trains and planes – by Priyam Goswami-Choudhury
+title: 'notes on trains and planes'
 author: "Priyam Goswami-Choudhury"
 type: post
 date: 2018-03-11T04:54:51+00:00

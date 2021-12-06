@@ -1,5 +1,5 @@
 ---
-title: Some (un)poetic Contiguities – by Mubashir Karim
+title: 'Some (un)poetic Contiguities'
 author: "Mubashir Karim"
 type: post
 date: 2021-05-25T03:07:10+00:00

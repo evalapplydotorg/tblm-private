@@ -1,5 +1,5 @@
 ---
-title: A Review of Mohit Parikh’s ‘Manan’ – by Mihir Vatsa
+title: 'A Review of Mohit Parikh’s ‘Manan’'
 author: "Mihir Vatsa"
 type: post
 date: 2014-12-08T15:18:04+00:00

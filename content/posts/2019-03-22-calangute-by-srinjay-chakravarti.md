@@ -1,5 +1,5 @@
 ---
-title: Calangute – by Srinjay Chakravarti
+title: 'Calangute'
 author: "Srinjay Chakravarti"
 type: post
 date: 2019-03-22T03:50:24+00:00

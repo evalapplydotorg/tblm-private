@@ -1,5 +1,5 @@
 ---
-title: Two poems – by Sambhu R.
+title: 'Two poems'
 author: "Sambhu R."
 type: post
 date: 2021-06-19T04:17:13+00:00

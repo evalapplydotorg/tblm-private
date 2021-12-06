@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Mihir Chitre
+title: 'Two Poems'
 author: "Mihir Chitre"
 type: post
 date: 2015-04-09T02:02:33+00:00

@@ -1,5 +1,5 @@
 ---
-title: Call From Kyoto – by Poornima Laxmeshwar
+title: 'Call From Kyoto'
 author: "Poornima Laxmeshwar"
 type: post
 date: 2018-01-07T02:44:13+00:00

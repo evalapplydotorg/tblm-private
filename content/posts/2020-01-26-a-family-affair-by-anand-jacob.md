@@ -1,5 +1,5 @@
 ---
-title: A Family Affair – by Anand Jacob
+title: 'A Family Affair'
 author: "Anand Jacob"
 type: post
 date: 2020-01-26T08:27:25+00:00

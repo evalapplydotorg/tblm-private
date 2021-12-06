@@ -1,5 +1,5 @@
 ---
-title: A Perfect Pair of Feet – by Tendai Huchu
+title: 'A Perfect Pair of Feet'
 author: "Tendai Huchu"
 type: post
 date: 2015-04-09T01:58:10+00:00

@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Priya Narayanan
+title: 'Two Poems'
 author: "Priya Narayanan"
 type: post
 date: 2020-06-21T03:12:46+00:00

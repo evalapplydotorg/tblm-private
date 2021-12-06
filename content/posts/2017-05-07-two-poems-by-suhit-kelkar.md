@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Suhit Kelkar
+title: 'Two Poems'
 author: "Suhit Kelkar"
 type: post
 date: 2017-05-07T06:06:28+00:00

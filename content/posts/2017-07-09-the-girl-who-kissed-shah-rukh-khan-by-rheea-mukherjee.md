@@ -1,5 +1,5 @@
 ---
-title: The Girl Who Kissed Shah Rukh Khan – by Rheea Mukherjee
+title: 'The Girl Who Kissed Shah Rukh Khan'
 author: "Rheea Mukherjee"
 type: post
 date: 2017-07-09T01:29:17+00:00

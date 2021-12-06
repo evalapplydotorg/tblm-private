@@ -1,5 +1,5 @@
 ---
-title: The American – by Molly Gaudry
+title: 'The American'
 author: "Molly Gaudry"
 type: post
 date: 2015-01-30T19:21:50+00:00

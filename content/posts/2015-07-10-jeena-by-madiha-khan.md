@@ -1,5 +1,5 @@
 ---
-title: Jeena – by Madiha Khan
+title: 'Jeena'
 author: "Madiha Khan"
 type: post
 date: 2015-07-10T06:25:13+00:00

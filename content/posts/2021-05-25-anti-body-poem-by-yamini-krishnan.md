@@ -1,5 +1,5 @@
 ---
-title: Anti-Body Poem – by Yamini Krishnan
+title: 'Anti-Body Poem'
 author: "Yamini Krishnan"
 type: post
 date: 2021-05-25T03:09:20+00:00

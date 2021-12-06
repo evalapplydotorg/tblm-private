@@ -1,5 +1,5 @@
 ---
-title: Your Side Of The Bed – by Ila Ananya
+title: 'Your Side Of The Bed'
 author: "Ila Ananya"
 type: post
 date: 2019-09-28T02:50:01+00:00

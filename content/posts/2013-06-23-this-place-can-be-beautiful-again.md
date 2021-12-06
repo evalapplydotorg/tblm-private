@@ -1,5 +1,5 @@
 ---
-title: This Place can be Beautiful Again – by Alex Miller
+title: 'This Place can be Beautiful Again'
 author: "Alex Miller"
 type: post
 date: 2013-06-23T09:53:32+00:00

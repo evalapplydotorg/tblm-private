@@ -1,5 +1,5 @@
 ---
-title: Review of Mihir Vatsa’s WINGMAN – by Medha Singh
+title: 'Review of Mihir Vatsa’s WINGMAN'
 author: "Medha Singh"
 type: post
 date: 2018-05-21T11:43:38+00:00

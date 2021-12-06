@@ -1,5 +1,5 @@
 ---
-title: Three Poems – by Vivekanand Selvaraj
+title: 'Three Poems'
 author: "Vivekanand Selvaraj"
 type: post
 date: 2019-05-21T03:00:54+00:00

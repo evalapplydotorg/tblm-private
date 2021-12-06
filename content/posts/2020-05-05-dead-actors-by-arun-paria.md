@@ -1,5 +1,5 @@
 ---
-title: Dead Actors – by Arun Paria
+title: 'Dead Actors'
 author: "Arun Paria"
 type: post
 date: 2020-05-05T01:07:48+00:00

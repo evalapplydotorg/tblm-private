@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Deepa Onkar
+title: 'Two Poems'
 author: "Deepa Onkar"
 type: post
 date: 2019-05-21T02:49:26+00:00

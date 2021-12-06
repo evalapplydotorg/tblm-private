@@ -1,5 +1,5 @@
 ---
-title: Love in a Small Town – by Aravind Jayan
+title: 'Love in a Small Town'
 author: "Aravind Jayan"
 type: post
 date: 2015-10-26T16:55:58+00:00

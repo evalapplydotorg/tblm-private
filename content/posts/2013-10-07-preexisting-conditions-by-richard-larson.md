@@ -1,5 +1,5 @@
 ---
-title: Preexisting Conditions – by Richard Larson
+title: 'Preexisting Conditions'
 author: "Richard Larson"
 type: post
 date: 2013-10-07T16:50:55+00:00

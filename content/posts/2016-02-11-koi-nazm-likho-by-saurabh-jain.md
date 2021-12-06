@@ -1,5 +1,5 @@
 ---
-title: कोई नज़्म लिखो – by Saurabh Jain
+title: 'कोई नज़्म लिखो'
 author: "Saurabh Jain"
 type: post
 date: 2016-02-11T12:49:24+00:00

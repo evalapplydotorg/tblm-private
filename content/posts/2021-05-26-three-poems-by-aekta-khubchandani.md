@@ -1,5 +1,5 @@
 ---
-title: Three poems – by Aekta Khubchandani
+title: 'Three poems'
 author: "Aekta Khubchandani"
 type: post
 date: 2021-05-26T01:34:11+00:00

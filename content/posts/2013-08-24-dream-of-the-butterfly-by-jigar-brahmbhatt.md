@@ -1,5 +1,5 @@
 ---
-title: Dream of the Butterfly – by Jigar Brahmbhatt
+title: 'Dream of the Butterfly'
 author: "Jigar Brahmbhatt"
 type: post
 date: 2013-08-24T10:39:43+00:00

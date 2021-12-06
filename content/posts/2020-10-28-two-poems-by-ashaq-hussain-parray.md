@@ -1,5 +1,5 @@
 ---
-title: Two poems – by Ashaq Hussain Parray
+title: 'Two poems'
 author: "Ashaq Hussain Parray"
 type: post
 date: 2020-10-28T03:16:19+00:00

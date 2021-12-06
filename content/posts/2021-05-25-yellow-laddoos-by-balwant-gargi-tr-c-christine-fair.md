@@ -1,5 +1,5 @@
 ---
-title: Yellow Laddoos – by Balwant Gargi (tr. C. Christine Fair)
+title: 'Yellow Laddoos'
 author: "Balwant Gargi (tr. C. Christine Fair)"
 type: post
 date: 2021-05-25T03:04:07+00:00

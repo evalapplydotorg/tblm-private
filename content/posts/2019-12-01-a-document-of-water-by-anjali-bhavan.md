@@ -1,5 +1,5 @@
 ---
-title: A Document of Water – by Anjali Bhavan
+title: 'A Document of Water'
 author: "Anjali Bhavan"
 type: post
 date: 2019-12-01T05:07:46+00:00

@@ -1,5 +1,5 @@
 ---
-title: Two poems – by Nabanita Kanungo
+title: 'Two poems'
 author: "Nabanita Kanungo"
 type: post
 date: 2017-08-31T16:23:27+00:00

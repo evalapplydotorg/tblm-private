@@ -1,5 +1,5 @@
 ---
-title: The Sanskari Bahu – by Ravneet Bawa
+title: 'The Sanskari Bahu'
 author: "Ravneet Bawa"
 type: post
 date: 2021-06-19T04:02:06+00:00

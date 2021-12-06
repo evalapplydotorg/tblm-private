@@ -1,5 +1,5 @@
 ---
-title: Master Ji’s Family – by Younis Kaloo
+title: 'Master Ji’s Family'
 author: "Younis Kaloo"
 type: post
 date: 2020-06-21T03:07:04+00:00

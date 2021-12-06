@@ -1,5 +1,5 @@
 ---
-title: Buddha At The Museum – by Prathap Kamath
+title: 'Buddha At The Museum'
 author: "Prathap Kamath"
 type: post
 date: 2019-01-10T03:53:41+00:00

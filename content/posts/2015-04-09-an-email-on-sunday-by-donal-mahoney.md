@@ -1,5 +1,5 @@
 ---
-title: An Email on Sunday – by Donal Mahoney
+title: 'An Email on Sunday'
 author: "Donal Mahoney"
 type: post
 date: 2015-04-09T02:04:05+00:00

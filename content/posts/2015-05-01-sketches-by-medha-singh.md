@@ -1,5 +1,5 @@
 ---
-title: sketches – by Medha Singh
+title: 'sketches'
 author: "Medha Singh"
 type: post
 date: 2015-05-01T14:51:18+00:00

@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Ricky Garni
+title: 'Two Poems'
 author: "Ricky Garni"
 type: post
 date: 2015-02-26T14:40:46+00:00

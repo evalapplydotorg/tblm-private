@@ -1,6 +1,6 @@
 ---
-title: 'This Poem is Deliberately Untitled – by Dr. H S  Anupama (tr. Kamalakar Bhat)'
-author: "Dr. H S  Anupama (tr. Kamalakar Bhat)'"
+title: 'This Poem is Deliberately Untitled'
+author: "Dr. H S  Anupama (tr. Kamalakar Bhat)"
 type: post
 date: 2021-05-25T03:35:51+00:00
 year: "2021"

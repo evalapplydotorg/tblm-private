@@ -64,6 +64,21 @@ parse_author_from_title() {
     done
 }
 
+remove_author_from_title() {
+    # title: How Do I Remember Thee? – by Dion D’Souza
+    # to
+    # title: How Do I Remember Thee?
+    # Also, remove spurious single quotes that carried over into author
+    # names when we parsed out author from title.
+    local file_name
+    while read file_name
+    do sed -i -E \
+           -e "s;^(title\:\s+)('?)(.*)(\s+–\s+(by)?.*);\1'\3';" \
+           -e "s;^(author\:.*)('\");\1\";" \
+           "$(realpath ../content/posts/${file_name})"
+    done
+}
+
 # copy_posts
 
 # ls -1 ../content/posts/ | massage_date
@@ -71,4 +86,5 @@ parse_author_from_title() {
 # ls -1 ../content/posts/ | add_newline_to_eofs
 # ls -1 ../content/posts/ | massage_category
 # ls -1 ../content/posts/ | slugify_url
-ls -1 ../content/posts/ | parse_author_from_title
+#ls -1 ../content/posts/ | parse_author_from_title
+ls -1 ../content/posts/ | remove_author_from_title

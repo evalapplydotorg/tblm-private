@@ -1,5 +1,5 @@
 ---
-title: City Life – by Anirban Nanda
+title: 'City Life'
 author: "Anirban Nanda"
 type: post
 date: 2017-07-09T03:42:19+00:00

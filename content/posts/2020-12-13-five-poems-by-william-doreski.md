@@ -1,5 +1,5 @@
 ---
-title: Five Poems – by William Doreski
+title: 'Five Poems'
 author: "William Doreski"
 type: post
 date: 2020-12-13T06:29:11+00:00

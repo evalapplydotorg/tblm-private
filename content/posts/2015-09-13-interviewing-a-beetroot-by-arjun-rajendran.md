@@ -1,5 +1,5 @@
 ---
-title: Interviewing a Beetroot – by Arjun Rajendran
+title: 'Interviewing a Beetroot'
 author: "Arjun Rajendran"
 type: post
 date: 2015-09-13T16:00:59+00:00

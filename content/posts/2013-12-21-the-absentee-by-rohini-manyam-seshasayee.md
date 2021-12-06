@@ -1,5 +1,5 @@
 ---
-title: The Absentee – by Rohini Manyam Seshasayee
+title: 'The Absentee'
 author: "Rohini Manyam Seshasayee"
 type: post
 date: 2013-12-21T11:44:07+00:00

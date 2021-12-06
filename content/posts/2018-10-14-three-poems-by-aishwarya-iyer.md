@@ -1,5 +1,5 @@
 ---
-title: Three Poems – by Aishwarya Iyer
+title: 'Three Poems'
 author: "Aishwarya Iyer"
 type: post
 date: 2018-10-14T04:01:30+00:00

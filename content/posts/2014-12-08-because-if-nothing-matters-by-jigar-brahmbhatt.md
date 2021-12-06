@@ -1,5 +1,5 @@
 ---
-title: Because If Nothing Matters – by Jigar Brahmbhatt
+title: 'Because If Nothing Matters'
 author: "Jigar Brahmbhatt"
 type: post
 date: 2014-12-08T13:43:28+00:00

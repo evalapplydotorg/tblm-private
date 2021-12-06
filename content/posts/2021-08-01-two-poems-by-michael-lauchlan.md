@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Michael Lauchlan
+title: 'Two Poems'
 author: "Michael Lauchlan"
 type: post
 date: 2021-08-01T06:28:02+00:00

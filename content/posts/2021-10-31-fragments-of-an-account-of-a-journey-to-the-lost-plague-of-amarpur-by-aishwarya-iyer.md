@@ -1,6 +1,6 @@
 ---
-title: 'Fragments of an Account of a Journey to the Lost Plague of Amarpur  – by Aishwarya Iyer'
-author: "Aishwarya Iyer'"
+title: 'Fragments of an Account of a Journey to the Lost Plague of Amarpur '
+author: "Aishwarya Iyer"
 type: post
 date: 2021-10-31T05:09:33+00:00
 year: "2021"

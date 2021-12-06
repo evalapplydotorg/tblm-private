@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Manjiri Indurkar
+title: 'Two Poems'
 author: "Manjiri Indurkar"
 type: post
 date: 2017-12-15T03:55:08+00:00

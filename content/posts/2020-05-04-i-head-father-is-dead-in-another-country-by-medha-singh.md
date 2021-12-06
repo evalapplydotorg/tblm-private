@@ -1,5 +1,5 @@
 ---
-title: Three Poems – by Medha Singh
+title: 'Three Poems'
 author: "Medha Singh"
 type: post
 date: 2020-05-04T02:29:21+00:00

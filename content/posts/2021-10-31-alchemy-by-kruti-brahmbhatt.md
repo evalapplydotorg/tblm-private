@@ -1,5 +1,5 @@
 ---
-title: Alchemy – by Kruti Brahmbhatt
+title: 'Alchemy'
 author: "Kruti Brahmbhatt"
 type: post
 date: 2021-10-31T04:41:14+00:00

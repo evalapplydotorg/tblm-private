@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Satya Dash
+title: 'Two Poems'
 author: "Satya Dash"
 type: post
 date: 2020-03-12T06:09:58+00:00

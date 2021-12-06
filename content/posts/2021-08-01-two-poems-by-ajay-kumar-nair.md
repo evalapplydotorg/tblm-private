@@ -1,5 +1,5 @@
 ---
-title: Two Poems – by Ajay Kumar Nair
+title: 'Two Poems'
 author: "Ajay Kumar Nair"
 type: post
 date: 2021-08-01T06:46:52+00:00

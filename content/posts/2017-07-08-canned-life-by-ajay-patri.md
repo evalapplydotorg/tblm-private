@@ -1,5 +1,5 @@
 ---
-title: Canned Life – by Ajay Patri
+title: 'Canned Life'
 author: "Ajay Patri"
 type: post
 date: 2017-07-08T09:55:17+00:00

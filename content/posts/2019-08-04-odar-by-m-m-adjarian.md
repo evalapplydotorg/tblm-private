@@ -1,5 +1,5 @@
 ---
-title: Odar – by M.M. Adjarian
+title: 'Odar'
 author: "M.M. Adjarian"
 type: post
 date: 2019-08-04T04:48:55+00:00

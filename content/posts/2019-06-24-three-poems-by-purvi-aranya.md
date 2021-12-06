@@ -1,5 +1,5 @@
 ---
-title: Three Poems – by Purvai Aranya
+title: 'Three Poems'
 author: "Purvai Aranya"
 type: post
 date: 2019-06-24T02:44:46+00:00

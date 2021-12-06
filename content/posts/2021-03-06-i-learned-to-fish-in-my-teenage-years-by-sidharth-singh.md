@@ -1,5 +1,5 @@
 ---
-title: I Learned to Fish in My Teenage Years – by Sidharth Singh
+title: 'I Learned to Fish in My Teenage Years'
 author: "Sidharth Singh"
 type: post
 date: 2021-03-06T01:54:55+00:00

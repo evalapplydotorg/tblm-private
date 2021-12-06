@@ -1,5 +1,5 @@
 ---
-title: Phototaxis – by Andal Srivatsan
+title: 'Phototaxis'
 author: "Andal Srivatsan"
 type: post
 date: 2021-08-01T06:44:05+00:00

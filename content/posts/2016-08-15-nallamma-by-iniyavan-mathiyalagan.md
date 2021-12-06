@@ -1,5 +1,5 @@
 ---
-title: Nallamma – by Iniyavan Banumathi
+title: 'Nallamma'
 author: "Iniyavan Banumathi"
 type: post
 date: 2016-08-15T12:00:02+00:00

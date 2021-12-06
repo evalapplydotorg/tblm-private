@@ -1,5 +1,5 @@
 ---
-title: Gasoline – by Jen Knox
+title: 'Gasoline'
 author: "Jen Knox"
 type: post
 date: 2013-09-14T05:54:04+00:00

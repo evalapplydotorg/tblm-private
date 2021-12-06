@@ -1,5 +1,5 @@
 ---
-title: The Help – by Michelle D’Costa
+title: 'The Help'
 author: "Michelle D’Costa"
 type: post
 date: 2014-04-15T14:40:55+00:00

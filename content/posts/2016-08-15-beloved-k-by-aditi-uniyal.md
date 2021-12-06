@@ -1,5 +1,5 @@
 ---
-title: Beloved K – by Aditi Uniyal
+title: 'Beloved K'
 author: "Aditi Uniyal"
 type: post
 date: 2016-08-15T11:44:54+00:00

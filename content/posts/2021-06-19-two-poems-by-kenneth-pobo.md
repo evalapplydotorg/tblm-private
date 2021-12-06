@@ -1,5 +1,5 @@
 ---
-title: Two poems – by Kenneth Pobo
+title: 'Two poems'
 author: "Kenneth Pobo"
 type: post
 date: 2021-06-19T04:14:01+00:00

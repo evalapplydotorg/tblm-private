@@ -1,5 +1,5 @@
 ---
-title: On Language – by Kanan Gole
+title: 'On Language'
 author: "Kanan Gole"
 type: post
 date: 2018-01-07T02:47:45+00:00
