@@ -6,6 +6,7 @@ year: "2018"
 month: "2018/02"
 slug: '?p=687'
 category: interviews
+author: "tblm Staff"
 
 ---
 _We first interviewed Sharanya Manivannan after the publication of her short story collection,_ The High Priestess Never Marries_. That interview can be read [here][1]. This interview was done in the light of her recent poetry collection,_ The Altar of the Only World.

@@ -6,6 +6,7 @@ year: "2015"
 month: "2015/09"
 slug: '?p=358'
 category: interviews
+author: "tblm Staff"
 
 ---
 <div id="attachment_359" style="width: 310px" class="wp-caption aligncenter">

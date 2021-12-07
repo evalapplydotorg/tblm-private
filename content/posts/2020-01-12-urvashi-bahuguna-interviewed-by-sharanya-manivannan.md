@@ -6,6 +6,7 @@ year: "2020"
 month: "2020/01"
 slug: '?p=960'
 category: interviews
+author: "tblm Staff"
 issue: D2
 
 ---
