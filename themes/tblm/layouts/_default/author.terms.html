@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="stack">
+  <div class="cluster">
+    <div class="homepage:section">All Authors</div>
+    {{- partial "top.html" . }}
+  </div>
+  <div>{{ .Content }}</div>
+  <section class="stack">
+    {{ range .Pages }}
+    <div class="box invert"></div>
+    <div class="with-sidebar-narrow">
+      <div><img src={{ "images/mugshot-placeholder.png" |  relURL }} /></div>
+      <div class="stack">
+        <div class="homepage:section">
+          {{ $authorName := .Title }}
+          <a href="{{ .Page.Permalink }}#content">{{ $authorName }}</a>
+        </div>
+        <div>Author's short bio goes here.</div>
+      </div>
+    </div>
+    {{ range .Pages }}
+    {{ partial "post_summary.html" . }}
+    {{ end }}
+    {{ end }}
+  </section>
+</div>
+{{ end }}

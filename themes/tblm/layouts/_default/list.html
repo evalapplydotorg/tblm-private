@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="stack">
   <div class="cluster">
-    <div class="homepage:section">All {{ .Title }}</div>
+    <div class="homepage:section">{{ humanize .Title }}</div>
     <div>{{- partial "top.html" . }}</div>
   </div>
   {{ range .Pages }}
