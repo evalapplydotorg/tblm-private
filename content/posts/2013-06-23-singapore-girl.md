@@ -7,7 +7,7 @@ year: "2013"
 month: "2013/06"
 slug: '?p=18'
 category: fiction
-issue: 1
+issue: "1"
 tags:
   - Das
   - Delhi

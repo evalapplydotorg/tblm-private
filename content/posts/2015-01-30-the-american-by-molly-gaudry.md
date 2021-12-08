@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/01"
 slug: '?p=254'
 category: fiction
-issue: 9
+issue: "9"
 
 ---
 _The story was first published in UpRightDown; also anthologized in Best of the Web 2009, edited by Lee K. Abbott  

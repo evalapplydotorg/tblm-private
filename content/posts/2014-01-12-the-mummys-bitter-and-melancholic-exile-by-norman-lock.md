@@ -7,7 +7,7 @@ year: "2014"
 month: "2014/01"
 slug: '?p=129'
 category: fiction
-issue: 4
+issue: "4"
 tags:
   - 30s
   - Lock

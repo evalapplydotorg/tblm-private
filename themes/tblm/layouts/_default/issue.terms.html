@@ -10,7 +10,7 @@
     <div class="box invert"></div>
     <div class="homepage:section box invert">
       {{ $issueTitle := .Title }}
-      Issue {{ $issueTitle }}
+      Issue <a href="{{ .Page.Permalink }}#content">{{ $issueTitle }}</a>
     </div>
     <section class="cluster">
       {{ $pageTitle := .Title }}

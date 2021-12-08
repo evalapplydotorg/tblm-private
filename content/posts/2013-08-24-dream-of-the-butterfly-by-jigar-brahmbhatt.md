@@ -7,7 +7,7 @@ year: "2013"
 month: "2013/08"
 slug: '?p=78'
 category: fiction
-issue: 2
+issue: "2"
 tags:
   - Brahmbhatt
   - Jigar

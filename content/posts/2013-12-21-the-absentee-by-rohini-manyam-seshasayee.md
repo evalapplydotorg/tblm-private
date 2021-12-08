@@ -7,7 +7,7 @@ year: "2013"
 month: "2013/12"
 slug: '?p=122'
 category: fiction
-issue: 4
+issue: "4"
 
 ---
 Gauri sat nervously in the lobby of a high end salon, clutching the bridal package voucher that her mother had sent her with. A few minutes later, the receptionist let her know that the beautician was ready. Eyebrows would be dealt with first. The beautician held the ends of the thread in her mouth and hands, forming like intent scissors. Tears rolled down Gauri’s cheeks as her skin smarted and cooled her warm flushed cheeks. Thoughts of leaving her home and starting anew in another’s had fogged her mind with gloomy foreboding. A bride must look happier, the beautician joked. Gauri smiled, embarrassed. She felt better when hot wax was spread on her limbs, like jam. The repetitive stripping-off motion made her feel meditative and calm. Then the facial. They wiped her face clean and removed dead skin with a metal rod with a loop at the end of it. Then they scrubbed her face with a scrub they said contained salts from the Dead Sea. _Yes, the Dead Sea,_ Gauri had to restrain her smile.

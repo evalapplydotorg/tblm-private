@@ -7,7 +7,7 @@ year: "2013"
 month: "2013/06"
 slug: '?p=20'
 category: fiction
-issue: 1
+issue: "1"
 tags:
   - Alex
   - Alex Miller

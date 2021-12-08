@@ -7,7 +7,7 @@ year: "2014"
 month: "2014/06"
 slug: '?p=184'
 category: poetry
-issue: 6
+issue: "6"
 
 ---
 **Equal**
