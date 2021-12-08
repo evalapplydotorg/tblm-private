@@ -43,26 +43,28 @@
     <span class="cluster">
       <!-- ISSUE -->
       {{- with .Params.issue -}}
-      <span>Issue no:
-        <a href="/issue/{{ . | urlize }}#content"> {{ . }} </a>
+      <span>Issue:
+        <small><a href="/issue/{{ . | urlize }}#content">No. {{ . }} </a></small>
       </span>
       {{- end -}}
       <!-- CATEGORY -->
       {{- with .Params.category -}}
       <span>
         Category:
-        <a href="/category/{{ . | urlize }}#content">
-          {{ . }}
-        </a>
+        <small><a href="/category/{{ . | urlize }}#content">
+            {{ . }}
+          </a>
+        </small>
       </span>
       {{ end }}
       <!-- GENRE -->
       {{- with .Params.genre -}}
       <span>
         Genre:
-        <a href="/genre/{{ . | urlize }}#content">
-          {{ . }}
-        </a>
+        <small><a href="/genre/{{ . | urlize }}#content">
+            {{ . }}
+          </a>
+        </small>
       </span>
       {{ end }}
       <!-- TAGS -->
@@ -70,7 +72,7 @@
       <span class="cluster">
         Tags:
         {{ range . }}
-        <a href="/tags/{{ . | urlize }}#content">#{{ . }}</a>
+        <small><a href="/tags/{{ . | urlize }}#content"># {{ . }}</a></small>
         {{ end }}
       </span>
       {{ end }}
