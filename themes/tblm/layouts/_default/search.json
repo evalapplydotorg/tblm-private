@@ -1,0 +1,18 @@
+{
+    "results": [
+        {{- range $index, $page := .Site.RegularPages }}
+        {{- if $index -}} , {{- end }}
+        {
+            "href": {{ .Permalink | jsonify }},
+            "title": {{ .Title | jsonify }},
+            "author": {{ .Params.author | jsonify }},
+            "issue": {{ .Params.issue | jsonify }},
+            "category": {{ .Params.category | jsonify }},
+            "date": {{ .Params.date | dateFormat "01 Jan 2006" | jsonify }},
+            "year": {{ .Params.year | jsonify }},
+            "month": {{ .Params.month | jsonify }},
+            "summary": {{ .Summary | jsonify }}
+        }
+        {{- end }}
+    ]
+}

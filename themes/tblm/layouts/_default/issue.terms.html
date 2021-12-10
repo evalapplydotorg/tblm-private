@@ -1,26 +1,32 @@
 {{ define "main" }}
+{{- partial "search_result_templates.html" . -}}
 <div class="stack">
   <div class="cluster">
     <div class="homepage:section">All Back Issues</div>
     {{- partial "top.html" . }}
   </div>
   <div>{{ .Content }}</div>
-  <section class="stack">
-    {{ range .Pages }}
-    <div class="box invert"></div>
-    <div class="homepage:section box invert">
-      {{ $issueTitle := .Title }}
-      Issue <a href="{{ .Page.Permalink }}#content">{{ $issueTitle }}</a>
-    </div>
-    <section class="cluster">
-      {{ $pageTitle := .Title }}
-      <div>
-        {{ range where .Site.Pages "Params.issue" $pageTitle }}
-        {{ partial "post_summary.html" . }}
-        {{ end }}
+  {{ .Scratch.Set "searchButtonName" "Search Archives" }}
+  {{ partial "search_box.html" . }}
+  <div class="box invert thin"></div>
+  <div id="output">
+    <section class="stack">
+      {{ range .Pages }}
+      <div class="homepage:section box invert">
+        {{ $issueTitle := .Title }}
+        Issue <a href="{{ .Page.Permalink }}#content">{{ $issueTitle }}</a>
       </div>
+      <section class="cluster">
+        {{ $pageTitle := .Title }}
+        <div>
+          {{ range where .Site.Pages "Params.issue" $pageTitle }}
+          {{- partial "post_summary.html" . -}}
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
     </section>
-    {{ end }}
-  </section>
+  </div>
 </div>
+{{- partial "search_scripts.html" . -}}
 {{ end }}

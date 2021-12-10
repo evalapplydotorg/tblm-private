@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{- partial "search_result_templates.html" . -}}
+<h1 class="homepage:section">Search All Archives</h1>
+<div class="stack">
+  {{- partial "search_box.html" . -}}
+  <div id="output" class="stack">
+  </div>
+</div>
+{{- partial "search_scripts.html" . -}}
+{{ end }}
