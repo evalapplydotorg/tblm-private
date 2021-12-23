@@ -6,7 +6,7 @@ date: 2014-07-05T04:25:18+00:00
 year: "2014"
 month: "2014/07"
 category: fiction
-issue: "6"
+issue: 6
 
 ---
 I watch the tide of a new morning in the pallor of the curtains against the pane of the bedroom window. Except for the birds on the mango tree outside and an occasional vehicle that honks on the stray dogs, there is no sound.

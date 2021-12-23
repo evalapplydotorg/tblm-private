@@ -6,7 +6,7 @@ date: 2014-12-08T13:43:28+00:00
 year: "2014"
 month: "2014/12"
 category: fiction
-issue: "8"
+issue: 8
 
 ---
 It didn’t occur to me till much later that Joe had stopped coming to the library. I used to go to the British Council library regularly, and had chatted with him a couple of times. Now I had often met curious people before but he was the most eccentric among the lot. The kind that spend whole afternoons amidst stacks not because they like being surrounded by books, but because they have nowhere else to go. He used to sit on the left side of the entrance, on a comfy couch that’d provide good support to his back, usually reading some philosophy book, mostly In Praise of Idleness by Bertrand Russell. He was always reading that book. He often whined about his back problem. Sometimes, he used to tell me to be careful and take good care of my health coz “when your back starts troubling you it is a sign that you are done with”. Yes, I know. Even I couldn’t relate with much of what he said.

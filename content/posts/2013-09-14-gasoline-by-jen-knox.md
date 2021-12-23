@@ -6,7 +6,7 @@ date: 2013-09-14T05:54:04+00:00
 year: "2013"
 month: "2013/09"
 category: fiction
-issue: "3"
+issue: 3
 
 ---
 My TV, computer and spare cash left with Laura. She’d visited her favorite shoe store with my Visa and used the back of the receipt to write a Dear Jude note. Her handwriting was precise. It explained that she would be moving to Arkansas to live with Gustav, some guy she met online, and would never be back. Looking at the receipt, I wondered if the two of them planned to open a store with all the shoes six-hundred dollars had bought.

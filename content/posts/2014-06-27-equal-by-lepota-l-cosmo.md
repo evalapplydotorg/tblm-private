@@ -6,7 +6,7 @@ date: 2014-06-27T16:26:24+00:00
 year: "2014"
 month: "2014/06"
 category: poetry
-issue: "6"
+issue: 6
 
 ---
 **Equal**

@@ -88,6 +88,7 @@ make_all_issues_numeric() {
            -e 's;(issue:\s+)(C)(.*);\13\3;' \
            -e 's;(issue:\s+)(D)(.*);\14\3;' \
            -e 's;(issue:\s+)(E)(.*);\15\3;' \
+           -e 's;(issue:\s+)(")(.*)(")(.*);\1\3\5;' \
            "$(realpath ../content/posts/${file_name})"
     done
 }
@@ -109,5 +110,5 @@ remove_explicit_slug() {
 # ls -1 ../content/posts/ | slugify_url
 # ls -1 ../content/posts/ | parse_author_from_title
 # ls -1 ../content/posts/ | remove_author_from_title
-# ls -1 ../content/posts/ | make_all_issues_numeric
-ls -1 ../content/posts/ | remove_explicit_slug
+ls -1 ../content/posts/ | make_all_issues_numeric
+# ls -1 ../content/posts/ | remove_explicit_slug

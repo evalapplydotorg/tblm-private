@@ -6,7 +6,7 @@ date: 2013-09-14T05:59:23+00:00
 year: "2013"
 month: "2013/09"
 category: fiction
-issue: "3"
+issue: 3
 
 ---
 _Exile was first published in Issue 17 of _>kill author_._

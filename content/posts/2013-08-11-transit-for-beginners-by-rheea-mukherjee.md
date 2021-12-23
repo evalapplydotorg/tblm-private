@@ -6,7 +6,7 @@ date: 2013-08-11T10:15:41+00:00
 year: "2013"
 month: "2013/08"
 category: fiction
-issue: "2"
+issue: 2
 tags:
   - Mukherjee
   - Rheea

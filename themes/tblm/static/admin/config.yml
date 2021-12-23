@@ -34,7 +34,12 @@ collections:
          widget: "select",
          default: "uncategorised",
          options: ["poetry","fiction","interviews","general"]}
-      - {label: "Issue", name: "issue", widget: "string"}
+      - {label: "Issue",
+         name: "issue",
+         widget: "number",
+         min: 1,
+         max: 9999,
+         }
       - {label: "Summary", name: "summary", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
     view_filters:

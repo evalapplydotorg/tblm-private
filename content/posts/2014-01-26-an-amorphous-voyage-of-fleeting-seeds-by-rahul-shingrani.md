@@ -6,7 +6,7 @@ date: 2014-01-26T12:53:30+00:00
 year: "2014"
 month: "2014/01"
 category: fiction
-issue: "4"
+issue: 4
 
 ---
 Life came to us at that cusp of infinite void, the edge of the sun’s reach. It was a sudden awakening, though awakening might mean that we had been sleeping, been alive. We were never alive, both Kreetin and I.

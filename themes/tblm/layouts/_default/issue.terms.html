@@ -17,7 +17,7 @@
         Issue <a href="{{ .Page.Permalink }}#content">{{ $issueTitle }}</a>
       </div>
       <section class="cluster">
-        {{ $pageTitle := .Title }}
+        {{ $pageTitle := int .Title }}
         <div>
           {{ range where .Site.Pages "Params.issue" $pageTitle }}
           {{- partial "post_summary.html" . -}}
