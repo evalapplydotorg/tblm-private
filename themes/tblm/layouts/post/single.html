@@ -40,7 +40,7 @@
     <div class="stack">
       {{if .Prev}}
       <div class="cluster">
-        <nav class="homepage:meta"><a href={{.Prev.Permalink}}#content>◀ previous</a></nav>
+        <nav class="homepage:read-more"><a href={{.Prev.Permalink}}#content>< previous <<<</a></nav>
         <div class="homepage:meta">{{.Prev.Title}} (by {{ .Prev.Params.author }})</div>
       </div>
       {{end}}
@@ -48,7 +48,7 @@
       {{- partial "horizontal_rule.html" . }}
       <div class="cluster">
         <div class="homepage:meta">{{.Next.Title}} (by {{ .Next.Params.author }})</div>
-        <nav class="homepage:meta"><a href={{.Next.Permalink}}#content>next ▶</a></nav>
+        <nav class="homepage:read-more"><a href={{.Next.Permalink}}#content>>>> next ></a></nav>
       </div>
       {{- partial "horizontal_rule.html" . }}
       {{end}}
