@@ -23,7 +23,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     sortable_fields: ["issue", "date", "category"]
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    summary: "Issue {{issue}} / {{category}} / {{title}} {{summary}}"
+    summary: "Issue {{issue}} / {{category}} / {{title}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
