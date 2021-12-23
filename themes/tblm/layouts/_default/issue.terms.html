@@ -1,14 +1,14 @@
 {{ define "main" }}
 {{- partial "search_result_templates.html" . -}}
 <div class="stack">
+  {{- partial "horizontal_rule.html" . }}
   <div class="cluster">
     <div class="homepage:section">All Back Issues</div>
     {{- partial "top.html" . }}
   </div>
-  <div>{{ .Content }}</div>
   {{ .Scratch.Set "searchButtonName" "Search Archives" }}
   {{ partial "search_box.html" . }}
-  <div class="box invert thin"></div>
+  {{- partial "horizontal_rule.html" . }}
   <div id="output">
     <section class="stack">
       {{ range .Pages }}

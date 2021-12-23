@@ -1,28 +1,30 @@
 <template id="search-result-item">
   <article>
-    <header class="box invert stack">
+    <header class="stack">
       <div class="stack">
-        <h1 class="search-result-title"></h1>
+        <div class="homepage:title"><span class="search-result-title"></span></div>
         <div class="cluster">
-          <div><strong class="cluster search-result-author"></strong></div>
-          <small>
+          <div class="homepage:author"><span class="cluster search-result-author"></span></div>
+          <div class="homepage:meta">
             <i class="search-result-meta"></i>
-          </small>
+          </div>
         </div>
       </div>
     </header>
     <p class="search-result-summary">Summary should show here.</p>
-    <p class="cluster">
-      <strong class="homepage:read-more">[ <a class="search-result-href">+ read +</a> ]</strong>
-      <sub><small>( <a href="#the-very-top">top ^</a> )</small></sub>
-    </p>
+    <div class="with-sidebar-narrow">
+      <nav class="homepage:read-more"><a class="search-result-href">read</a></nav>
+      <div class="homepage:meta"><a href="#the-very-top">top ^</a></div>
+    </div>
+    {{- partial "horizontal_rule.html" . }}
   </article>
 </template>
 
 <template id="search-result-not-found">
   <div class="stack">
     <div class="homepage:section">The Force is weak with this one.</div>
-    <div class="homepage:read-more">Please try a different search. And remember...</div>
+    <div class="homepage:meta">Please try a different search. And remember...</div>
     <i><strong>in nonsense is strength</strong> - Kurt Vonnegut, Breakfast of Champions</i>
+    {{- partial "horizontal_rule.html" . }}
   </div>
 </template>

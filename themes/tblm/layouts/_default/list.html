@@ -1,9 +1,14 @@
 {{ define "main" }}
 <div class="stack">
+  {{- partial "horizontal_rule.html" . }}
   <div class="cluster">
-    <div class="homepage:section">{{ humanize .Title }}</div>
+    <div class="homepage:section">
+      {{ humanize .Title }}
+      {{ if eq .Page.Type "issue" }}Issue{{ end }}
+    </div>
     <div>{{- partial "top.html" . }}</div>
   </div>
+  {{- partial "horizontal_rule.html" . }}
   {{ range .Pages }}
   {{ partial "post_summary.html" . }}
   {{ end }}

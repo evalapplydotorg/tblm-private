@@ -2,71 +2,18 @@
 <div class="stack">
   <div class="homepage:content">
     {{ .Content }}
-    <div class="homepage:read-more">[ <a href={{ "/about#content" | relURL }}>+ About us +</a> ]</div>
+    <nav class="cluster homepage:read-more">
+      <a href={{ "/about#content" | relURL }}>more about us</a>
+    </nav>
   </div>
   {{ $issueID := 55 }}
   <!-- LATEST ISSUE -->
-  <div class="cluster">
+  <div class="box invert cluster">
     <div class="homepage:section">Latest Issue ({{ $issueID }})</div>
     <div>{{- partial "top.html" . }}</div>
   </div>
   {{ range where .Site.Pages "Params.issue" $issueID }}
-  <div class="stack cover">
-    <div class="stack box invert">
-      <div class="homepage:title">{{ .Page.Title }}</div>
-      <div class="cluster">
-        <div class="homepage:author">{{ .Params.author }}</div>
-        <div class="homepage:meta">
-          <span>{{ .Date.Format "January 2, 2006"}}</span>
-          <span>/ Issue {{ .Params.issue }}</span>
-          <span>/ {{ .Params.category }}</span>
-        </div>
-      </div>
-    </div>
-    <div>{{ .Page.Summary }}</div>
-    <div class="cluster">
-      <div class="homepage:read-more">
-        [ <a href="{{ .RelPermalink }}#content">+ read +</a> ]
-      </div>
-      <div>{{- partial "top.html" . }}</div>
-    </div>
-  </div>
+  {{- partial "post_summary.html" . }}
   {{ end }}
-  <!-- Taxonomies -->
-  <footer>
-  <div class="cluster">
-    <!-- Categories of Pieces -->
-    <!-- <div class="cluster box invert"> -->
-    <!--   <div class="homepage:section">Categories</div> -->
-    <!--   <div>{{- partial "top.html" . }}</div> -->
-      <!-- </div> -->
-    {{ range .Site.Taxonomies.category }}
-    <div class="box invert homepage:author">
-      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-      <span> ({{ .Count }})</span>
-    </div>
-    {{ end }}
-    <!-- All the back issues -->
-    <!-- <div class="cluster box invert"> -->
-    <!--   <div class="homepage:section">Issues</div> -->
-    <!--   <div>{{- partial "top.html" . }}</div> -->
-    <!-- </div> -->
-    <!-- {{ range .Site.Taxonomies.issue }} -->
-    <!-- <div class="box invert"> -->
-    <!--   <a href="{{ .Page.Permalink }}">No. {{ .Page.Title }}</a> -->
-    <!-- </div> -->
-    <!-- {{ end }} -->
-    <!-- All the authors -->
-    <!-- <div class="cluster box invert"> -->
-    <!--   <div class="homepage:section">Authors</div> -->
-    <!--   <div>{{- partial "top.html" . }}</div> -->
-    <!-- </div> -->
-    <!-- {{ range .Site.Taxonomies.author }} -->
-    <!-- <div class="box invert"> -->
-    <!--   <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> -->
-    <!-- </div> -->
-    <!-- {{ end }} -->
-  </div>
-  </footer>
 </div>
 {{ end }}

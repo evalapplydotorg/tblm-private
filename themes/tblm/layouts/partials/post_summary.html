@@ -1,26 +1,20 @@
 <div class="stack">
-  <article>
-    <header class="box invert stack">
-      <div class="stack">
-        <h1>{{ .Title }}</h1>
-        <div class="cluster">
-          {{ with .Params.author}}
-          <strong>{{ . }}</strong>
-          {{ end }}
-          <div class="cluster">
-            <small>
-              <i><time>{{ .Date | dateFormat "01 Jan 2006" }}</time></i>
-              <i>/ Issue {{ .Params.issue }}</i>
-              <i>/ {{ .Params.category }}</i>
-            </small>
-          </div>
-        </div>
+  <div class="stack">
+    <div class="homepage:title">{{ .Title }}</div>
+    <div class="cluster">
+      <div class="homepage:author">{{ .Params.author }}</div>
+      <div class="homepage:meta">
+        <span>{{ .Date.Format "January 2, 2006"}}</span>
+        <span>/ Issue {{ .Params.issue }}</span>
+        <span>/ {{ .Params.category }}</span>
+        <span>(~{{ math.Max 1 (math.Round (div (countwords .Content) 200.0)) }} min. read)</span>
       </div>
-    </header>
-    <p>{{ .Summary }} </p>
-    <p class="cluster">
-      <strong class="homepage:read-more">[ <a href="{{ .RelPermalink }}#content">+ read +</a> ]</strong>
-      {{- partial "top.html" . }}
-    </p>
-  </article>
+    </div>
+  </div>
+  <div>{{ .Page.Summary }}</div>
+  <div class="with-sidebar-narrow">
+    {{- partial "read_more.html" . }}
+    {{- partial "top.html" . }}
+  </div>
+  {{- partial "horizontal_rule.html" . }}
 </div>

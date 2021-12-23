@@ -1,19 +1,18 @@
 {{ if .IsHome }}
 <div class="with-sidebar">
-  <div class="box invert masthead">
+  <div class="masthead">
     <span class="box icon homepage:section">tblm</span>
     <span>{{ .Site.Title }}</span>
   </div>
   {{- partial "nav.html" . }}
 </div>
+{{- partial "horizontal_rule.html" . }}
 {{ else }}
-<div class="cluster">
-  <div class="with-sidebar-narrow">
-    <div class="box invert masthead">{{ .Site.Params.iconTitle }}</div>
+<div class="box invert cluster">
+    <div class="masthead">{{ .Site.Params.iconTitle }}</div>
     <div class="stack">
       <div class="homepage:title-icon">{{ .Site.Params.publisher }}</div>
       {{- partial "nav.html" . }}
     </div>
-  </div>
 </div>
 {{ end }}

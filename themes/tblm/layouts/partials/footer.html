@@ -1,3 +1,20 @@
-<footer class="box invert">
-  <small>Copyright {{ now.Format "2006" }} {{ .Site.Params.publisher }}.</small>
+<footer>
+  <div class="stack">
+    <div class="cluster">
+      <div class="homepage:title">Explore...</div>
+      <div class="homepage:read-more">
+        <nav><a href={{ "/issue#content" | relURL }}>search the archives</a></nav>
+      </div>
+      <div class="homepage:meta">or browse</div>
+      {{ range .Site.Taxonomies.category }}
+      <div class="homepage:read-more">
+        <nav><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></nav>
+      </div>
+      {{ end }}
+    </div>
+
+    <div class="homepage:meta  box invert">
+      <span>Copyright {{ now.Format "2006" }} {{ .Site.Params.publisher }}.<span>
+    </div>
+  </div>
 </footer>

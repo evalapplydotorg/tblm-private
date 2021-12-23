@@ -1,102 +1,58 @@
 {{ define "main" }}
 <article class="stack">
-  <header class="box invert">
+  {{- partial "horizontal_rule.html" . }}
+  <header>
     <div class="stack">
-      <h1>{{ .Title }}</h1>
-      <div class="cluster">
+      <div class="homepage:title">{{ .Title }}</div>
+      <div class="homepage:author">
         {{ with .Params.Author }}
-        <strong>{{ . }}</strong>
+        <a href="/author/{{ . | urlize }}#content">{{ . }}</a>
         {{ end }}
-        <small>
-          <i>{{ .Date.Format "January 2, 2006"}}</i>
-          <i>/ Issue {{ .Params.issue }}</i>
-          <i>/ {{ .Params.category }}</i>
-        </small>
-        <small>
-          <i>
-            (~{{ math.Max 1 (math.Round (div (countwords .Content) 200.0)) }} min. read)
-          </i>
-        </small>
+      </div>
+      <div class="cluster homepage:meta">
+        <span>/ ~{{ math.Max 1 (math.Round (div (countwords .Content) 200.0)) }} min. read /</span>
+        <span>/ {{ .Date.Format "Jan 2, 2006"}} /</span>
+        <!-- ISSUE -->
+        {{- with .Params.issue -}}
+        <span>/ <a href="/issue/{{ . | urlize }}#content">Issue {{ . }}</a> /</span>
+        {{- end -}}
+        <!-- CATEGORY -->
+        {{- with .Params.category -}}
+        <span>/ <a href="/category/{{ . | urlize }}#content">{{ . }}</a> /</span>
+        {{ end }}
       </div>
     </div>
   </header>
+  {{- partial "horizontal_rule.html" . }}
   <section>
     {{ .Content }}
   </section>
-  <div class="box invert"></div>
   <footer class="stack">
-    <span class="cluster">
-      <span class="box invert">{{- partial "post-title.html" . }}</span>
-      <span class="box invert">{{- partial "top.html" . }}</span>
-      <span class="stack">
-        <strong>{{ .Title }}</strong>
-        <span class="cluster">
-          {{ with .Params.Author }}
-          <small><a href="/author/{{ . | urlize }}#content"> {{ . }} </a></small>
-          {{ end }}
-          <small>
-            {{ .Date.Format "January 2, 2006"}}
-          </small>
-        </span>
-      </span>
-    </span>
-    <span class="cluster">
-      <!-- ISSUE -->
-      {{- with .Params.issue -}}
-      <span>Issue:
-        <small><a href="/issue/{{ . | urlize }}#content">No. {{ . }} </a></small>
-      </span>
-      {{- end -}}
-      <!-- CATEGORY -->
-      {{- with .Params.category -}}
-      <span>
-        Category:
-        <small><a href="/category/{{ . | urlize }}#content">
-            {{ . }}
-          </a>
-        </small>
-      </span>
-      {{ end }}
-      <!-- GENRE -->
-      {{- with .Params.genre -}}
-      <span>
-        Genre:
-        <small><a href="/genre/{{ . | urlize }}#content">
-            {{ . }}
-          </a>
-        </small>
-      </span>
-      {{ end }}
-      <!-- TAGS -->
-      {{- with .Params.tags -}}
-      <span class="cluster">
-        Tags:
-        {{ range . }}
-        <small><a href="/tags/{{ . | urlize }}#content"># {{ . }}</a></small>
-        {{ end }}
-      </span>
-      {{ end }}
-    </span>
+    <div class="stack">
+      <div class="cluster">
+        <div class="box invert">{{- partial "post_title.html" . }}</div>
+        <div class="box invert">{{- partial "top.html" . }}</div>
+      </div>
+    </div>
     {{if or .Prev .Next}}
-    <span class="box invert"></span>
+    {{- partial "horizontal_rule.html" . }}
     {{ end }}
-    <small class="cluster">
+    <div class="stack">
       {{if .Prev}}
-      <span class="stack prev-next">
-        <span>[+ <a href={{.Prev.Permalink}}#content>◀ previous</a> +]</span>
-        <span>{{.Prev.Title}} (by {{ .Prev.Params.author }})</span>
-      </span>
+      <div class="cluster">
+        <nav class="homepage:meta"><a href={{.Prev.Permalink}}#content>◀ previous</a></nav>
+        <div class="homepage:meta">{{.Prev.Title}} (by {{ .Prev.Params.author }})</div>
+      </div>
       {{end}}
-      {{if and .Prev .Next}}
-      <span class="box"></span>
-      {{ end }}
       {{if .Next}}
-      <span class="stack prev-next">
-        <span>{{.Next.Title}} (by {{ .Next.Params.author }})</span>
-        <span>[+ <a href={{.Next.Permalink}}#content>next ▶</a> +]</span>
-      </span>
+      {{- partial "horizontal_rule.html" . }}
+      <div class="cluster">
+        <div class="homepage:meta">{{.Next.Title}} (by {{ .Next.Params.author }})</div>
+        <nav class="homepage:meta"><a href={{.Next.Permalink}}#content>next ▶</a></nav>
+      </div>
+      {{- partial "horizontal_rule.html" . }}
       {{end}}
-    </small>
+    </div>
   </footer>
 </article>
 {{ end }}
