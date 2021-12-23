@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/05"
 slug: '?p=720'
 category: poetry
-issue: B8
+issue: 28
 
 ---
 The houses protrude from the hills like buck teeth.  

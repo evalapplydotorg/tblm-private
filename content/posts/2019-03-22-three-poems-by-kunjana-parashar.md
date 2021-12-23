@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/03"
 slug: '?p=817'
 category: poetry
-issue: C5
+issue: 35
 
 ---
 **Cabbage Moth**

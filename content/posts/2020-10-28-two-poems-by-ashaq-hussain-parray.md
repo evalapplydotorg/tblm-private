@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/10"
 slug: '?p=1115'
 category: poetry
-issue: D8
+issue: 48
 
 ---
 **Home**

@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/12"
 slug: '?p=629'
 category: poetry
-issue: B4
+issue: 24
 
 ---
 To preserve formatting, the poems are available for reading in PDF.

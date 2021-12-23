@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/02"
 slug: '?p=676'
 category: poetry
-issue: B6
+issue: 26
 
 ---
 _Faiz, what befell the fellow travelers of late last night?  

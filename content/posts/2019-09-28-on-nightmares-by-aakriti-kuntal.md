@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/09"
 slug: '?p=916'
 category: poetry
-issue: C9
+issue: 39
 
 ---
 Night breaks apart like pomegranate seeds in my  

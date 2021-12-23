@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/02"
 slug: '?p=673'
 category: poetry
-issue: B6
+issue: 26
 
 ---
 An overturned anda-bhurji cart of a hawker during a riot.  

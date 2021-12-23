@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/10"
 slug: '?p=1337'
 category: poetry
-issue: E5
+issue: 55
 
 ---
 There are more stars, you  

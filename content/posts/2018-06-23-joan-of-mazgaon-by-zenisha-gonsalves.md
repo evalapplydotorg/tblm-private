@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/06"
 slug: '?p=741'
 category: fiction
-issue: B9
+issue: 29
 
 ---
 Every morning Joan and Gilly wake up before their children do, set the house and day in order, settle down in the balcony with two cups of tea and a newspaper. Joan cuts a loaf of bread and a pair of tomatoes – do tomatoes come in pairs? she wonders – takes the chutney from the big fridge in the small kitchen and places it all on the table where they eat. Gilly does a load of laundry, sets the tea to boil, stands by the kitchen window, looking out.

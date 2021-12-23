@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/06"
 slug: '?p=859'
 category: fiction
-issue: C7
+issue: 37
 
 ---
 The note reads nakedly: _No one is to blame for my action_. You leave it sprawled on the table next to the empty coffee cup, put your rimless glasses over it.

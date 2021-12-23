@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/08"
 slug: '?p=1283'
 category: fiction
-issue: E4
+issue: 54
 
 ---
 I didn&#8217;t fear Radhika until I had fallen in love with her. Our first years together were all sex and electric conversation. She was in her goth phase then, her eyes lined with kohl that shone like hot tar, and she wore dark maroon lipstick. &#8220;Oxblood,&#8221; she said when I asked her what it was called. &#8220;Rad… won&#8217;t you wear pink once in a while?&#8221; She rolled her eyes.

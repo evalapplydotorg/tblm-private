@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/12"
 slug: '?p=1147'
 category: fiction
-issue: D9
+issue: 49
 
 ---
 _We made the mountains shake with laughter as we played  

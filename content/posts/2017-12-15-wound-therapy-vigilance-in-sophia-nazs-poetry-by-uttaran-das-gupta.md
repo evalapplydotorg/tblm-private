@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/12"
 slug: '?p=635'
 category: reviews
-issue: B4
+issue: 24
 
 ---
 Very early in Sophia Naz’s _Poin_tillism we encounter the poem “Chappan Churri”, about one Janaki Bai who was stabbed fifty-six (_chappan_, in Urdu/Hindu) times by a jilted lover, but survived. While this is a comment on the sort of violently obsessive love glamorised in films such as _Darr_ (1993), Raanjhanaa (2013) and others, it is also a reflection on the violence of language and memory:

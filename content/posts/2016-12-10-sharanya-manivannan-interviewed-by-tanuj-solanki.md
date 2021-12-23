@@ -7,7 +7,7 @@ month: "2016/12"
 slug: '?p=522'
 category: interviews
 author: "tblm Staff"
-issue: A9
+issue: 19
 
 ---
 **Barring a couple of stories, the protagonists in your stories can be said to be in stasis. They end where they begin; or if there is a change, it serves only to make them more conscious of their conflicts, paradoxes. Thought of from a technical viewpoint, stasis is the enemy of plot. What are your views on this thing called plot? How comfortable are you with it, and will we ever see you write a traditionally—for want of a better word—plotted work?**

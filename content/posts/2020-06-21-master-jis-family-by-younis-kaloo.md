@@ -8,7 +8,7 @@ month: "2020/06"
 excerpt: 'Fayaz woke up to the tapping sound on the window, crawled up to it, and drew the curtain aside. The soldiers first pointed the torches at him - to be sure it was him and not any militant - and then quickly turned them back on themselves to waste no time in letting the owner of the house know who they were.'
 slug: '?p=1082'
 category: fiction
-issue: D6
+issue: 46
 
 ---
 Men, young and old, have just begun to leave their houses after hearing a familiar voice coming from the loudspeakers of the grand mosque. They have been told to gather in Narbal&#8217;s Eidgah, a huge plot of land at a stone’s throw from the Srinagar-Gulmarg highway used only for special occasions such as marriages, funerals, Eid congregational prayers and, as in this case, an assembly for listening to ‘patriotic’ sermons of high-ranking army officials while their men carried door-to-door searches in the village with the help of helpless local boys.

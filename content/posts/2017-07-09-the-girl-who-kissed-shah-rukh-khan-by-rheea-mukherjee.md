@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/07"
 slug: '?p=577'
 category: fiction
-issue: B2
+issue: 22
 
 ---
 Chances are you’ve seen my girlfriend. In that tangerine spaghetti strapped shirt. Her hand cupping the stubble on Shah Rukh Khan’s chin. Her shiny straight hair hitting the sharpness of her jaw, her lips puckered and pushed out to meet his gaunt cheeks. Shah Rukh stared back at the camera, poker-fucking straight. If you looked closely enough, you’ll see her eyelashes have too much mascara on them. Clumps of hair in black goop.

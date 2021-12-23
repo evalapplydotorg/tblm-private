@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/03"
 slug: '?p=704'
 category: poetry
-issue: B7
+issue: 27
 
 ---
 (1)

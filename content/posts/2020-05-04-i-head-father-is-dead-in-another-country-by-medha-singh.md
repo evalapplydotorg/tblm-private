@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/05"
 slug: '?p=1057'
 category: poetry
-issue: D5
+issue: 45
 
 ---
 **I Hear Father is Dead in Another Country**

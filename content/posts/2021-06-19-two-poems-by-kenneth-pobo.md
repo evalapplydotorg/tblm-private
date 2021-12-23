@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/06"
 slug: '?p=1257'
 category: poetry
-issue: E3
+issue: 53
 
 ---
 **Petaled Geography**

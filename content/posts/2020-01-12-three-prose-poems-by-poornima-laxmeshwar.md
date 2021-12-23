@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/01"
 slug: '?p=958'
 category: poetry
-issue: D2
+issue: 42
 
 ---
 **Living a dog’s life**

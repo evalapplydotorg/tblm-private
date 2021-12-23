@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/03"
 slug: '?p=697'
 category: poetry
-issue: B7
+issue: 27
 
 ---
 I like country churches  

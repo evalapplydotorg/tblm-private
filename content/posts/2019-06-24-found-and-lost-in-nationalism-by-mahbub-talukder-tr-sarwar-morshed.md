@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/06"
 slug: '?p=852'
 category: fiction
-issue: C7
+issue: 37
 
 ---
 The protagonist of this story is Mr. ABC i.e. Abdul Bari Choudhury. He has been residing in the US for a long time. Though seven seas and thirteen rivers away from the homeland, he has genuine feelings for his country. This feeling has dragged him to Bangladesh after a long time. He, however, did not embark on his homeward journey all alone. He made his better-half join the bandwagon. This he did deliberately. With the family getting ready to greet a new member, ABC has decided to come back to Bangladesh so that Nazia’s delivery is done here. The American physician has opined that everything is okay with the expecting Nazia. But if I continue this narrative in the linear fashion, your patience may be exhausted and you will not be willing to peruse the whole thing. Hence I solicit you to flex your patience-muscle a little bit!

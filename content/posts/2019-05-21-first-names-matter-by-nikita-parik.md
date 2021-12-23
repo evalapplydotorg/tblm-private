@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/05"
 slug: '?p=844'
 category: poetry
-issue: C6
+issue: 36
 
 ---
 At an almost-dawn one February, I  

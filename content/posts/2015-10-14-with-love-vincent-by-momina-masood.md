@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/10"
 slug: '?p=381'
 category: fiction
-issue: A5
+issue: 15
 
 ---
 (A reimagining of a day in the life of Vincent van Gogh)

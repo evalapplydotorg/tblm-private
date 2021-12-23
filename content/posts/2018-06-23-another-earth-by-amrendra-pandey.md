@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/06"
 slug: '?p=731'
 category: poetry
-issue: B9
+issue: 29
 
 ---
 Distant memories approach me &#8211; I am looking in a water well, an elephant is plucking peepul leaves in the dense forest, and her mahout is laughing. 

@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/08"
 slug: '?p=1278'
 category: fiction
-issue: E4
+issue: 54
 
 ---
 [<img src="http://bombayliterarymagazine.com/wp-content/uploads/2021/08/Neha-Negi.jpg" alt="nn" width="513" height="705" class="aligncenter size-large wp-image-546" />][1]

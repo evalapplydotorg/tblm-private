@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/05"
 slug: '?p=540'
 category: poetry
-issue: B1
+issue: 21
 
 ---
 **Isosceles Majesty**

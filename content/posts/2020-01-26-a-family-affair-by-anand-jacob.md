@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/01"
 slug: '?p=979'
 category: fiction
-issue: D3
+issue: 43
 
 ---
 “This depraved lifestyle is no good, Cattaparthy,” said a voice, and Cattaparthy opened an eye, reconsidered, and shut it again.

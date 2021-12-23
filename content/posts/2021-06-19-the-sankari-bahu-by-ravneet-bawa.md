@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/06"
 slug: '?p=1251'
 category: poetry
-issue: E3
+issue: 53
 
 ---
 is first of all not a person with any  

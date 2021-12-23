@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/10"
 slug: '?p=1331'
 category: poetry
-issue: E5
+issue: 55
 
 ---
 **First Person**

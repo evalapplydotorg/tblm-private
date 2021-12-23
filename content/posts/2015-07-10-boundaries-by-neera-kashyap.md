@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/07"
 slug: '?p=340'
 category: poetry
-issue: A4
+issue: 14
 
 ---
 summer garbage below  

@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/06"
 slug: '?p=861'
 category: poetry
-issue: C7
+issue: 37
 
 ---
 _To preserve the format of these poems, we have made them available as PDF._  

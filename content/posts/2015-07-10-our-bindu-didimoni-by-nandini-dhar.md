@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/07"
 slug: '?p=342'
 category: fiction
-issue: A4
+issue: 14
 
 ---
 Bindu Didimoni, as everyone called her in our small town, had spent her life punishing high school girls. For thirty years and more, she had worked as the headmistress of Kanaklata Memorial Girls&#8217; High School, the one and only institution of basic public education for girls in our town. Kneeling down with our hands held high in the air in the middle of the school assembly, squatting like hens with our fingers touching the lobes of our ears inside classrooms reserved for girls much younger than us, making us stand with our tongues sticking out outside the school-gate for all passersby to see; she had made us do them all. From the punishment epics each one of jotted down in our heads, we would deliberately exclude such minor details as standing on the bench or lining up in the hallway facing the wall. Those were run of the mill, so to speak, and unworthy of Bindu Didimoni&#8217;s unique imagination. Unlike other teachers, who would use the cane or the back of their hands, Bindu Didimoni rarely used the stick. Instead, she specialized in postures, which had two effects on her victims—pain in the limbs and a very specific kind of humiliation that comes with being an exhibit for everyone to gawk at someone else&#8217;s misfortune. Didimoni is the word we used to refer to all our teachers. But none of them wore that appellation so perfectly like our Bindu Didimoni. So much so, that the entire town, even those who had never been her students, forgot that there could ever be a _Bindu_ outside of that _Didimoni_.

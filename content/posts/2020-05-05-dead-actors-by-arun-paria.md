@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/05"
 slug: '?p=1065'
 category: poetry
-issue: D5
+issue: 45
 
 ---
 **Dead Actors**

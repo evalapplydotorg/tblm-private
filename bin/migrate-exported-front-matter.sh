@@ -79,6 +79,19 @@ remove_author_from_title() {
     done
 }
 
+make_all_issues_numeric() {
+    local file_name
+    while read file_name
+    do sed -i -E \
+           -e 's;(issue:\s+)(A)(.*);\11\3;' \
+           -e 's;(issue:\s+)(B)(.*);\12\3;' \
+           -e 's;(issue:\s+)(C)(.*);\13\3;' \
+           -e 's;(issue:\s+)(D)(.*);\14\3;' \
+           -e 's;(issue:\s+)(E)(.*);\15\3;' \
+           "$(realpath ../content/posts/${file_name})"
+    done
+}
+
 # copy_posts
 
 # ls -1 ../content/posts/ | massage_date
@@ -86,5 +99,6 @@ remove_author_from_title() {
 # ls -1 ../content/posts/ | add_newline_to_eofs
 # ls -1 ../content/posts/ | massage_category
 # ls -1 ../content/posts/ | slugify_url
-#ls -1 ../content/posts/ | parse_author_from_title
-ls -1 ../content/posts/ | remove_author_from_title
+# ls -1 ../content/posts/ | parse_author_from_title
+# ls -1 ../content/posts/ | remove_author_from_title
+ls -1 ../content/posts/ | make_all_issues_numeric

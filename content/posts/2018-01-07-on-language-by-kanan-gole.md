@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/01"
 slug: '?p=650'
 category: poetry
-issue: B5
+issue: 25
 
 ---
 _To play a sound recording of the poem (recommended), click [here][1]._

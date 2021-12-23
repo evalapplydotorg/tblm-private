@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/02"
 slug: '?p=271'
 category: poetry
-issue: A1
+issue: 11
 
 ---
 **I (or The End Of Life)  

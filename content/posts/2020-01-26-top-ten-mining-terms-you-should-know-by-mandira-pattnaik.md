@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/01"
 slug: '?p=982'
 category: fiction
-issue: D3
+issue: 43
 
 ---
 **#10 _bench_**_:_ floor; _usage_: On the horizontal bench1050 was the muck&#8212;black mounds of illegal coal, and several pie tins clustered in one corner. All them, underground savages, crawled down to depths of upto 4000ft. in the abandoned mine, northern panhandle, Western Meghalaya, through labyrinthine passages dug with basic mining implements&#8212;shovels, hammers, pickaxes, and chisels. Its black roof and ribs&#8212;dark dungeons really&#8212;dripped water, like milk from a bovine’s udder. A slip gets them an instant burial in a watery grave.

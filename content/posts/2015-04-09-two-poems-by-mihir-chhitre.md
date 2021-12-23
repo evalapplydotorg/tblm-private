@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/04"
 slug: '?p=291'
 category: poetry
-issue: A2
+issue: 12
 
 ---
 **Varanasi, December 2014**

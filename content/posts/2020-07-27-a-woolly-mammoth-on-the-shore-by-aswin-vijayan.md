@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/07"
 slug: '?p=1096'
 category: poetry
-issue: D7
+issue: 47
 
 ---
 _To preserve the formatting, the poem has been made available in PDF. Please click_ [here][1] _to access._

@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/03"
 slug: '?p=706'
 category: poetry
-issue: B7
+issue: 27
 
 ---
 _(To listen to the poet read the poem, click [here][1].)  

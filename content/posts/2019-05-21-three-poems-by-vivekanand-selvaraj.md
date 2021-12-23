@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/05"
 slug: '?p=846'
 category: poetry
-issue: C6
+issue: 36
 
 ---
 **Calvin-in-exile**

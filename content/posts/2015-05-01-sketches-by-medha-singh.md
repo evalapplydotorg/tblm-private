@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/05"
 slug: '?p=325'
 category: poetry
-issue: A3
+issue: 13
 
 ---
 **sisyphus at nizamuddin.** the veiled sadness on a man’s face as he brings in one hand a bucket of dirty utensils, and in another the weight of the earth. sunlight drops on us like a curtain. the earth is spliced by a sunday. watch these men go about their lives the same way for years, the same day lived again and again for eternity.

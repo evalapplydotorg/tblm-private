@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/03"
 slug: '?p=1170'
 category: poetry
-issue: E1
+issue: 51
 
 ---
 **The Drunkard of Pattinson Rd.**

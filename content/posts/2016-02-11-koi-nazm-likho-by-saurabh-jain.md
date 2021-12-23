@@ -7,7 +7,7 @@ year: "2016"
 month: "2016/02"
 slug: '?p=414'
 category: poetry
-issue: A6
+issue: 16
 
 ---
 नज़्म लिखो , बेशुमार लिखो  

@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/07"
 slug: '?p=583'
 category: fiction
-issue: B2
+issue: 22
 
 ---
 Visualise:

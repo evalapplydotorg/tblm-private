@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/12"
 slug: '?p=1145'
 category: poetry
-issue: D9
+issue: 49
 
 ---
 **Thanks to Jonathan Edwards**

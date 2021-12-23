@@ -7,7 +7,7 @@ year: "2016"
 month: "2016/12"
 slug: '?p=528'
 category: poetry
-issue: A9
+issue: 19
 
 ---
 **Study Leave**

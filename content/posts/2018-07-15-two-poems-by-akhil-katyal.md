@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/07"
 slug: '?p=749'
 category: poetry
-issue: C1
+issue: 31
 
 ---
 **When Shammi Kapoor slides down the snow  

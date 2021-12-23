@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/08"
 slug: '?p=1285'
 category: poetry
-issue: E4
+issue: 54
 
 ---
 **The Shape of the Known Universe**

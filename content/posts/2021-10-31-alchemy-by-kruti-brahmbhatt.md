@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/10"
 slug: '?p=1329'
 category: fiction
-issue: E5
+issue: 55
 
 ---
 The colors are vivid. Red and black dominate. Fire and smoke. Guns and roses. The meadows, mountains, streams, that make their home ‘heaven on earth’ as the Mughal emperor once exulted, are replaced by stones and blood. I’m not surprised by the themes but I was surprised when they asked me to judge the contest. My first instinct was to refuse. But they sent me an invite with Muqeet’s signature. I couldn’t decline.

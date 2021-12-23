@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/12"
 slug: '?p=939'
 category: poetry
-issue: D1
+issue: 41
 
 ---
 _(To preserve the format of the poems, we have made them available in a PDF document._ __Please click_ [here][1] _to access.)__

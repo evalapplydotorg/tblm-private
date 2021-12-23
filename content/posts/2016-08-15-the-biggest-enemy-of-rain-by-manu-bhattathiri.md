@@ -7,7 +7,7 @@ year: "2016"
 month: "2016/08"
 slug: '?p=494'
 category: fiction
-issue: A8
+issue: 18
 tags:
   - Bhattathiri
   - Manu

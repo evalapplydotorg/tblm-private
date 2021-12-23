@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/05"
 slug: '?p=1190'
 category: fiction
-issue: E2
+issue: 52
 
 ---
 Puro was about to leave for the fields when she said to Jangir, “Will you come with me? I’ll give you laddoos to eat.”

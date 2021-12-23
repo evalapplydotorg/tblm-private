@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/06"
 slug: '?p=1085'
 category: poetry
-issue: D6
+issue: 46
 
 ---
 **Stray**

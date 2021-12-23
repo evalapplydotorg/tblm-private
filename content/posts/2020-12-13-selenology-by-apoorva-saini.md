@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/12"
 slug: '?p=1152'
 category: fiction
-issue: D9
+issue: 49
 
 ---
 &#8220;In the end, the only stories that loving you brought me were the stories of what it meant to not be loved by you.&#8221;

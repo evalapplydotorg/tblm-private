@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/05"
 slug: '?p=1219'
 category: poetry
-issue: E2
+issue: 52
 
 ---
 **How to know that you’re new to New York**

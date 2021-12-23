@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/01"
 slug: '?p=963'
 category: fiction
-issue: D2
+issue: 42
 
 ---
 ‘Do not be afraid of making mistakes on paper.’

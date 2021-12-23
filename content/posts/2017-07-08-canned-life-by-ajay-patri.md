@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/07"
 slug: '?p=571'
 category: fiction
-issue: B2
+issue: 22
 
 ---
 We stood in front of the digital display, staring at the screen space beside the number of our flight. Our flight was delayed.

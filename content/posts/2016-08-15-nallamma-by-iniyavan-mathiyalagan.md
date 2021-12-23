@@ -7,7 +7,7 @@ year: "2016"
 month: "2016/08"
 slug: '?p=504'
 category: poetry
-issue: A8
+issue: 18
 
 ---
 To preserve the format, we&#8217;ve made Nallamma available on [this link][1]

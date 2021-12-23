@@ -7,7 +7,7 @@ year: "2016"
 month: "2016/08"
 slug: '?p=497'
 category: poetry
-issue: A8
+issue: 18
 
 ---
 *

@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/09"
 slug: '?p=372'
 category: poetry
-issue: A5
+issue: 15
 
 ---
 To preserve the format, here is the linked pdf with the poem.

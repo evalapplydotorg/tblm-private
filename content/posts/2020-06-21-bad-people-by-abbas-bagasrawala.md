@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/06"
 slug: '?p=1080'
 category: fiction
-issue: D6
+issue: 46
 
 ---
 ‘So have you ever walked in on your mother touching herself’?

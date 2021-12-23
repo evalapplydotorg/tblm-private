@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/07"
 slug: '?p=1101'
 category: poetry
-issue: D7
+issue: 47
 
 ---
 **Chocolate-dipped worms are delicious**

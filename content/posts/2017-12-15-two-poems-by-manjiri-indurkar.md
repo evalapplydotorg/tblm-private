@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/12"
 slug: '?p=627'
 category: poetry
-issue: B4
+issue: 24
 
 ---
 **Diabetes at a Birthday Party  

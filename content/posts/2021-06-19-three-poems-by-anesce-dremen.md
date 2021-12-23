@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/06"
 slug: '?p=1242'
 category: poetry
-issue: E3
+issue: 53
 
 ---
 **The Pianist**

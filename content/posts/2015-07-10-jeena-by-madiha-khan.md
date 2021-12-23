@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/07"
 slug: '?p=338'
 category: fiction
-issue: A4
+issue: 14
 
 ---
 Girl came to me in a dream and a ugly mark on her chest made me weep with beauty and look at this you see there are ways in the world where brownness of skin makes a boy (ahmed) weep because he is afraid of acknowledging his own brownness even though he listens to wiz khalifa he stands alone in the kitchen at 655pm on Wednesday evening and makes fragrant thick haleem and I think of my mom wrinkling her forehead and worrying about me and then I weep and you see how weeping becomes a circle when you weep far enough?

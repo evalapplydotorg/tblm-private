@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/12"
 slug: '?p=798'
 category: poetry
-issue: C3
+issue: 33
 
 ---
 **Premonitions** 

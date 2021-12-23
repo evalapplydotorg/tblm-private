@@ -7,7 +7,7 @@ year: "2021"
 month: "2021/10"
 slug: '?p=1341'
 category: fiction
-issue: E5
+issue: 55
 
 ---
 (_To preserve the format of the short story, we have made it available in a PDF document._ __Please click_ [here][1] _to access.)__

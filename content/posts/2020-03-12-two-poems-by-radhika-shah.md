@@ -7,7 +7,7 @@ year: "2020"
 month: "2020/03"
 slug: '?p=1043'
 category: poetry
-issue: D4
+issue: 44
 
 ---
 **Hello, Brother**  

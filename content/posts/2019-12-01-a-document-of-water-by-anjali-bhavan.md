@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/12"
 slug: '?p=948'
 category: poetry
-issue: D1
+issue: 41
 
 ---
 &#8220;All day I hunt for the liquid measure of your steps.&#8221; &#8211; Pablo Neruda

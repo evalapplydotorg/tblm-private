@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/02"
 slug: '?p=269'
 category: poetry
-issue: A1
+issue: 11
 
 ---
 **ADDING AND SUBTRACTING  

@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/01"
 slug: '?p=808'
 category: poetry
-issue: C4
+issue: 34
 
 ---
 **Salt**

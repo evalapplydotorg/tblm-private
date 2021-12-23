@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/07"
 slug: '?p=751'
 category: poetry
-issue: C1
+issue: 31
 
 ---
 To preserve the format of these poems, we have made them available in a downloadable Pdf.

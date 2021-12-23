@@ -7,7 +7,7 @@ year: "2018"
 month: "2018/12"
 slug: '?p=794'
 category: fiction
-issue: C3
+issue: 33
 
 ---
 Tuesday was a typical London day, which is to say, gray and wet. Fairchild Fortesque chose to walk the three blocks from The Victoria Hotel to the Bull Horn Pub, and by the time he stepped into the darkness, wished to hell he’d worn his raincoat. “Who knew a drizzle would turn into a deluge?” he asked the doorman.

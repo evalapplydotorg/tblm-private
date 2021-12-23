@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/08"
 slug: '?p=596'
 category: poetry
-issue: B3
+issue: 23
 
 ---
 SEASON

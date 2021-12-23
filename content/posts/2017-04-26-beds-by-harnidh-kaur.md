@@ -7,7 +7,7 @@ year: "2017"
 month: "2017/04"
 slug: '?p=537'
 category: poetry
-issue: B1
+issue: 21
 
 ---
 Four corners of a sheet tucked in haphazardly, little island of certainty for when the floor wobbles and the roof stares down at your eyes, a game of blink with stakes too high to forfeit &#8211; empty eggshells of unmade memories, ghost limbs curved into clammy folds, piled upon each other, want braided into need, tied with a ribbon-wisp torn off cotton sheets.

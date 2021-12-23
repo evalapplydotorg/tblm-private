@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/01"
 slug: '?p=806'
 category: poetry
-issue: C4
+issue: 34
 
 ---
 **&#8220;After all, Punjabi is spoken on both sides of the border, divided only by the script&#8221;~  

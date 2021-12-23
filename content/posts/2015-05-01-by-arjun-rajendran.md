@@ -7,7 +7,7 @@ year: "2015"
 month: "2015/05"
 slug: '?p=320'
 category: poetry
-issue: A3
+issue: 13
 
 ---
 **Hotel Lobby: Sultanahmet Istanbul  

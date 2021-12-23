@@ -7,7 +7,7 @@ year: "2019"
 month: "2019/08"
 slug: '?p=886'
 category: poetry
-issue: C8
+issue: 38
 
 ---
 **Before the Divorce**
