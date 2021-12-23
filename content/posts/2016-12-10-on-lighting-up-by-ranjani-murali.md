@@ -5,6 +5,7 @@ type: post
 date: 2016-12-10T14:54:35+00:00
 year: "2016"
 month: "2016/12"
+slug: '?p=520'
 category: fiction
 issue: 19
 

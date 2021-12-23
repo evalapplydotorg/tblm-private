@@ -5,6 +5,7 @@ type: post
 date: 2018-02-11T13:24:07+00:00
 year: "2018"
 month: "2018/02"
+slug: '?p=670'
 category: fiction
 issue: 26
 

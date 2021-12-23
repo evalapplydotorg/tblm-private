@@ -5,6 +5,7 @@ type: post
 date: 2016-08-15T11:40:33+00:00
 year: "2016"
 month: "2016/08"
+slug: '?p=494'
 category: fiction
 issue: 18
 tags:

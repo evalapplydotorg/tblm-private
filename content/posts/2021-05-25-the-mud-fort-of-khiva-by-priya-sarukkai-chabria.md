@@ -5,6 +5,7 @@ type: post
 date: 2021-05-25T03:31:34+00:00
 year: "2021"
 month: "2021/05"
+slug: '?p=1198'
 category: poetry
 issue: 52
 

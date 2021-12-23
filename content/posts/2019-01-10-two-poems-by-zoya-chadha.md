@@ -5,6 +5,7 @@ type: post
 date: 2019-01-10T03:46:38+00:00
 year: "2019"
 month: "2019/01"
+slug: '?p=806'
 category: poetry
 issue: 34
 

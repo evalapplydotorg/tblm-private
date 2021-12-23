@@ -5,6 +5,7 @@ type: post
 date: 2016-06-04T13:47:21+00:00
 year: "2016"
 month: "2016/06"
+slug: '?p=459'
 category: reviews
 
 ---

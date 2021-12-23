@@ -5,6 +5,7 @@ type: post
 date: 2018-02-11T13:37:06+00:00
 year: "2018"
 month: "2018/02"
+slug: '?p=676'
 category: poetry
 issue: 26
 

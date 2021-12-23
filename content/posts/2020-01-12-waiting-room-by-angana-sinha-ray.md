@@ -5,6 +5,7 @@ type: post
 date: 2020-01-12T04:23:35+00:00
 year: "2020"
 month: "2020/01"
+slug: '?p=963'
 category: fiction
 issue: 42
 

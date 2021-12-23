@@ -5,6 +5,7 @@ type: post
 date: 2014-12-08T15:18:04+00:00
 year: "2014"
 month: "2014/12"
+slug: '?p=227'
 category: reviews
 issue: 8
 

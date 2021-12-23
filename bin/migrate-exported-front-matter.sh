@@ -93,14 +93,6 @@ make_all_issues_numeric() {
     done
 }
 
-remove_explicit_slug() {
-    local file_name
-    while read file_name
-    do sed -i -E -e '/^slug:.*/d' \
-           "$(realpath ../content/posts/${file_name})"
-    done
-}
-
 # copy_posts
 
 # ls -1 ../content/posts/ | massage_date
@@ -110,5 +102,5 @@ remove_explicit_slug() {
 # ls -1 ../content/posts/ | slugify_url
 # ls -1 ../content/posts/ | parse_author_from_title
 # ls -1 ../content/posts/ | remove_author_from_title
-ls -1 ../content/posts/ | make_all_issues_numeric
-# ls -1 ../content/posts/ | remove_explicit_slug
+# ls -1 ../content/posts/ | make_all_issues_numeric
+ls -1 ../content/posts/ | remove_explicit_slug

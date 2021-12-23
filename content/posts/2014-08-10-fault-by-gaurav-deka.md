@@ -5,6 +5,7 @@ type: post
 date: 2014-08-10T12:43:26+00:00
 year: "2014"
 month: "2014/08"
+slug: '?p=208'
 category: fiction
 issue: 7
 

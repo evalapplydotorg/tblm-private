@@ -5,6 +5,7 @@ type: post
 date: 2013-07-10T19:03:38+00:00
 year: "2013"
 month: "2013/07"
+slug: '?p=28'
 category: fiction
 issue: 2
 tags:

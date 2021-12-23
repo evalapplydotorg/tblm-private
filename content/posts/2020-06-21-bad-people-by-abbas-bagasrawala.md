@@ -5,6 +5,7 @@ type: post
 date: 2020-06-21T03:04:04+00:00
 year: "2020"
 month: "2020/06"
+slug: '?p=1080'
 category: fiction
 issue: 46
 

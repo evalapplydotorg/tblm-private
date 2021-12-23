@@ -5,6 +5,7 @@ type: post
 date: 2021-05-25T03:04:07+00:00
 year: "2021"
 month: "2021/05"
+slug: '?p=1190'
 category: fiction
 issue: 52
 

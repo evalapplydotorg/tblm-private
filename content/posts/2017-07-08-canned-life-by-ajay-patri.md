@@ -5,6 +5,7 @@ type: post
 date: 2017-07-08T09:55:17+00:00
 year: "2017"
 month: "2017/07"
+slug: '?p=571'
 category: fiction
 issue: 22
 

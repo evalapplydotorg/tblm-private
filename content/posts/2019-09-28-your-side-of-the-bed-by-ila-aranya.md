@@ -5,6 +5,7 @@ type: post
 date: 2019-09-28T02:50:01+00:00
 year: "2019"
 month: "2019/09"
+slug: '?p=905'
 category: fiction
 issue: 39
 

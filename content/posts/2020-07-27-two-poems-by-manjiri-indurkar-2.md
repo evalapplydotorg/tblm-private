@@ -5,6 +5,7 @@ type: post
 date: 2020-07-27T03:05:32+00:00
 year: "2020"
 month: "2020/07"
+slug: '?p=1101'
 category: poetry
 issue: 47
 
