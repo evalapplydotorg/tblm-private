@@ -46,3 +46,41 @@ collections:
         field: issue
       - label: Category
         field: category
+  - name: "about"
+    label: "About"
+    description: "About TBLM"
+    files:
+      - name: "about"
+        label: "About TBLM"
+        file: "content/about.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "Draft", name: "draft", widget: "boolean"}
+          - {label: "Author", name: "author", widget: "string"}
+          - {label: "Category",
+             name: "category",
+             widget: "select",
+             default: "uncategorised",
+             options: ["poetry","fiction","interviews","general"]}
+          - {label: "Summary", name: "summary", widget: "text"}
+          - {label: "Body", name: "body", widget: "markdown"}
+  - name: "submissions"
+    label: "Submissions"
+    description: "Submit posts to TBLM"
+    files:
+      - name: "submit"
+        label: "Submit posts to TBLM"
+        file: "content/submit.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "datetime"}
+          - {label: "Draft", name: "draft", widget: "boolean"}
+          - {label: "Author", name: "author", widget: "string"}
+          - {label: "Category",
+             name: "category",
+             widget: "select",
+             default: "uncategorised",
+             options: ["poetry","fiction","interviews","general"]}
+          - {label: "Summary", name: "summary", widget: "text"}
+          - {label: "Body", name: "body", widget: "markdown"}
