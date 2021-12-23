@@ -5,7 +5,6 @@ type: post
 date: 2015-02-26T15:03:14+00:00
 year: "2015"
 month: "2015/02"
-slug: '?p=275'
 category: fiction
 issue: 11
 

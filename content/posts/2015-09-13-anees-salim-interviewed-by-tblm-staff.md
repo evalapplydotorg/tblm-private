@@ -4,7 +4,6 @@ type: post
 date: 2015-09-13T15:38:14+00:00
 year: "2015"
 month: "2015/09"
-slug: '?p=358'
 category: interviews
 author: "tblm Staff"
 

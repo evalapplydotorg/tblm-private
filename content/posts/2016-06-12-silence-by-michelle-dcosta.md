@@ -4,7 +4,6 @@ type: post
 date: 2016-06-12T04:20:33+00:00
 year: "2016"
 month: "2016/06"
-slug: '?p=470'
 category: fiction
 
 ---

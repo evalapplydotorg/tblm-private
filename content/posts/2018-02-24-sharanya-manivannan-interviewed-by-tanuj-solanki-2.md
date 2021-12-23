@@ -4,7 +4,6 @@ type: post
 date: 2018-02-24T17:37:57+00:00
 year: "2018"
 month: "2018/02"
-slug: '?p=687'
 category: interviews
 author: "tblm Staff"
 

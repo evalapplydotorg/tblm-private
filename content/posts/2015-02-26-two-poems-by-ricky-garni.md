@@ -5,7 +5,6 @@ type: post
 date: 2015-02-26T14:40:46+00:00
 year: "2015"
 month: "2015/02"
-slug: '?p=269'
 category: poetry
 issue: 11
 

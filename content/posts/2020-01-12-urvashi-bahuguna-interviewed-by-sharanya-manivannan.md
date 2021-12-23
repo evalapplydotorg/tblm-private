@@ -4,7 +4,6 @@ type: post
 date: 2020-01-12T04:05:07+00:00
 year: "2020"
 month: "2020/01"
-slug: '?p=960'
 category: interviews
 author: "tblm Staff"
 issue: 42

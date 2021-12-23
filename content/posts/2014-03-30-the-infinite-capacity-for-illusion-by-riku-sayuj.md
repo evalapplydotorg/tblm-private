@@ -5,7 +5,6 @@ type: post
 date: 2014-03-30T20:28:26+00:00
 year: "2014"
 month: "2014/03"
-slug: '?p=162'
 category: reviews
 
 ---
