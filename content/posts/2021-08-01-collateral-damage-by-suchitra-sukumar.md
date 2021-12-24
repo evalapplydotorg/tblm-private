@@ -1,14 +1,18 @@
 ---
-title: 'Collateral Damage'
-author: "Suchitra Sukumar"
-type: post
+month: 2021/08
+title: Collateral Damage
 date: 2021-08-01T06:25:31+00:00
-year: "2021"
-month: "2021/08"
-slug: '?p=1283'
+draft: true
+author: Suchitra Sukumar
 category: fiction
 issue: 54
-
+summary: "This may be the Age of the Pandemic, but human nature hasn't changed.
+  For example, that women need men is beyond dispute. As our ancients used to
+  say, a woman without a man is like a fish without a bicycle. In Suchitra
+  Sukumar's story, a man contemplates his replacement bicycle.  "
+slug: ?p=1283
+type: post
+year: "2021"
 ---
 I didn&#8217;t fear Radhika until I had fallen in love with her. Our first years together were all sex and electric conversation. She was in her goth phase then, her eyes lined with kohl that shone like hot tar, and she wore dark maroon lipstick. &#8220;Oxblood,&#8221; she said when I asked her what it was called. &#8220;Rad… won&#8217;t you wear pink once in a while?&#8221; She rolled her eyes.
 
