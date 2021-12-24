@@ -1,14 +1,17 @@
 ---
-title: 'The Birth'
-author: "Anushka Joshi"
-type: post
+month: 2018/02
+title: The Birth
 date: 2018-02-11T13:24:07+00:00
-year: "2018"
-month: "2018/02"
-slug: '?p=670'
+draft: true
+author: Anushka Joshi
 category: fiction
 issue: 26
-
+summary: "There are moments in history when a personal tragedy is also the
+  biography of a nation.  This is the story of one such moment, one such event,
+  one such nation. "
+slug: ?p=670
+type: post
+year: "2018"
 ---
 It was February when we wheeled my sister into the hospital, her eyes shut close with pain. There was always someone touching her hair, her hand, always someone telling her that it would be alright, everything would be fine, but also sobbing as they said it, while she drifted in and out of consciousness. The hospital was quiet, the nurses talked quietly. People waiting outside the ICU wore sweaters and caps in bright colors. This was Ahmedabad, we would always be unused to the winter. A little temple had been set up near the reception, and I realized even then that the hospital was divided into three kinds of people: those who passed the temple quickly with no reason to pray, those who stopped before it and prayed in a way no one prays in public, and those who passed it slowly, numbly on their way out, with nothing left to pray for. And there was a fourth kind, too. The ones who wouldn’t pray at this temple at all. No praying room had been made for them, no place to kneel down and say namaaz. On that day I was grateful for this because if there had been a namaaz room in the hospital, anyone found in it would have been taken out and butchered. Three days, ago, in Godhra, Hindu pilgrims had been burnt to death by a Muslim mob. Now, in Ahmedabad and in the rest of Gujarat, Muslims were being hunted down. We were safe, of course. We were Hindu.
 
