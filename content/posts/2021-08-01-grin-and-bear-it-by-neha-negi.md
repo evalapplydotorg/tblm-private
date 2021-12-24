@@ -1,14 +1,18 @@
 ---
-title: 'Grin and Bear It'
-author: "Neha Negi"
-type: post
+month: 2021/08
+title: Grin and Bear It
 date: 2021-08-01T06:07:27+00:00
-year: "2021"
-month: "2021/08"
-slug: '?p=1278'
+draft: true
+author: Neha Negi
 category: fiction
 issue: 54
-
+summary: "The thermodynamic \"arrow of time\" points in the direction of
+  increasing disorder. Physicists are silent on whether that is also true of
+  love. Neha Negi's story has nothing to do with physics, but it is an arrow
+  shot from entropy's quiver.  "
+slug: ?p=1278
+type: post
+year: "2021"
 ---
 [<img src="http://bombayliterarymagazine.com/wp-content/uploads/2021/08/Neha-Negi.jpg" alt="nn" width="513" height="705" class="aligncenter size-large wp-image-546" />][1]
 
