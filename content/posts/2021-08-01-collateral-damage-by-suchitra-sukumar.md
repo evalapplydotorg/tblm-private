@@ -6,9 +6,10 @@ draft: true
 author: Suchitra Sukumar
 category: fiction
 issue: 54
-summary: "That women need men is beyond dispute. As our ancients used to say, a
-  woman without a man is like a fish without a bicycle. In Suchitra Sukumar's
-  story, a man contemplates his replacement bicycle.  "
+summary: "This may be the Age of the Pandemic, but human nature hasn't changed.
+  For example, that women need men is beyond dispute. As our ancients used to
+  say, a woman without a man is like a fish without a bicycle. In Suchitra
+  Sukumar's story, a man contemplates his replacement bicycle.  "
 slug: ?p=1283
 type: post
 year: "2021"
