@@ -1,14 +1,19 @@
 ---
-title: 'The Menace at the Gate'
-author: "Janet H. Swinney"
-type: post
+month: 2016/02
+title: The Menace at the Gate
 date: 2016-02-11T12:18:42+00:00
-year: "2016"
-month: "2016/02"
-slug: '?p=407'
+draft: true
+author: Janet H. Swinney
 category: fiction
 issue: 16
-
+summary: "It always sucks when one's body starts to mirror Indian politics. So
+  it is unfortunate for the story's teenage heroine that she's living in
+  mosquito-plagued 1970s India, with the Khalistani movement in full swing in
+  the Punjab. A separatist without and a separatist movement within. Swiss girls
+  are so lucky! Their bodies must run like clockwork.  "
+slug: ?p=407
+type: post
+year: "2016"
 ---
 Her period refused to come. She lay in turmoil beneath the ineffectual ceiling fan. No position brought relief from the heat. After days of tossing and turning and lying in limp sheets, her shoulders and her buttocks were disfigured by the blemishes served up by prickly heat, and the monsoon was still an age away.
 
