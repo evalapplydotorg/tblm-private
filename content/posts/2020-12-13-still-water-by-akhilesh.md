@@ -1,14 +1,18 @@
 ---
-title: 'Still Water'
-author: "Akhilesh"
-type: post
+month: 2020/12
+title: Still Water
 date: 2020-12-13T06:46:47+00:00
-year: "2020"
-month: "2020/12"
-slug: '?p=1147'
+draft: true
+author: Akhilesh
 category: fiction
 issue: 49
-
+summary: '"....the Gandharva drew closer and he realized it was as much a thing
+  of water as it was stone, as much a being of music as it was its creator. Like
+  the wind through trees and a shadow over stone, it was formless, yet it was
+  there, a thing of water, fire, stone, and sound."'
+slug: ?p=1147
+type: post
+year: "2020"
 ---
 _We made the mountains shake with laughter as we played  
 Hiding in our corner of the world  
