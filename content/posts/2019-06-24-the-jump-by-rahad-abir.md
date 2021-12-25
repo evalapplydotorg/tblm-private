@@ -1,14 +1,32 @@
 ---
-title: 'The Jump'
-author: "Rahad Abir"
-type: post
+month: 2019/06
+title: The Jump
 date: 2019-06-24T02:36:49+00:00
-year: "2019"
-month: "2019/06"
-slug: '?p=859'
+draft: true
+author: Rahad Abir
 category: fiction
 issue: 37
+summary: >-
+  In Rahad Abir's story, there's a reference to Jibanananda Das' remarkable
+  Bangla's poem, Aat Bochor Ager Ekdin (A Day Eight Years Ago). Its opening
+  stanza tells of a man who, one dark February night, is seized with an "urge to
+  die."
 
+
+  This urge to die, the poet tells us, isn't born out of the usual desires of life, but "...some other perilous wonder//
+
+  Which frolics//
+
+  In our very blood.//
+
+  It exhausts us—//
+
+  Fatigues, exhausts us." (Clinton B. Seely's translation). 
+
+  This story is about that exhaustion. 
+slug: ?p=859
+type: post
+year: "2019"
 ---
 The note reads nakedly: _No one is to blame for my action_. You leave it sprawled on the table next to the empty coffee cup, put your rimless glasses over it.
 
