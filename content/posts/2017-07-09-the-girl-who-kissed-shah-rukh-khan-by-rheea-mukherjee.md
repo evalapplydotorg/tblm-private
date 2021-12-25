@@ -6,7 +6,7 @@ draft: true
 author: Rheea Mukherjee
 category: fiction
 issue: 22
-summary: "Do you really need any encouragement to read this story? "
+summary: "Seriously? You really need encouragement to read this story? "
 slug: ?p=577
 type: post
 year: "2017"
