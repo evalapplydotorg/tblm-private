@@ -1,14 +1,22 @@
 ---
-title: 'A Family Affair'
-author: "Anand Jacob"
-type: post
+month: 2020/01
+title: A Family Affair
 date: 2020-01-26T08:27:25+00:00
-year: "2020"
-month: "2020/01"
-slug: '?p=979'
+draft: true
+author: Anand Jacob
 category: fiction
 issue: 43
-
+summary: "None of us editors are sure what is going in this story. For one
+  thing, it has a lot of talking cats. Occasionally, in Tamil! As if this isn't
+  disturbing enough, it's about a missing budgie named Blocky who may have been
+  sent to the Norwegian Fjords (it's lovely any time of the year), when they (we
+  haven't budgie-sexed the bird) wished to see Australia (why Australia??).
+  Whatever the hell is going on with the story, it is clear there is something
+  very wrong with Anand Jacob. We invite you to read the story and share our
+  opinion. "
+slug: ?p=979
+type: post
+year: "2020"
 ---
 “This depraved lifestyle is no good, Cattaparthy,” said a voice, and Cattaparthy opened an eye, reconsidered, and shut it again.
 
