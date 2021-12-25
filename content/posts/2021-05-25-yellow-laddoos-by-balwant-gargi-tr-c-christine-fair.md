@@ -1,14 +1,20 @@
 ---
-title: 'Yellow Laddoos'
-author: "Balwant Gargi (tr. C. Christine Fair)"
-type: post
+month: 2021/05
+title: Yellow Laddoos
 date: 2021-05-25T03:04:07+00:00
-year: "2021"
-month: "2021/05"
-slug: '?p=1190'
+draft: true
+author: Balwant Gargi (tr. C. Christine Fair)
 category: fiction
 issue: 52
-
+summary: "If you haven't yet read the Punjabi writer Balwant Gargi (1916 –
+  2003), well, you must. His stories were influenced by Antonin Artaud's call
+  for a literature that introduced humans to themselves. Which in Gargi's case
+  meant that his stories are often about the good stuff: sex, death and
+  violence. Or, in this case, laddoos. If you haven't yet eaten a laddoo, well,
+  you must.   "
+slug: ?p=1190
+type: post
+year: "2021"
 ---
 Puro was about to leave for the fields when she said to Jangir, “Will you come with me? I’ll give you laddoos to eat.”
 
