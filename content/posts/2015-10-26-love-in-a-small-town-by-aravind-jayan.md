@@ -1,14 +1,17 @@
 ---
-title: 'Love in a Small Town'
-author: "Aravind Jayan"
-type: post
+month: 2015/10
+title: Love in a Small Town
 date: 2015-10-26T16:55:58+00:00
-year: "2015"
-month: "2015/10"
-slug: '?p=385'
+draft: true
+author: Aravind Jayan
 category: fiction
 issue: 15
-
+summary: "An old-fashioned story complete with a mis-marriage plot, scheming
+  brokers, recalcitrant youth, and of course, that cursed demon stalking the
+  lives of simple good honest decent people, called Modernity. "
+slug: ?p=385
+type: post
+year: "2015"
 ---
 When Colonel Aravindan Nair took him out back to the great grounds bordering his rubber estate, Panikker assumed that it was to show him the site of the prospective wedding. He expected the Colonel to stretch his brawny arms and say, ‘A tent this big’ or stomp his foot and proclaim, ‘lunch for a thousand guests here, there a podium, and of course, changing areas! – and all this depends on you, Panikker.’ Indeed, Panikker felt a good measure of pride at this imagined trust, and the scent of rubber milk had just about filled his two-bone chest when the Colonel asked him to wait and went into the outhouse at the edge of the grounds. Imagine Panikker’s surprise then, when he came out with an Enfield .303 and pointed it first at his heart and then at the trees. ‘Pick up a stone, Panikker,’ he commanded. ‘What, Colonel?’ ‘Pick up a stone and throw it into the trees- I don’t have all day.’ Unsure, Panikker picked out a small and polished pebble, wiped it clean against his shirt and tossed it into the woods. It landed not twenty feet from where they stood and barely crossed the tree line. ‘You’re not pitching to your nephew, Panikker. Throw hard, I say!’ This time Panikker set his attaché case down and freed the crook of his arm. He chose a larger stone and arched his back till his spine creaked. Saying a quick prayer, he hurled the stone as hard as he could and stumbled forward, nearly falling. The stone flew straight through the trees and landed among some bushes. Far enough, he thought with some relief. But before Panikker could compose himself and look to the Colonel for approval, something stirred among the mulberry shrubs. A large black duck flew out, flapping its wings in funk, using the momentum of astonishment for a clear take-off. Not a second later, a shot rang out. Panikker’s knees nearly gave away and his ears caught fire. The bird cried for a last time before falling formlessly onto a high branch.
 
