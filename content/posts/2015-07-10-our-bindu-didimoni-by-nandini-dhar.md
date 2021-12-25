@@ -11,9 +11,8 @@ summary: "While it is probably true that the best educations are to be had in
   be found there. Such places have no need for courage. The bravest educators---
   the ones who valorize excellence, the validity of non-utilitarian learning,
   and the value of being different--- are to be found in places like Jhaunpur,
-  Kaabong,  Nuwakot, Charsaddah, and Huanchaco. It is they who change the world
-  even when nothing seems to be changeable or changed.  Bindu Didimoni is one
-  such educator.... "
+  Kaabong,  Nuwakot, Charsaddah, and Huanchaco.  Bindu Didimoni is one such
+  educator.... "
 slug: ?p=342
 type: post
 year: "2015"
