@@ -1,14 +1,21 @@
 ---
-title: 'Lefting'
-author: "Debojit Dutta"
-type: post
+month: 2018/11
+title: Lefting
 date: 2018-11-19T03:13:35+00:00
-year: "2018"
-month: "2018/11"
-slug: '?p=788'
+draft: true
+author: Debojit Dutta
 category: fiction
 issue: 33
+summary: >-
+  “On the inside,” she would tell me, “I am hundred-years-old,
+  two-hundred-years-old. A poorly maintained statue from the British era, or
+  whatever is as old. A statue with arthritis.”
 
+
+  Arthritis of the flesh has its treatments. But what do we do when the mind stiffens, bends in painful orientations, is unable to flex towards those acceptances that make mortality bearable? Faced with such a mind, what is a psychologist to do?
+slug: ?p=788
+type: post
+year: "2018"
 ---
 When S first walked into the room, I took her for a woman around the age of fifty. Later, when I told her that, she said she would have preferred to look younger, like her younger sister who people said looked at least a decade younger than her actual age. She also clarified that I had not offended her. After all, she had always believed she looked older, much older than her age —a seventy-year-old? at least sixty perhaps? Illnesses, numerous illnesses, forced her body to age prematurely. “On the inside,” she would tell me, “I am hundred-years-old, two-hundred-years-old. A poorly maintained statue from the British era, or whatever is as old. A statue with arthritis.”
 
