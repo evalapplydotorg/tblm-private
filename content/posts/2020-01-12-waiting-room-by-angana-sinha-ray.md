@@ -6,7 +6,9 @@ draft: true
 author: Angana Sinha Ray
 category: fiction
 issue: 42
-summary: TBD
+summary: "There are many kinds of waiting, and one of the worst is when we have
+  to wait, unknowingly, for someone else's decision. In this moving tale, a
+  daughter awaits in this manner, for her mother to make a decision. "
 slug: ?p=963
 type: post
 year: "2020"
