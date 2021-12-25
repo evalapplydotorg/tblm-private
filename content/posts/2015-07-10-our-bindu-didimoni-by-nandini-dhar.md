@@ -12,7 +12,7 @@ summary: "While it is probably true that the best educations are to be had in
   the ones who valorize excellence, the validity of non-utilitarian learning,
   and the value of being different--- are to be found in places like Jhaunpur,
   Kaabong,  Nuwakot, Charsaddah, and Huanchaco.  Bindu Didimoni, headmistress at
-  Kanaklata Memorial Girls,  is one such educator.... "
+  Kanaklata Memorial Girls High School,  is one such educator.... "
 slug: ?p=342
 type: post
 year: "2015"
