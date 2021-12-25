@@ -6,9 +6,10 @@ draft: true
 author: Ila Ananya
 category: fiction
 issue: 39
-summary: "This story is for those curious about the writing life, what it is to
-  *be* a writer, to ache and love and absorb and remember.  Your life, dear
-  Reader, your life. "
+summary: "Aida and Ana; a useful tip about buying eggs; a flat called Sunny; and
+  oh yes, poor Diya, she gets a raw deal, no doubt about it. This story is for
+  those curious about the writing life, what it is to *be* a writer, to ache and
+  love and absorb and remember.  Your life, dear Reader, your life. "
 slug: ?p=905
 type: post
 year: "2019"
