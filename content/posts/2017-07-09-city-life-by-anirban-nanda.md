@@ -13,8 +13,8 @@ summary: Alvin Toffler, in his book "Future Shock", discusses a Sheraton Hotel
   mechanical toys." The ad invited the business class to "unwind" at the
   Sheraton hotels.  Fast forward to this decade, and this corner of Mammon's
   empire, and that young executive is now an uprooted and urbanized Bengali
-  migrant, the hero's journey mapped to a treadmill, and the giant key, wound up
-  tighter, ever tighter....
+  migrant, the hero's journey now mapped to a treadmill, and the giant key,
+  wound up tighter, ever tighter....
 slug: ?p=583
 type: post
 year: "2017"
