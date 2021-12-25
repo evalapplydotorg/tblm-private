@@ -1,14 +1,22 @@
 ---
-title: 'City Life'
-author: "Anirban Nanda"
-type: post
+month: 2017/07
+title: City Life
 date: 2017-07-09T03:42:19+00:00
-year: "2017"
-month: "2017/07"
-slug: '?p=583'
+draft: true
+author: Anirban Nanda
 category: fiction
 issue: 22
-
+summary: Alvin Toffler, in his book "Future Shock", discusses a Sheraton Hotel
+  ad which showed a young executive, clean-cut, attache'd, a perfectly
+  manufactured MBA product, except that "...sticking out from between his
+  shoulder blades was a great, butterfly-shaped key of the type used to wind up
+  mechanical toys." The ad invited the business class to "unwind" at the
+  Sheraton hotels.  Fast forward to this decade, and this corner of Mammon's
+  empire, and that young executive is now an uprooted and urbanized Bengali
+  migrant, being wound up tighter, ever tighter....
+slug: ?p=583
+type: post
+year: "2017"
 ---
 Visualise:
 
