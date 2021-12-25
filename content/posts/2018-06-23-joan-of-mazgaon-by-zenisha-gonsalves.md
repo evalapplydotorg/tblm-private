@@ -1,14 +1,16 @@
 ---
-title: 'Joan of Mazgaon'
-author: "Zenisha Gonsalves"
-type: post
+month: 2018/06
+title: Joan of Mazgaon
 date: 2018-06-23T03:43:34+00:00
-year: "2018"
-month: "2018/06"
-slug: '?p=741'
+draft: true
+author: Zenisha Gonsalves
 category: fiction
 issue: 29
-
+summary: "This one is for Tolstoy. A story filled with light and love and
+  wonder. Blessed are they who have good neighbors. "
+slug: ?p=741
+type: post
+year: "2018"
 ---
 Every morning Joan and Gilly wake up before their children do, set the house and day in order, settle down in the balcony with two cups of tea and a newspaper. Joan cuts a loaf of bread and a pair of tomatoes – do tomatoes come in pairs? she wonders – takes the chutney from the big fridge in the small kitchen and places it all on the table where they eat. Gilly does a load of laundry, sets the tea to boil, stands by the kitchen window, looking out.
 
