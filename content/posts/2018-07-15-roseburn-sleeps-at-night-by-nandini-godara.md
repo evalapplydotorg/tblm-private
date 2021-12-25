@@ -1,14 +1,20 @@
 ---
-title: 'Roseburn Sleeps At Night'
-author: "Nandini Godara"
-type: post
+month: 2018/07
+title: Roseburn Sleeps At Night
 date: 2018-07-15T06:31:20+00:00
-year: "2018"
-month: "2018/07"
-slug: '?p=747'
+draft: true
+author: Nandini Godara
 category: fiction
 issue: 31
-
+summary: "Cleanliness is next to Godliness. And in this part of the world,
+  cleanliness is a very, very, far next indeed. So far in fact, it might tempt
+  some do-gooders to take matters into their own hands. Not cleaning up the
+  garbage matter (God, no!) but rather, making sure attention is drawn to the
+  problem. That's the same thing these days, isn't it? Attentiveness is next to
+  Effectiveness. "
+slug: ?p=747
+type: post
+year: "2018"
 ---
 If you’re wondering who we are, let me unravel the mystery. We are the untethered children of those that live rich, tethered lives. Filled with reckless desire, unlimited ambition and thriving delusions. The unwilling bearer of it all? The place we grew up in and never grew out of &#8211; Roseburn &#8211; the perfect little island, surrounded by The City on all sides. It has everything. High-rises, row-houses, commercial blocks filled with multi-national corporations, comedy-clubs, jazz clubs, chain restaurants, local haunts, internationally recognised educational institutions, a massive hospital and a few hundred medical clinics serving the people and pets of.
 
