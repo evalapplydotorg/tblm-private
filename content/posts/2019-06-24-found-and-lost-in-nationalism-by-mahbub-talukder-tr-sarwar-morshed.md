@@ -1,14 +1,20 @@
 ---
-title: 'Found and Lost in Nationalism!'
-author: "Mahbub Talukder (tr. Sarwar Morshed)"
-type: post
+month: 2019/06
+title: Found and Lost in Nationalism!
 date: 2019-06-24T02:08:28+00:00
-year: "2019"
-month: "2019/06"
-slug: '?p=852'
+draft: true
+author: Mahbub Talukder (tr. Sarwar Morshed)
 category: fiction
 issue: 37
-
+summary: Sarcasm, in the south-Asian mode, often manifests as effusive
+  admiration of the criticized. Wah, wah! What a donkey! Wah wah! What an ass!
+  This is eminently sensible in a part of the world where when dictators weep,
+  children die in the streets. Mahbub Talukder's story is in this tradition. A
+  country mouse recounts the arrival of his friend, the city mouse. Wah, wah!
+  Wah, wah!
+slug: ?p=852
+type: post
+year: "2019"
 ---
 The protagonist of this story is Mr. ABC i.e. Abdul Bari Choudhury. He has been residing in the US for a long time. Though seven seas and thirteen rivers away from the homeland, he has genuine feelings for his country. This feeling has dragged him to Bangladesh after a long time. He, however, did not embark on his homeward journey all alone. He made his better-half join the bandwagon. This he did deliberately. With the family getting ready to greet a new member, ABC has decided to come back to Bangladesh so that Nazia’s delivery is done here. The American physician has opined that everything is okay with the expecting Nazia. But if I continue this narrative in the linear fashion, your patience may be exhausted and you will not be willing to peruse the whole thing. Hence I solicit you to flex your patience-muscle a little bit!
 
