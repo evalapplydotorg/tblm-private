@@ -1,14 +1,16 @@
 ---
-title: 'A Crow Named Black'
-author: "Debasri Mukherjee"
-type: post
+month: 2018/01
+title: A Crow Named Black
 date: 2018-01-07T02:57:11+00:00
-year: "2018"
-month: "2018/01"
-slug: '?p=658'
+draft: true
+author: Debasri Mukherjee
 category: fiction
 issue: 25
-
+summary: "It is not often that a story's title is a perfect description of its
+  content. This one belongs to that honest class. "
+slug: ?p=658
+type: post
+year: "2018"
 ---
 Aww! Sweet! That’s my boy. Kill. Kill. Kill…No, no, no… it’s pecking his eyes out… Yess! Grabbed it by the neck. Now one snap and the head’s off, rainbow neck and plumage an’ all. I think it’s time to land on the nearest branch. A few of my brothers might be on the lookout too. Best be the first off the block! I dip down, circling the topmost branches, looking for a sturdier lower branch to land on while keeping one wary eye on the prey, or, to be honest, on the severed head of the prey which the dog has very obligingly thrown aside while starting on the body.
 
