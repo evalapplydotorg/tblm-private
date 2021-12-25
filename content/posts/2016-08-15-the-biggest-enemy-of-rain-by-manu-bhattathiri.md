@@ -1,17 +1,24 @@
 ---
-title: 'The Biggest Enemy of Rain'
-author: "Manu Bhattathiri"
-type: post
+month: 2016/08
+title: The Biggest Enemy of Rain
 date: 2016-08-15T11:40:33+00:00
-year: "2016"
-month: "2016/08"
-slug: '?p=494'
+draft: true
+author: Manu Bhattathiri
 category: fiction
-issue: 18
+summary: "It seems the mathematician G. H. Hardy, legendary mentor and friend of
+  Srinivasa Ramanujan, often carried an umbrella to cricket matches, even on the
+  sunniest of days. Why? Hardy, a lifelong atheist, claimed that it was an
+  anti-God measure. God would not give him the satisfaction of being proved
+  right, and He would withhold, therefore, the rain. Hardy would have been
+  sympathetic to the beleaguered hero of Manu Bhattathiri's story, namely, Gopi,
+  \"the biggest enemy of the rain\".  "
+slug: ?p=494
 tags:
   - Bhattathiri
   - Manu
-
+issue: 18
+type: post
+year: "2016"
 ---
 Contrary to popular belief, the biggest enemy of rain is not the rapid felling of trees. Nor is it rising global temperatures, industrialization, the burning of fossil fuels or even that telltale hole in the sky. The single biggest enemy of rain is a person by the name of Gopi and he still lives in our little town and he still hates rain.
 
