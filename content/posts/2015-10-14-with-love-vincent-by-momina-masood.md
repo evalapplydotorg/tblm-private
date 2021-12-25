@@ -1,14 +1,16 @@
 ---
-title: 'With Love, Vincent'
-author: "Momina Masood"
-type: post
+month: 2015/10
+title: With Love, Vincent
 date: 2015-10-14T17:35:34+00:00
-year: "2015"
-month: "2015/10"
-slug: '?p=381'
+draft: true
+author: Momina Masood
 category: fiction
 issue: 15
-
+summary: As the author says, this story is a "reimagining of a day in the life
+  of Vincent van Gogh"
+slug: ?p=381
+type: post
+year: "2015"
 ---
 (A reimagining of a day in the life of Vincent van Gogh)
 
