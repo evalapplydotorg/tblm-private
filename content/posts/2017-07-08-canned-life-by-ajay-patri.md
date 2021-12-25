@@ -10,7 +10,7 @@ summary: "You know things are pretty bad when the future is no country for young
   people. You know things are pretty bad when the old are the heretics and the
   young are the  traditionalists. You know things are pretty bad if the only way
   to tell if your country is still democratic is to check it's still selling
-  Coca-Cola. A story for the young. "
+  Coca-Cola.... A story for the young that is perhaps also a prophesy. "
 slug: ?p=571
 type: post
 year: "2017"
