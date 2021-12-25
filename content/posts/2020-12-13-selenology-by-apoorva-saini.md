@@ -1,14 +1,21 @@
 ---
-title: 'Selenology'
-author: "Apoorva Saini"
-type: post
+month: 2020/12
+title: Selenology
 date: 2020-12-13T08:19:28+00:00
-year: "2020"
-month: "2020/12"
-slug: '?p=1152'
+draft: true
+author: Apoorva Saini
 category: fiction
 issue: 49
-
+summary: "In a Sanskrit story, sooner or later you'll come across a forlorn
+  lover begging an irritated cloud to carry a message to their partner. The
+  ancients had a special term for love-in-separation: vipralambha. Two souls,
+  bound by mind and desire, separated in space and time and matter. Great for
+  literature, but not a happy state of affairs for lovers. Apoorva Saini's story
+  introduces another word, an ancient Swedish word: \"särbo\".  It might make
+  you rethink the gravitational theory of love.  "
+slug: ?p=1152
+type: post
+year: "2020"
 ---
 &#8220;In the end, the only stories that loving you brought me were the stories of what it meant to not be loved by you.&#8221;
 
