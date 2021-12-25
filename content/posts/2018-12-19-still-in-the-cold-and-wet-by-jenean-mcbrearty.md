@@ -1,14 +1,18 @@
 ---
-title: 'Still in the Cold… and Wet'
-author: "Jenean McBrearty"
-type: post
+month: 2018/12
+title: Still in the Cold… and Wet
 date: 2018-12-19T02:53:44+00:00
-year: "2018"
-month: "2018/12"
-slug: '?p=794'
+draft: true
+author: Jenean McBrearty
 category: fiction
 issue: 33
-
+summary: "Double-crossing spies. London pubs. Degenerate blackmailers. Hollywood
+  movies. Degenerate Nazis. Commies. And a mistress who is willing to kill to
+  keep a secret a secret. Jenean McBrearty's story is a card-carrying member of
+  the thriller genre.   "
+slug: ?p=794
+type: post
+year: "2018"
 ---
 Tuesday was a typical London day, which is to say, gray and wet. Fairchild Fortesque chose to walk the three blocks from The Victoria Hotel to the Bull Horn Pub, and by the time he stepped into the darkness, wished to hell he’d worn his raincoat. “Who knew a drizzle would turn into a deluge?” he asked the doorman.
 
