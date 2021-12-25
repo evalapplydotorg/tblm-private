@@ -12,7 +12,7 @@ summary: "In a Sanskrit story, sooner or later you'll come across a forlorn
   bound by mind and desire, separated in space and time and matter. Great for
   literature, but not a happy state of affairs for lovers. Apoorva Saini's story
   introduces another word, an ancient Swedish word: \"särbo\".  It might make
-  you rethink the gravitational theory of love.  "
+  you rethink the gravitational theory of attraction.  "
 slug: ?p=1152
 type: post
 year: "2020"
