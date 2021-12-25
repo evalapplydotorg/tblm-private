@@ -1,14 +1,18 @@
 ---
-title: 'I Learned to Fish in My Teenage Years'
-author: "Sidharth Singh"
-type: post
+month: 2021/03
+title: I Learned to Fish in My Teenage Years
 date: 2021-03-06T01:54:55+00:00
-year: "2021"
-month: "2021/03"
-slug: '?p=1166'
+draft: true
+author: Sidharth Singh
 category: fiction
 issue: 51
-
+summary: "What's it like to kiss a fish? Well, you won't learn the answer to
+  that profound question from this story. But you will sink, ever so gradually,
+  into the waters of transformation with the story's protagonist, young,
+  blood-rich, and a catcher of fish. "
+slug: ?p=1166
+type: post
+year: "2021"
 ---
 Back then Papa and I would hop across rocks and boulders along the Tirthan River every morning, with our fishing rods in hand—he had a sleek fly rod and I had an amateur’s spinner. He had just started me on fishing, and we did our lessons before I walked with Madhu to school.
 
