@@ -11,7 +11,7 @@ summary: Alvin Toffler, in his book "Future Shock" (1970), discusses a Sheraton
   manufactured MBA product, except that "...sticking out from between his
   shoulder blades was a great, butterfly-shaped key of the type used to wind up
   mechanical toys." The ad invited the business class to "unwind" at the
-  Sheraton hotels.  Fast forward half-a-century, and this corner of Mammon's
+  Sheraton hotels.  Fast forward half-a-century, and to this corner of Mammon's
   empire, and that young executive is now an uprooted and urbanized Bengali
   migrant, the hero's journey now mapped to a treadmill, and the giant key,
   wound up tighter, ever tighter....
