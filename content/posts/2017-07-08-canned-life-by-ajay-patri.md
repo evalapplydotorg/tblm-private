@@ -1,14 +1,19 @@
 ---
-title: 'Canned Life'
-author: "Ajay Patri"
-type: post
+month: 2017/07
+title: Canned Life
 date: 2017-07-08T09:55:17+00:00
-year: "2017"
-month: "2017/07"
-slug: '?p=571'
+draft: true
+author: Ajay Patri
 category: fiction
 issue: 22
-
+summary: "You know things are pretty bad when the future is no country for young
+  people. You know things are pretty bad when the old are the heretics and the
+  young are the  traditionalists. You know things are pretty bad if the only way
+  to tell if your country is still democratic is to check it's still selling
+  Coca-Cola. A story for the young. "
+slug: ?p=571
+type: post
+year: "2017"
 ---
 We stood in front of the digital display, staring at the screen space beside the number of our flight. Our flight was delayed.
 
