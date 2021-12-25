@@ -1,14 +1,21 @@
 ---
-title: 'On Lighting Up'
-author: "Ranjani Murali"
-type: post
+month: 2016/12
+title: On Lighting Up
 date: 2016-12-10T14:54:35+00:00
-year: "2016"
-month: "2016/12"
-slug: '?p=520'
+draft: true
+author: Ranjani Murali
 category: fiction
 issue: 19
-
+summary: "There are two ways to understand a land. Well, three actually, but
+  we'll stick with two. (1) We can pore over thick fat tomes of sociological
+  data and hermeneutical analyses and  newspaper accounts and then see what
+  sense our dreaming minds make of all that indigestible mess. Or, (2) we can
+  read stories such as this one, which talks about what it is to love and lust
+  in red earth and pouring rain. Naturally, we recommend the second option.
+  Ergo. "
+slug: ?p=520
+type: post
+year: "2016"
 ---
 That day, we watched Patchaikili Muthucharam, studying the contours of Sarathkumar’s triceps, while he exclaimed all the while _semma body I’m telling you it’s aatukaal soup with extra blood_. I had no frame of reference; the only blood I sought was sparse every month and irrevocably stained the satin underwear I bought at the export store in Pondicherry. When I had gone to buy them, the saleswomen giggled uncontrollably and adjusted their dupattas when I told them to let him into the trial room. After we left, they came to the entrance and followed us with smiling eyes, not knowing how the underwear was going to make it worse—the condoms were giving me yeast infections and making me sore and itchy in public places. But now he nudged me with the popcorn, and I then started thinking back again, this time about all the hotels we’d been to, where our different surnames were obvious enough to indicate we weren’t married and had let them xerox our licenses. And then the time an old drunk man in a striped shirt that reminded me of Ramarajan as the karakataakaran, cycled right into our bumper on the way to Pondy. Someone with a salt-and-pepper beard told us to drive and not stop, else _the crowd would drink our blood_. Perhaps I sensed him panic then, since his eyes were glassy and unsquinting (unlike usually). Now as he memorized the plot of the film, he seemed exactly the opposite—vibrant, squinting, even lifelike.
 
