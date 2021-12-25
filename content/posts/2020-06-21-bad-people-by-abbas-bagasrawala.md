@@ -1,14 +1,16 @@
 ---
-title: 'Bad People'
-author: "Abbas Bagasrawala"
-type: post
+month: 2020/06
+title: Bad People
 date: 2020-06-21T03:04:04+00:00
-year: "2020"
-month: "2020/06"
-slug: '?p=1080'
+draft: true
+author: Abbas Bagasrawala
 category: fiction
 issue: 46
-
+summary: "In Abbas Bagasrawala's darkly comic story, a Hindu invites a Muslim
+  friend over to his house for dinner. What could possibly go wrong? "
+slug: ?p=1080
+type: post
+year: "2020"
 ---
 ‘So have you ever walked in on your mother touching herself’?
 
