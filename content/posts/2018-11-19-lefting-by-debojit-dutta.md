@@ -12,7 +12,7 @@ summary: >-
   whatever is as old. A statue with arthritis.”
 
 
-  Arthritis of the flesh has its treatments. But what do we do when the mind stiffens, bends in painful orientations, is unable to flex towards those acceptances that make life bearable? Faced with such a mind, what is a psychologist to do?
+  Arthritis of the flesh has its treatments. But what do we do when the mind stiffens, bends in painful orientations, is unable to flex towards those acceptances that make mortality bearable? Faced with such a mind, what is a psychologist to do?
 slug: ?p=788
 type: post
 year: "2018"
