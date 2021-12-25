@@ -1,14 +1,15 @@
 ---
-title: 'Waiting Room'
-author: "Angana Sinha Ray"
-type: post
+month: 2020/01
+title: Waiting Room
 date: 2020-01-12T04:23:35+00:00
-year: "2020"
-month: "2020/01"
-slug: '?p=963'
+draft: true
+author: Angana Sinha Ray
 category: fiction
 issue: 42
-
+summary: TBD
+slug: ?p=963
+type: post
+year: "2020"
 ---
 ‘Do not be afraid of making mistakes on paper.’
 
@@ -54,11 +55,11 @@ So I’ll do as distressed lovers do, I’ll only write to you, and I’ll wait.
 
 The receptionist on the second floor is in a frenzy updating Excel sheets. It’s 11pm, one by one, doctors trickle in for the night shift. They instruct her like people teaming in for a house gathering, tossing their jackets on a coat-hanger:
 
-_Tell Dr. Khanna to speak to me about Room 208_
+*Tell Dr. Khanna to speak to me about Room 208*
 
-_Check up when Desai ji’s MRI is out._
+*Check up when Desai ji’s MRI is out.*
 
-_If Simon asks for me, tell him I’ll be upstairs and not in my cabin. We are discharging that young boy, oof I can’t recollect his name…_
+*If Simon asks for me, tell him I’ll be upstairs and not in my cabin. We are discharging that young boy, oof I can’t recollect his name…*
 
 “Rishav” Rashikha smiles, looking up from her computer, her wiry shoulders swallowed behind the mammoth screen.
 
@@ -130,7 +131,7 @@ Anoop is gripping onto Maya aunty’s hand, clammy with exhaustion from the pred
 
 “It’s not about you.”
 
-Her son is just sixteen and if it were home, she’d have slapped him across the cheek. Her hands are itching to. A wave of remorse sweeps her, she’s mad at the world and everything it has sponged out of her. She had hoped life would be like a fixed deposit, miniscule bursts of joy for against a mortgage of suffering. But the suffering never ends.
+Her son is just sixteen and if it were home, she’d have slapped him across the cheek. Her hands are itching to. A wave of remorse sweeps her, she’s mad at the world and everything it has sponged out of her. She had hoped life would be like a fixed deposit, miniscule bursts of joy against a mortgage of suffering. But the suffering never ends.
 
 In her heart, she knows Anoop is right. But she has no clue what to do with that piece of information. She can’t tell how much time has passed after her husband left even though she’s felt the long intermissions between two minutes, allowed seconds to prick her back, and felt a fool about the days he went missing. She wonders where the years have gone by. Her daughter found a lover when the house was falling apart, and her son’s learnt to correct her without her consent.
 
@@ -252,4 +253,4 @@ By this time, it’s nothing Shibani hasn’t pieced together. She’s lost trac
 
 “You stayed. And she got tired of waiting alone.”
 
-\***
+\*\**
