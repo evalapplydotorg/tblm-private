@@ -9,7 +9,7 @@ issue: 33
 summary: "Double-crossing spies. London pubs. Degenerate blackmailers. Hollywood
   movies. Degenerate Nazis. Commies. And a mistress who is willing to kill to
   keep a secret a secret. Jenean McBrearty's story is a card-carrying member of
-  the thriller genre.   "
+  the thriller genre.    "
 slug: ?p=794
 type: post
 year: "2018"
