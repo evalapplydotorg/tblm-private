@@ -1,19 +1,24 @@
 ---
-title: 'Amy and the Question of Before'
-author: "Mohit Parikh"
-type: post
+month: 2013/07
+title: Amy and the Question of Before
 date: 2013-07-10T19:03:38+00:00
-year: "2013"
-month: "2013/07"
-slug: '?p=28'
+draft: true
+author: Mohit Parikh
 category: fiction
-issue: 2
+summary: "John Donne was on (to) something when he grokked that no man is an
+  island entire of itself; every man is a piece of the continent, et cetera et
+  cetera. The horny hero of this story has a different problem: how do you get
+  laid if, basically, everything is, like, the Brahman? Deep, man, deeeeep.
+  Don't hog the joint, brah. "
+slug: ?p=28
 tags:
   - College
   - Mohit
   - Mohit Parikh
   - Parikh
-
+issue: 2
+type: post
+year: "2013"
 ---
 _What do you do before you do?  
 _  
