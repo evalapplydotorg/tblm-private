@@ -7,7 +7,7 @@ author: Gaurav Deka
 category: fiction
 issue: 7
 summary: Sometimes the most significant changes in one's life comes packaged in
-  the tiniest of instance. As in the case of the hero of this story...
+  the tiniest of instants. As in the case of the hero of this story...
 slug: ?p=208
 type: post
 year: "2014"
