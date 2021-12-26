@@ -1,14 +1,18 @@
 ---
-title: 'Gasoline'
-author: "Jen Knox"
-type: post
+month: 2013/09
+title: Gasoline
 date: 2013-09-14T05:54:04+00:00
-year: "2013"
-month: "2013/09"
-slug: '?p=87'
+draft: true
+author: Jen Knox
 category: fiction
 issue: 3
-
+summary: "A gum-shoe takes on a domestic case. Trouble is:  \"...The domestic
+  cases always got messy. The client would think you didn’t do your job if you
+  didn’t catch the target doing wrong, but the same client would hate you by
+  proxy if you did.\"  It doesn't help the gum-shoe has just been cuckolded. "
+slug: ?p=87
+type: post
+year: "2013"
 ---
 My TV, computer and spare cash left with Laura. She’d visited her favorite shoe store with my Visa and used the back of the receipt to write a Dear Jude note. Her handwriting was precise. It explained that she would be moving to Arkansas to live with Gustav, some guy she met online, and would never be back. Looking at the receipt, I wondered if the two of them planned to open a store with all the shoes six-hundred dollars had bought.
 
