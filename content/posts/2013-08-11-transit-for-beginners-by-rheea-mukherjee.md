@@ -6,8 +6,8 @@ draft: true
 author: Rheea Mukherjee
 category: fiction
 summary: "Perhaps one characteristic of modern life is that the best friend
-  we'll ever have-- the kind who accept us unconditionally and listen, just
-  listen--- is a stranger we met at the cavernous train station, the
+  we'll ever have-- the kind who accept us unconditionally and listens, just
+  listens--- is a stranger we met at the cavernous train station, the
   tourist-trap ferry, the no-particular-place place, while waiting, as always,
   to go on to more important things. Rheea Mukherjee's story considers this
   thesis. "
