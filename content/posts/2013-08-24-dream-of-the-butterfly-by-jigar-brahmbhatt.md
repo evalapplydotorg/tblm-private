@@ -1,18 +1,27 @@
 ---
-title: 'Dream of the Butterfly'
-author: "Jigar Brahmbhatt"
-type: post
+month: 2013/08
+title: Dream of the Butterfly
 date: 2013-08-24T10:39:43+00:00
-year: "2013"
-month: "2013/08"
-slug: '?p=78'
+draft: true
+author: Jigar Brahmbhatt
 category: fiction
-issue: 2
+summary: "When Albert Einstein's best friend Michele Besso died, he wrote a
+  letter to his Besso's sister: \"...Michele has left this strange world a
+  little before me. This means nothing. People like us, who believe in physics,
+  know that the distinction made between past, present and future is nothing
+  more than a persistent, stubborn illusion...\" Yes, yes, quite moving, but
+  frankly, isn't it also rather horrifying? Time, as storytellers know, is how
+  you keep everything from happening all at once! And if time doesn't exist,
+  sooner or later, one is going to end up in the situation the dreaming
+  butterfly in this story finds itself in...."
+slug: ?p=78
 tags:
   - Brahmbhatt
   - Jigar
   - Jigar Brahmbhatt
-
+issue: 2
+type: post
+year: "2013"
 ---
 _I am writing this. I want to keep writing something. I had started with something, thought of reaching somewhere. The tea is over, and it has managed to leave behind its stench in my breath. Cold is getting worse as evening is approaching…_
 
