@@ -6,11 +6,12 @@ draft: true
 author: Dimitri Keramitas
 category: fiction
 issue: 11
-summary: "There is a lot of sentimental rambling by well-off writers about the
-  life of the flaneur. it is a very different story for those who actually have
-  to endure a life of constant wandering and the uncertainty of where the next
-  meal or roof over one's head will come from.   Dimitri Keramitas's story is
-  reminiscent of Knut Hamsun's \"Hunger\", and rings just as true.  "
+summary: There is a lot of sentimental rambling by well-off bourgeois writers
+  about the satisfactions of the life of the flaneur. it is a very different
+  story for those who actually have to endure a life of constant wandering and
+  the uncertainty of where the next meal or roof over one's head will come
+  from.   Dimitri Keramitas's story is reminiscent of Knut Hamsun's "Hunger",
+  and rings just as true....
 slug: ?p=275
 type: post
 year: "2015"
