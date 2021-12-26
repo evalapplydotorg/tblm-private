@@ -1,14 +1,19 @@
 ---
-title: 'Jeena'
-author: "Madiha Khan"
-type: post
+month: 2015/07
+title: Jeena
 date: 2015-07-10T06:25:13+00:00
-year: "2015"
-month: "2015/07"
-slug: '?p=338'
+draft: true
+author: Madiha Khan
 category: fiction
 issue: 14
-
+summary: The thing about language is that it never truly abandons us. This most
+  faithful of canines lends voice for the troubled narrator of Madiha Khan's
+  story, howling her pain, her estrangement in a strange land, her growing
+  dissociation from reality, her love for her mother, and her personal quest for
+  jeena....
+slug: ?p=338
+type: post
+year: "2015"
 ---
 Girl came to me in a dream and a ugly mark on her chest made me weep with beauty and look at this you see there are ways in the world where brownness of skin makes a boy (ahmed) weep because he is afraid of acknowledging his own brownness even though he listens to wiz khalifa he stands alone in the kitchen at 655pm on Wednesday evening and makes fragrant thick haleem and I think of my mom wrinkling her forehead and worrying about me and then I weep and you see how weeping becomes a circle when you weep far enough?
 
