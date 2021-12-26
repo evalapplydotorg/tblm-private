@@ -8,11 +8,12 @@ category: fiction
 issue: 14
 summary: "While it is probably true that the best educations are to be had in
   places like Oxford, MIT, Sorbonne and Caltech, the bravest educators aren't to
-  be found there. Such places have no need for courage. The bravest educators---
-  the ones who valorize excellence, the validity of non-utilitarian learning,
-  and the value of being different--- are to be found in places like Jhaunpur,
-  Kaabong,  Nuwakot, Charsaddah, and Huanchaco.  Bindu Didimoni, headmistress at
-  Kanaklata Memorial Girls High School,  is one such educator.... "
+  be found there. After all, such exalted institutions have no need for courage.
+  No, the bravest educators are to be found in places like Jhaunpur,
+  Kaabong,  Nuwakot, Charsaddah, and Huanchaco where education for education's
+  sake is mostly viewed as a foolishness and a pretentious luxury.  Bindu
+  Didimoni, headmistress at Kanaklata Memorial Girls High School,  is one such
+  brave educator.... "
 slug: ?p=342
 type: post
 year: "2015"
