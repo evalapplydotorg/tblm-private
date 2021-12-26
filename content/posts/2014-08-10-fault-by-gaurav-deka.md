@@ -1,14 +1,16 @@
 ---
-title: 'Fault'
-author: "Gaurav Deka"
-type: post
+month: 2014/08
+title: Fault
 date: 2014-08-10T12:43:26+00:00
-year: "2014"
-month: "2014/08"
-slug: '?p=208'
+draft: true
+author: Gaurav Deka
 category: fiction
 issue: 7
-
+summary: Sometimes the most significant changes in one's life comes packaged in
+  the tiniest of instants. As in the case of the hero of this story...
+slug: ?p=208
+type: post
+year: "2014"
 ---
 During the days we met, the rains were light. The mushrooms behind the house had weeded brown and you had said how sitting by them I looked like the boy who came out of water in a certain book you had read recently. On Fridays, you came early with a polythene packet knit gently around your wrist, dangling.
 
