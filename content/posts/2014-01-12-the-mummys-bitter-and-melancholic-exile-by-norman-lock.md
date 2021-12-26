@@ -8,7 +8,7 @@ category: fiction
 summary: 'The ancient Indian aestheticians identified nine basis emotional
   essences or "rasas" the inform and imbue the artistic experience. Two of
   these, karuna, (loosely, "compassion"), and adbhut ("wonder") form the warp
-  and woof of this tale of loss and love.   '
+  and weft of this tale of loss and love.   '
 slug: ?p=129
 tags:
   - 30s
