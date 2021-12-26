@@ -6,7 +6,7 @@ draft: true
 author: Prashila Naik
 category: fiction
 issue: 8
-summary: This story starts off as a starightforward account of the perfectly
+summary: This story starts off as a straightforward account of the perfectly
   normal desire to hump one's cousin. But then it takes an unexpected turn....
 slug: ?p=221
 type: post
