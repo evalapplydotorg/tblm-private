@@ -1,14 +1,22 @@
 ---
-title: 'No Town for Love'
-author: "Neera Kashyap"
-type: post
+month: 2015/01
+title: No Town for Love
 date: 2015-01-30T19:15:05+00:00
-year: "2015"
-month: "2015/01"
-slug: '?p=252'
+draft: true
+author: Neera Kashyap
 category: fiction
 issue: 9
-
+summary: According to popular stereotype, Uttar Pradesh is where progress goes
+  to die. Usually trailing in almost all statistics except population growth, UP
+  has come to be associated with katta culture, crushing caste oppression,
+  poverty and violence against women. But there is also a different Uttar
+  Pradesh; a place where millions of hard-working people strive with energy and
+  passion to better themselves and the world around them. Neera Kashyap's story,
+  so filled with Chekovian detail as to make it almost factual, indicates why
+  the skeptics will be proved wrong....
+slug: ?p=252
+type: post
+year: "2015"
 ---
 While a smooth curving flyover on the national highway cleanly bypassed the town of Moradabad, if one had to go there, it had to be with purpose. The unending markets on either side of the congested roads screamed with the clamor of commerce. Motor workshops jostled easily with shops processing grain and pulses, gur and khandsari . Ancient eateries frying jalebis and kachauris vied to generate more heat and smell than the myriad brass metal units outflanking them. If one managed to reach some crossroad at some juncture of this endless commerce, the policeman could, with a whimsical flick of his hand, as easily send you to Bareilly as he could to Rudrapur.
 
