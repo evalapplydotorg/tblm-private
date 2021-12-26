@@ -1,14 +1,19 @@
 ---
-title: 'Exile'
-author: "Gabriel Valjan"
-type: post
+month: 2013/09
+title: Exile
 date: 2013-09-14T05:59:23+00:00
-year: "2013"
-month: "2013/09"
-slug: '?p=93'
+draft: true
+author: Gabriel Valjan
 category: fiction
 issue: 3
-
+summary: There are many theories of the exile, usually by exiles. Christine
+  Brooke-Rose said that exiles are people who aren't somewhere else. Marcel
+  Proust pointed out that nothing seals one off from the mass of humanity like
+  the practice of a secret vice. Calvino felt he was most at home where he was
+  welcome as a foreigner.  Then we have Gabriel Valjan's theory. Enjoy!
+slug: ?p=93
+type: post
+year: "2013"
 ---
 _Exile was first published in Issue 17 of _>kill author_._
 
