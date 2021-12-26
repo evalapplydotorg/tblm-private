@@ -1,14 +1,19 @@
 ---
-title: 'The Art of Flight'
-author: "Dimitri Keramitas"
-type: post
+month: 2015/02
+title: The Art of Flight
 date: 2015-02-26T15:03:14+00:00
-year: "2015"
-month: "2015/02"
-slug: '?p=275'
+draft: true
+author: Dimitri Keramitas
 category: fiction
 issue: 11
-
+summary: "There is a lot of sentimental rambling by well-off writers about the
+  life of the flaneur. it is a very different story for those who actually have
+  to endure a life of constant wandering and the uncertainty of where the next
+  meal or roof over one's head will come from.   Dimitri Keramitas's story is
+  reminiscent of Knut Hamsun's \"Hunger\", and rings just as true.  "
+slug: ?p=275
+type: post
+year: "2015"
 ---
 It came down to a slip of paper, an official form: A-354. If André had been a _clochard_, a homeless bum, it wouldn’t have mattered. Paris’ so-called free spirits, as liberated as any dog (except those they leash around), were notorious for not caring for regulation. Freezing on a slab of sidewalk in winter they’d accept a cup of soup but nothing that entailed the dreaded red tape. André wasn’t a clochard, just down at the heels, down on his luck, down but not out.
 
