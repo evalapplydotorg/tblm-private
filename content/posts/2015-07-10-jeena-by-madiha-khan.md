@@ -7,7 +7,7 @@ author: Madiha Khan
 category: fiction
 issue: 14
 summary: The thing about language is that it never truly abandons us. This most
-  faithful of canines keep vigil for the troubled narrator of Madiha Khan's
+  faithful of canines lends voice for the troubled narrator of Madiha Khan's
   story, howling her pain, her estrangement in a strange land, her growing
   dissociation from reality, her love for her mother, and her personal quest for
   jeena....
