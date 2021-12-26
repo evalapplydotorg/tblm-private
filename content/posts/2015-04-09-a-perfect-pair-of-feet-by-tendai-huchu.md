@@ -8,7 +8,7 @@ category: fiction
 issue: 12
 summary: "Perhaps the true love stories are the ones that start after ruin and
   devastation strike a relationship. In Tendai Huchu's story, a British woman
-  copes with mis-recognition after her veteran's return.... "
+  copes with mis-recognition after her disabled veteran's return.... "
 slug: ?p=288
 type: post
 year: "2015"
