@@ -6,7 +6,8 @@ draft: true
 author: Alex Miller
 category: fiction
 summary: "As this story shows, those who go around shrieking that THERE IS NO
-  SUCH THING AS A FREE LUNCH, have never sat, alone, by the side of a river. "
+  SUCH THING AS A FREE LUNCH, obviously have never sat, alone, by the side of a
+  river. "
 slug: ?p=20
 tags:
   - Alex
