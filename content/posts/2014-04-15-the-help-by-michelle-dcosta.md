@@ -1,13 +1,16 @@
 ---
-title: 'The Help'
-author: "Michelle D’Costa"
-type: post
+month: 2014/04
+title: The Help
 date: 2014-04-15T14:40:55+00:00
-year: "2014"
-month: "2014/04"
-slug: '?p=166'
+draft: true
+author: Michelle D’Costa
 category: fiction
-
+issue: 5
+summary: "We often hear of the male gaze. The male silence is a different kind
+  of inspection. "
+slug: ?p=166
+type: post
+year: "2014"
 ---
 She aroused interest in Bradley like a sealed envelope could do.
 
