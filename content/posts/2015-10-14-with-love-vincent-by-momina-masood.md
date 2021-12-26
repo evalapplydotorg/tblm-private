@@ -7,7 +7,7 @@ author: Momina Masood
 category: fiction
 issue: 15
 summary: As the author says, this story is a "reimagining of a day in the life
-  of Vincent van Gogh"
+  of Vincent van Gogh"...
 slug: ?p=381
 type: post
 year: "2015"
