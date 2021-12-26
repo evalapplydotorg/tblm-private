@@ -1,20 +1,23 @@
 ---
-title: 'This Place can be Beautiful Again'
-author: "Alex Miller"
-type: post
+month: 2013/06
+title: This Place can be Beautiful Again
 date: 2013-06-23T09:53:32+00:00
-year: "2013"
-month: "2013/06"
-slug: '?p=20'
+draft: true
+author: Alex Miller
 category: fiction
-issue: 1
+summary: "As this story shows, those who go around shrieking that THERE IS NO
+  SUCH THING AS A FREE LUNCH, obviously have never sat, alone, by the side of a
+  river. "
+slug: ?p=20
 tags:
   - Alex
   - Alex Miller
   - Miller
   - Teenage
   - Teenagers
-
+issue: 1
+type: post
+year: "2013"
 ---
 I sat by the river, on a damp log half-buried in mud, and watched how the yellow finger of water wound its way through the city, past gutters and factories and underneath bridges, and it smelled like the worst thing in the world. Whenever I read a poem or whatever about rivers, it’s always about the beauty and majesty of nature. I bet those writers never saw a river like this one. It smelled septic, pestilent, like the effluent from a diseased man’s toilet.
 
