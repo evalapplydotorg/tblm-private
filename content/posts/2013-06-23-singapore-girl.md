@@ -1,20 +1,22 @@
 ---
-title: 'Singapore Girl'
-author: "Nabina Das"
-type: post
+month: 2013/06
+title: Singapore Girl
 date: 2013-06-23T09:52:07+00:00
-year: "2013"
-month: "2013/06"
-slug: '?p=18'
+draft: true
+author: Nabina Das
 category: fiction
-issue: 1
+summary: "One has to admit there is something...spectral...about wearing a dead
+  woman's clothes.  "
+slug: ?p=18
 tags:
   - Das
   - Delhi
   - Nabina
   - Nabina Das
   - New Delhi
-
+issue: 1
+type: post
+year: "2013"
 ---
 (From Nabina Das’ soon-to-come short story collection “The House of Twining Roses – Stories of the Mapped and the Unmapped”, LiFi Publications)
 
