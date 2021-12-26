@@ -6,7 +6,7 @@ draft: true
 author: Dion D’Souza
 category: fiction
 issue: 5
-summary: You are never alone in a labyrinth if you are accompanied by your delusions.
+summary: You are never alone in a labyrinth if you are accompanied by your delusions....
 slug: ?p=174
 type: post
 year: "2014"
