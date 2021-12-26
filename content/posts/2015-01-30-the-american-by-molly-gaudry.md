@@ -1,14 +1,16 @@
 ---
-title: 'The American'
-author: "Molly Gaudry"
-type: post
+month: 2015/01
+title: The American
 date: 2015-01-30T19:21:50+00:00
-year: "2015"
-month: "2015/01"
-slug: '?p=254'
+draft: true
+author: Molly Gaudry
 category: fiction
 issue: 9
-
+summary: The story was first published in UpRightDown; also anthologized in Best
+  of the Web 2009, edited by Lee K. Abbott
+slug: ?p=254
+type: post
+year: "2015"
 ---
 _The story was first published in UpRightDown; also anthologized in Best of the Web 2009, edited by Lee K. Abbott  
 _  
