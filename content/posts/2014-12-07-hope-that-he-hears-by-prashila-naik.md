@@ -1,14 +1,16 @@
 ---
-title: 'Hope That He Hears'
-author: "Prashila Naik"
-type: post
+month: 2014/12
+title: Hope That He Hears
 date: 2014-12-07T16:39:01+00:00
-year: "2014"
-month: "2014/12"
-slug: '?p=221'
+draft: true
+author: Prashila Naik
 category: fiction
 issue: 8
-
+summary: This story starts off as a straightforward account of the perfectly
+  normal desire to hump one's cousin. But then it takes an unexpected turn....
+slug: ?p=221
+type: post
+year: "2014"
 ---
 You are secretly in love with your cousin. Every vacation, in your grandmother&#8217;s house, you watch him grow a few more inches, and of late display a few more sprouts of hair. You marvel at how his voice is better than that of any boy you have heard. You also marvel at how he can sing English songs you have never heard before. Every time he touches your palm, in an attempt to teach you the right way to strike on the carrom board, you struggle to control your smile, and struggle to control the spreading of a warm, fuzzy feeling that honestly leaves you baffled.
 
