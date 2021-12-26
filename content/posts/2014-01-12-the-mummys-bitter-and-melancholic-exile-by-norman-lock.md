@@ -1,13 +1,15 @@
 ---
-title: 'The Mummy’s Bitter And Melancholy Exile'
-author: "Norman Lock"
-type: post
+month: 2014/01
+title: The Mummy’s Bitter And Melancholy Exile
 date: 2014-01-12T07:29:41+00:00
-year: "2014"
-month: "2014/01"
-slug: '?p=129'
+draft: true
+author: Norman Lock
 category: fiction
-issue: 4
+summary: 'The ancient Indian aestheticians identified nine basis emotional
+  essences or "rasas" the inform and imbue the artistic experience. Two of
+  these, karuna, (loosely, "compassion"), and adbhut ("wonder") form the warp
+  and woof of this tale of loss and love.   '
+slug: ?p=129
 tags:
   - 30s
   - Lock
@@ -17,7 +19,9 @@ tags:
   - Norman Lock
   - US
   - USA
-
+issue: 4
+type: post
+year: "2014"
 ---
 _The story was first published in _Cranky Literary Journal_, and subsequently appeared in Lock&#8217;s newest short story collection, _Love Among the Particles_, published in May, 2013, by Bellevue Literary Press, New York City.  
 _ 
