@@ -6,8 +6,8 @@ draft: true
 author: Michelle D’Costa
 category: fiction
 issue: 5
-summary: "We often hear of the male gaze. The male silence is a different kind
-  of inspection. "
+summary: "We often hear of the male gaze. The male silence, however, is a
+  different kind of inspection. "
 slug: ?p=166
 type: post
 year: "2014"
