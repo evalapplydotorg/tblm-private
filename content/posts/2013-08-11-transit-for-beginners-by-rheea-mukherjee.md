@@ -1,19 +1,25 @@
 ---
-title: 'Transit for Beginners'
-author: "Rheea Mukherjee"
-type: post
+month: 2013/08
+title: Transit for Beginners
 date: 2013-08-11T10:15:41+00:00
-year: "2013"
-month: "2013/08"
-slug: '?p=63'
+draft: true
+author: Rheea Mukherjee
 category: fiction
-issue: 2
+summary: "Perhaps one characteristic of modern life is that the best friend
+  we'll ever have-- the kind who accept us unconditionally and is genuinely
+  curious, and listens, just listens--- is a stranger we met at the cavernous
+  train station, the tourist-trap ferry, the no-particular-place place, while
+  waiting, as always, to go on to more important things. Rheea Mukherjee's story
+  considers this thesis. "
+slug: ?p=63
 tags:
   - Mukherjee
   - Rheea
   - Rheea Mukherjee
   - Singapore
-
+issue: 2
+type: post
+year: "2013"
 ---
 I met him at Changi airport. After a seven hour flight from Tokyo, preceded by an eleven hour flight to Tokyo. My breath was stale and my deodorant had long since given up. Changi was a festival, packed with dazzling places to shop at and strange luxurious things to do. Showers with towel service, a spa, a movie theater, a twenty-four hour gym, and even a swimming pool in case the urge to swim struck while you were in between flights. Most importantly, Changi airport served to buffer me for the radical change of Delhi’s climate, the throngs of people and pollution.
 
