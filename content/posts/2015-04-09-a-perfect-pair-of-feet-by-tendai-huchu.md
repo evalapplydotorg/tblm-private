@@ -1,14 +1,17 @@
 ---
-title: 'A Perfect Pair of Feet'
-author: "Tendai Huchu"
-type: post
+month: 2015/04
+title: A Perfect Pair of Feet
 date: 2015-04-09T01:58:10+00:00
-year: "2015"
-month: "2015/04"
-slug: '?p=288'
+draft: true
+author: Tendai Huchu
 category: fiction
 issue: 12
-
+summary: "Perhaps the true love stories are the ones that start after ruin and
+  devastation strike a relationship. In Tendai Huchu's story, a British woman
+  copes with mis-recognition after her veteran's return.... "
+slug: ?p=288
+type: post
+year: "2015"
 ---
 I watched Murenga sleep wearing a slight frown on his face, both hands tightly gripping the duvet, half of which lay on the floor on his side. He was a furnace and, even with the thermostat turned down, I felt the heat radiating from his sweat-soaked side of the bed. His legs were restless, twitching and kicking as though he was fleeing some horrible monster in his dreams. I couldn’t sleep, but I preferred this—me watching over him than him watching over me. A few weeks ago I’d woken up in the dark and felt his bright eyes boring through me, trying to see through to the very depths of my soul. And when I asked if he couldn’t sleep, he mumbled something about being ever vigilant because the enemy can come at any time, then he turned away from me and returned to his brooding.
 
