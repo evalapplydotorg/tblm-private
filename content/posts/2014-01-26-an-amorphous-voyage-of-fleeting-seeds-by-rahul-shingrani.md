@@ -1,14 +1,17 @@
 ---
-title: 'An Amorphous Voyage of Fleeting Seeds'
-author: "Rahul Shingrani"
-type: post
+month: 2014/01
+title: An Amorphous Voyage of Fleeting Seeds
 date: 2014-01-26T12:53:30+00:00
-year: "2014"
-month: "2014/01"
-slug: '?p=152'
+draft: true
+author: Rahul Shingrani
 category: fiction
 issue: 4
-
+summary: An unexpected side-effect of space travel, it seems, is the evolution
+  of consciousness. We know this because it has happened, at least once, on a
+  spaceship called Earth. Why not a second time?
+slug: ?p=152
+type: post
+year: "2014"
 ---
 Life came to us at that cusp of infinite void, the edge of the sun’s reach. It was a sudden awakening, though awakening might mean that we had been sleeping, been alive. We were never alive, both Kreetin and I.
 
