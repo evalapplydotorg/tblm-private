@@ -1,14 +1,20 @@
 ---
-title: 'Preexisting Conditions'
-author: "Richard Larson"
-type: post
+month: 2013/10
+title: Preexisting Conditions
 date: 2013-10-07T16:50:55+00:00
-year: "2013"
-month: "2013/10"
-slug: '?p=110'
+draft: true
+author: Richard Larson
 category: fiction
 issue: 3
-
+summary: "Crime fiction is one of the last holdouts where ethics and morality
+  still matter. The replacement of the sweaty Hand of God with an existential
+  stance does not do away with moral issues. Indeed, it makes such issues all
+  the more pressing. In this story, there are two violent acts and a murder, but
+  strangely, one is left with the question whether any crime has been committed
+  at all. "
+slug: ?p=110
+type: post
+year: "2013"
 ---
 “Are you ready to go?” Kristine asks, unballing a pair of her pantyhose. Jack shakes his dreadlocked head and scrabbles around in the ashtray. He comes up with a nug of weed between his fingers. He carries it like a saint’s toenail over to the table, to the improvised bong. Last night, after they fought, he sawed off a pop bottle and smoked too much.
 
