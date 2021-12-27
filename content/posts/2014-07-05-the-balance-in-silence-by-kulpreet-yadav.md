@@ -1,14 +1,15 @@
 ---
-title: 'The Balance in Silence'
-author: "Kulpreet Yadav"
-type: post
+month: 2014/07
+title: The Balance in Silence
 date: 2014-07-05T04:25:18+00:00
-year: "2014"
-month: "2014/07"
-slug: '?p=189'
+draft: true
+author: Kulpreet Yadav
 category: fiction
 issue: 6
-
+summary: "A cuckold contemplates the horns of his dilemma. "
+slug: ?p=189
+type: post
+year: "2014"
 ---
 I watch the tide of a new morning in the pallor of the curtains against the pane of the bedroom window. Except for the birds on the mango tree outside and an occasional vehicle that honks on the stray dogs, there is no sound.
 
